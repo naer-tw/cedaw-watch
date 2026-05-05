@@ -1,0 +1,632 @@
+[
+  {
+    "stakeholder_id": "SH-AABE",
+    "name_zh": "國教行動聯盟",
+    "name_en": "AABE",
+    "type": "NGO_local",
+    "position_axis4": "against_expand",
+    "affiliation": null,
+    "url": null,
+    "notes": "性平教育課綱關注,健康教育主軸"
+  },
+  {
+    "stakeholder_id": "SH-AcademiaHist",
+    "name_zh": "中研院近史所",
+    "name_en": "Academia Sinica Modern History Institute",
+    "type": "academic",
+    "position_axis4": "neutral",
+    "affiliation": "中研院",
+    "url": "",
+    "notes": "台灣婦運史 / 慰安婦研究"
+  },
+  {
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "name_zh": "婦女新知基金會",
+    "name_en": "Awakening Foundation",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "台灣婦女團體聯盟",
+    "url": "https://www.awakening.org.tw/",
+    "notes": "創立 1982,台灣最早婦運團體之一;近 10 年將 CEDAW 詮釋擴張至多元性別議題"
+  },
+  {
+    "stakeholder_id": "SH-CEDAWCommittee",
+    "name_zh": "UN CEDAW 委員會",
+    "name_en": "UN CEDAW Committee",
+    "type": "int_committee",
+    "position_axis4": "unclear",
+    "affiliation": null,
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw",
+    "notes": "對台灣 4 次審查 CO 之擴張立場呈非線性,2018/2022 反向縮減 SOGIESC"
+  },
+  {
+    "stakeholder_id": "SH-CIP",
+    "name_zh": "原住民族委員會",
+    "name_en": "Council of Indigenous Peoples",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": "行政院",
+    "url": "https://www.cip.gov.tw/",
+    "notes": "原住民婦女(對應 PI-15)"
+  },
+  {
+    "stakeholder_id": "SH-CNA-Gender",
+    "name_zh": "中央社性別議題小組",
+    "name_en": "CNA Gender Desk",
+    "type": "media",
+    "position_axis4": "unclear",
+    "affiliation": "中央通訊社",
+    "url": "",
+    "notes": "官方媒體,持平報導為主"
+  },
+  {
+    "stakeholder_id": "SH-CitizenAlliance",
+    "name_zh": "幸福家庭聯盟",
+    "name_en": "Happy Family Alliance",
+    "type": "NGO_local",
+    "position_axis4": "against_expand",
+    "affiliation": "",
+    "url": "",
+    "notes": "2013 公投發起單位之一,反性別擴張"
+  },
+  {
+    "stakeholder_id": "SH-CovenantsWatch",
+    "name_zh": "人權公約施行監督聯盟 (Covenants Watch)",
+    "name_en": "Covenants Watch",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "",
+    "url": "https://covenants-watch.tw/",
+    "notes": "兩公約 / CEDAW / CRC / CRPD 平行報告整合,集合 50+ NGO"
+  },
+  {
+    "stakeholder_id": "SH-DGBAS",
+    "name_zh": "行政院主計總處",
+    "name_en": "Directorate-General of Budget, Accounting and Statistics",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": "行政院",
+    "url": "https://www.dgbas.gov.tw/",
+    "notes": "人口普查、性別統計總覽"
+  },
+  {
+    "stakeholder_id": "SH-FamilyAlliance",
+    "name_zh": "全民護家盟",
+    "name_en": "Coalition for the Happiness of Families",
+    "type": "NGO_local",
+    "position_axis4": "against_expand",
+    "affiliation": null,
+    "url": null,
+    "notes": "反同婚陣營,2013 起活躍"
+  },
+  {
+    "stakeholder_id": "SH-FamilyValue",
+    "name_zh": "台灣家庭價值聯盟",
+    "name_en": "Taiwan Family Value Coalition",
+    "type": "NGO_local",
+    "position_axis4": "against_expand",
+    "affiliation": "",
+    "url": "",
+    "notes": "反框架擴張,主張婦女實質權利優先"
+  },
+  {
+    "stakeholder_id": "SH-FiLiA-UK",
+    "name_zh": "FiLiA (UK)",
+    "name_en": "FiLiA",
+    "type": "NGO_international",
+    "position_axis4": "against_expand",
+    "affiliation": "",
+    "url": "https://filia.org.uk/",
+    "notes": "英國最大年度婦運大會,反擴張立場"
+  },
+  {
+    "stakeholder_id": "SH-FoCare",
+    "name_zh": "中華民國家庭照顧者關懷總會",
+    "name_en": "Taiwan Association of Family Caregivers",
+    "type": "NGO_local",
+    "position_axis4": "neutral",
+    "affiliation": "",
+    "url": "https://www.familycare.org.tw/",
+    "notes": "家庭照顧者(85% 為女性)權益、長照性別議題"
+  },
+  {
+    "stakeholder_id": "SH-GEC",
+    "name_zh": "行政院性別平等處",
+    "name_en": "Department of Gender Equality, Executive Yuan",
+    "type": "gov_agency",
+    "position_axis4": "expand",
+    "affiliation": "行政院",
+    "url": "https://gec.ey.gov.tw/",
+    "notes": null
+  },
+  {
+    "stakeholder_id": "SH-GHRA",
+    "name_zh": "台灣性別人權協會",
+    "name_en": "Gender/Sexuality Rights Association Taiwan",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "",
+    "url": "https://gsrat.net/",
+    "notes": "SOGIESC 倡議第一線,推動性別認定法、跨性別免術換證"
+  },
+  {
+    "stakeholder_id": "SH-Garden",
+    "name_zh": "勵馨基金會",
+    "name_en": "Garden of Hope",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": null,
+    "url": "https://www.goh.org.tw/",
+    "notes": "婦女反暴力服務,近年漸進整合 SOGIESC"
+  },
+  {
+    "stakeholder_id": "SH-GenderEquity",
+    "name_zh": "台灣性別平權教育協會",
+    "name_en": "Taiwan Gender Equity Education Association",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": null,
+    "url": null,
+    "notes": "性平教育倡議"
+  },
+  {
+    "stakeholder_id": "SH-Homemakers",
+    "name_zh": "主婦聯盟環境保護基金會",
+    "name_en": "Homemakers United Foundation",
+    "type": "NGO_local",
+    "position_axis4": "neutral",
+    "affiliation": "",
+    "url": "https://www.huf.org.tw/",
+    "notes": "主婦消費合作社母會,環境 / 食安 / 性別交織"
+  },
+  {
+    "stakeholder_id": "SH-Hotline",
+    "name_zh": "台灣同志諮詢熱線協會",
+    "name_en": "Taiwan Tongzhi Hotline",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": null,
+    "url": "https://hotline.org.tw/",
+    "notes": "同志議題核心倡議組織"
+  },
+  {
+    "stakeholder_id": "SH-IIS",
+    "name_zh": "中研院社會所性別組",
+    "name_en": "Academia Sinica Sociology – Gender Group",
+    "type": "academic",
+    "position_axis4": "neutral",
+    "affiliation": "中研院",
+    "url": "",
+    "notes": "量化性別研究"
+  },
+  {
+    "stakeholder_id": "SH-IWAW",
+    "name_zh": "International Women's Alliance Watch",
+    "name_en": "IWAW",
+    "type": "NGO_international",
+    "position_axis4": "against_expand",
+    "affiliation": "",
+    "url": "",
+    "notes": "監督國際婦女組織立場光譜"
+  },
+  {
+    "stakeholder_id": "SH-IntersexILGA",
+    "name_zh": "ILGA World 與台灣協作",
+    "name_en": "ILGA World",
+    "type": "NGO_international",
+    "position_axis4": "expand",
+    "affiliation": "ILGA Asia",
+    "url": "https://ilga.org/",
+    "notes": "國際同志聯合會,提交 CEDAW 平行報告"
+  },
+  {
+    "stakeholder_id": "SH-IntersexUnknown",
+    "name_zh": "台灣性別不明關懷協會",
+    "name_en": "Taiwan Intersex Care Association",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "",
+    "url": "https://www.istaiwan.org/",
+    "notes": "雙性人 / DSD 倡議,小兒醫療(對應 PI-26)"
+  },
+  {
+    "stakeholder_id": "SH-Kaohsiung-WS",
+    "name_zh": "高雄醫學大學性別研究所",
+    "name_en": "KMU Institute of Gender Studies",
+    "type": "academic",
+    "position_axis4": "expand",
+    "affiliation": "高雄醫大",
+    "url": "",
+    "notes": "性別與醫療研究領頭"
+  },
+  {
+    "stakeholder_id": "SH-LGB-Alliance",
+    "name_zh": "LGB Alliance (UK)",
+    "name_en": "LGB Alliance",
+    "type": "NGO_international",
+    "position_axis4": "against_expand",
+    "affiliation": "",
+    "url": "https://lgballiance.org.uk/",
+    "notes": "同志運動分裂出的反擴張組織,主張 LGB 不含 T+"
+  },
+  {
+    "stakeholder_id": "SH-LGBTQFamily",
+    "name_zh": "台灣同志家庭權益促進會",
+    "name_en": "LGBTQ Family Taiwan",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": null,
+    "url": "https://www.lgbtfamily.org.tw/",
+    "notes": "同性伴侶生育權倡議"
+  },
+  {
+    "stakeholder_id": "SH-LY-Female-DPP",
+    "name_zh": "民進黨女性立委團",
+    "name_en": "DPP Female Legislators Caucus",
+    "type": "legislator",
+    "position_axis4": "expand",
+    "affiliation": "民進黨",
+    "url": "",
+    "notes": "范雲、林淑芬、陳培瑜等,擴張派婦運親近"
+  },
+  {
+    "stakeholder_id": "SH-LY-Female-KMT",
+    "name_zh": "國民黨女性立委團",
+    "name_en": "KMT Female Legislators Caucus",
+    "type": "legislator",
+    "position_axis4": "unclear",
+    "affiliation": "國民黨",
+    "url": "",
+    "notes": "黃馨瑩、柯志恩等,立場分散"
+  },
+  {
+    "stakeholder_id": "SH-LY-Female-TPP",
+    "name_zh": "台灣民眾黨女性立委團",
+    "name_en": "TPP Female Legislators Caucus",
+    "type": "legislator",
+    "position_axis4": "unclear",
+    "affiliation": "民眾黨",
+    "url": "",
+    "notes": "黃珊珊、麥玉珍等,立場分散"
+  },
+  {
+    "stakeholder_id": "SH-LY-Judiciary",
+    "name_zh": "立法院司法及法制委員會",
+    "name_en": "Legislative Yuan Judiciary & Organic Laws Committee",
+    "type": "legislator",
+    "position_axis4": "unclear",
+    "affiliation": "立法院",
+    "url": "",
+    "notes": "性別認定法、性平三法等審議委員會"
+  },
+  {
+    "stakeholder_id": "SH-LY-Society",
+    "name_zh": "立法院衛環委員會",
+    "name_en": "LY Welfare and Environment Committee",
+    "type": "legislator",
+    "position_axis4": "unclear",
+    "affiliation": "立法院",
+    "url": "",
+    "notes": "家暴法、性侵法、衛福相關性別議題"
+  },
+  {
+    "stakeholder_id": "SH-LesbianFamily",
+    "name_zh": "台灣婦女團體全國聯合會",
+    "name_en": "National Alliance of Taiwan Women's Associations (NATWA)",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "",
+    "url": "http://www.natwa.org.tw/",
+    "notes": "聯盟性婦運組織,接軌國際 NGO Forum"
+  },
+  {
+    "stakeholder_id": "SH-MOE",
+    "name_zh": "教育部",
+    "name_en": "Ministry of Education",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": "行政院",
+    "url": "https://www.edu.tw/",
+    "notes": "性別平等教育法主管、校園性平調查"
+  },
+  {
+    "stakeholder_id": "SH-MOFA",
+    "name_zh": "外交部 NGO 國際事務會",
+    "name_en": "MOFA NGO International Affairs",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": "外交部",
+    "url": "",
+    "notes": "CEDAW 國家報告對外提交、國際委員會聯絡"
+  },
+  {
+    "stakeholder_id": "SH-MOHW-PSD",
+    "name_zh": "衛福部保護服務司",
+    "name_en": "MOHW Dept. of Protective Services",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": null,
+    "url": null,
+    "notes": null
+  },
+  {
+    "stakeholder_id": "SH-MOI",
+    "name_zh": "內政部",
+    "name_en": "Ministry of Interior",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": null,
+    "url": null,
+    "notes": null
+  },
+  {
+    "stakeholder_id": "SH-MOI-Police",
+    "name_zh": "內政部警政署",
+    "name_en": "National Police Agency",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": "內政部",
+    "url": "https://www.npa.gov.tw/",
+    "notes": "家暴 / 性侵第一線執法"
+  },
+  {
+    "stakeholder_id": "SH-MOJ",
+    "name_zh": "法務部",
+    "name_en": "Ministry of Justice",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": "行政院",
+    "url": "https://www.moj.gov.tw/",
+    "notes": "刑法 / 民法主管、性別平等法制"
+  },
+  {
+    "stakeholder_id": "SH-MOL",
+    "name_zh": "勞動部 (MOL)",
+    "name_en": "Ministry of Labor",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": "行政院",
+    "url": "https://www.mol.gov.tw/",
+    "notes": "性別工作平等法主管、GPG 統計、育嬰留停"
+  },
+  {
+    "stakeholder_id": "SH-MOTC-Stats",
+    "name_zh": "內政部戶政司",
+    "name_en": "Department of Household Registration",
+    "type": "gov_agency",
+    "position_axis4": "unclear",
+    "affiliation": "內政部",
+    "url": "",
+    "notes": "生育登記、性別欄、戶口統計"
+  },
+  {
+    "stakeholder_id": "SH-ModernWomen",
+    "name_zh": "現代婦女基金會",
+    "name_en": "Modern Women's Foundation",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "婦女聯合勸募",
+    "url": "https://www.38.org.tw/",
+    "notes": "1987 創,家暴防治先驅,推動家暴法立法。性侵法律扶助、家事法律、保護令服務"
+  },
+  {
+    "stakeholder_id": "SH-MommiesCoalition",
+    "name_zh": "台灣全國媽媽護家護兒聯盟",
+    "name_en": "Taiwan Mommies Family Coalition",
+    "type": "NGO_local",
+    "position_axis4": "against_expand",
+    "affiliation": null,
+    "url": null,
+    "notes": "本平台主辦組織"
+  },
+  {
+    "stakeholder_id": "SH-NHRC",
+    "name_zh": "國家人權委員會",
+    "name_en": "National Human Rights Commission",
+    "type": "gov_agency",
+    "position_axis4": "expand",
+    "affiliation": "監察院",
+    "url": "https://nhrc.cy.gov.tw/",
+    "notes": null
+  },
+  {
+    "stakeholder_id": "SH-NTU-GenderStudy",
+    "name_zh": "台大婦女研究室",
+    "name_en": "NTU Population & Gender Studies Center",
+    "type": "academic",
+    "position_axis4": "expand",
+    "affiliation": "台灣大學",
+    "url": "",
+    "notes": "婦女研究老牌學術中心"
+  },
+  {
+    "stakeholder_id": "SH-NWLeague",
+    "name_zh": "台灣婦女團體全國聯合會 NWL",
+    "name_en": "National Women's League",
+    "type": "NGO_local",
+    "position_axis4": "neutral",
+    "affiliation": "",
+    "url": "",
+    "notes": "婦聯會體系,長期偏弱勢婦女、軍眷"
+  },
+  {
+    "stakeholder_id": "SH-Nikkei-TW",
+    "name_zh": "Nikkei 台灣婦女調查 NHK",
+    "name_en": "Nikkei Asia Taiwan Women",
+    "type": "media",
+    "position_axis4": "neutral",
+    "affiliation": "日經 BP",
+    "url": "",
+    "notes": "國際媒體外部觀察"
+  },
+  {
+    "stakeholder_id": "SH-OHCHR",
+    "name_zh": "OHCHR (UN 人權事務高級專員辦事處)",
+    "name_en": "OHCHR",
+    "type": "int_committee",
+    "position_axis4": "expand",
+    "affiliation": "聯合國",
+    "url": "https://www.ohchr.org/",
+    "notes": "CEDAW / CRPD 委員會秘書處所在"
+  },
+  {
+    "stakeholder_id": "SH-Pengwanru",
+    "name_zh": "彭婉如文教基金會",
+    "name_en": "Peng Wan-Ru Foundation",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "",
+    "url": "https://www.pwr.org.tw/",
+    "notes": "紀念彭婉如(被殺害婦運先驅),推動托育人員、家事服務員培力"
+  },
+  {
+    "stakeholder_id": "SH-ProtectFamily",
+    "name_zh": "下一代幸福聯盟",
+    "name_en": "Coalition for the Happiness of Our Next Generation",
+    "type": "NGO_local",
+    "position_axis4": "against_expand",
+    "affiliation": "",
+    "url": "",
+    "notes": "2018 愛家公投發起,反同志教育納入性平教育"
+  },
+  {
+    "stakeholder_id": "SH-SexMatters",
+    "name_zh": "Sex Matters (UK)",
+    "name_en": "Sex Matters",
+    "type": "NGO_international",
+    "position_axis4": "against_expand",
+    "affiliation": null,
+    "url": "https://sex-matters.org/",
+    "notes": "英國法律政策智庫"
+  },
+  {
+    "stakeholder_id": "SH-SingleParent",
+    "name_zh": "中華單親家庭互助協會",
+    "name_en": "Single Parent Family Mutual Aid Association",
+    "type": "NGO_local",
+    "position_axis4": "neutral",
+    "affiliation": "",
+    "url": "",
+    "notes": "單親媽媽支援、托育、就業"
+  },
+  {
+    "stakeholder_id": "SH-Storm-Gender",
+    "name_zh": "風傳媒性別專欄",
+    "name_en": "Storm Media Gender",
+    "type": "media",
+    "position_axis4": "unclear",
+    "affiliation": "風傳媒",
+    "url": "",
+    "notes": "商業媒體,擴張派與反擴張並存的觀點"
+  },
+  {
+    "stakeholder_id": "SH-TAPCPR",
+    "name_zh": "台灣伴侶權益推動聯盟",
+    "name_en": "TAPCPR",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": null,
+    "url": "https://tapcpr.org/",
+    "notes": "同婚專法主要推動者(2009 起),748 號釋憲幕後"
+  },
+  {
+    "stakeholder_id": "SH-TGEEA",
+    "name_zh": "台灣性別平等教育協會",
+    "name_en": "TGEEA",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": null,
+    "url": "https://www.tgeea.org.tw/",
+    "notes": "性平教育課綱推動,多元性別教學"
+  },
+  {
+    "stakeholder_id": "SH-TWRF",
+    "name_zh": "婦女救援基金會 (TWRF)",
+    "name_en": "Taipei Women's Rescue Foundation",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "婦女聯合勸募",
+    "url": "https://www.twrf.org.tw/",
+    "notes": "1988 創,雛妓救援、慰安婦倡議、人口販運、數位性別暴力 (DSGBV)"
+  },
+  {
+    "stakeholder_id": "SH-TransAdvocacy",
+    "name_zh": "跨性別倡議站",
+    "name_en": "Taiwan Transgender Advocacy Station",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "",
+    "url": "",
+    "notes": "跨性別社群網絡,推動免術換證、性別認定法"
+  },
+  {
+    "stakeholder_id": "SH-TrueLove",
+    "name_zh": "信望愛家庭協會",
+    "name_en": "True Love Family Association",
+    "type": "NGO_local",
+    "position_axis4": "against_expand",
+    "affiliation": null,
+    "url": null,
+    "notes": "宗教家庭價值倡議"
+  },
+  {
+    "stakeholder_id": "SH-UNWomen",
+    "name_zh": "UN Women",
+    "name_en": "UN Women",
+    "type": "int_committee",
+    "position_axis4": "expand",
+    "affiliation": "聯合國",
+    "url": "https://www.unwomen.org/",
+    "notes": "聯合國婦女署,推動 SOGIESC 進入婦女政策"
+  },
+  {
+    "stakeholder_id": "SH-WHRC",
+    "name_zh": "WHRC 婦女人權運動(國際)",
+    "name_en": "Women's Human Rights Campaign",
+    "type": "NGO_international",
+    "position_axis4": "against_expand",
+    "affiliation": null,
+    "url": "https://womensdeclaration.com/",
+    "notes": "全球連署 36,000+ Sex-Based Rights"
+  },
+  {
+    "stakeholder_id": "SH-WHRC-International",
+    "name_zh": "WHRC International Steering Committee",
+    "name_en": "Women's Human Rights Campaign International",
+    "type": "NGO_international",
+    "position_axis4": "against_expand",
+    "affiliation": "",
+    "url": "https://www.womensdeclaration.com/",
+    "notes": "WHRC 全球指導委員會 + 30+ 國家分會"
+  },
+  {
+    "stakeholder_id": "SH-WoLF-US",
+    "name_zh": "WoLF (Women's Liberation Front)",
+    "name_en": "Women's Liberation Front",
+    "type": "NGO_international",
+    "position_axis4": "against_expand",
+    "affiliation": "",
+    "url": "https://www.womensliberationfront.org/",
+    "notes": "美國反擴張婦運,提交聯合國 CEDAW 平行報告"
+  },
+  {
+    "stakeholder_id": "SH-WomenAct",
+    "name_zh": "婦女權益促進發展基金會",
+    "name_en": "Foundation for Women's Rights Promotion and Development",
+    "type": "NGO_local",
+    "position_axis4": "neutral",
+    "affiliation": "行政院性平處委辦",
+    "url": "https://www.iwomenweb.org.tw/",
+    "notes": "CEDAW 國家報告編撰協辦,政府委辦半官方性質"
+  },
+  {
+    "stakeholder_id": "SH-WomenLearn",
+    "name_zh": "台灣女性學學會",
+    "name_en": "Taiwanese Feminist Scholars' Association",
+    "type": "NGO_local",
+    "position_axis4": "expand",
+    "affiliation": "",
+    "url": "https://twfsa.wordpress.com/",
+    "notes": "學術型婦運組織,性別研究學者社群,推動性別主流化"
+  }
+]

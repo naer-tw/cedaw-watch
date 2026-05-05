@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>基層婦女入口 — 婦女權利監督平台</title>
+<meta name="description" content="白話版 18 議題 + 求助專線 + 「我想說」表單 + 快速離開按鈕">
+<style>
+  body { font-family: "Noto Sans TC", -apple-system, sans-serif; background: #FAFAF7; color: #1F1F1F; line-height: 1.7; margin: 0; }
+  .quick-exit { position: fixed; top: 12px; right: 12px; background: #C2185B; color: #fff;
+                padding: 10px 18px; border-radius: 24px; text-decoration: none; font-weight: 700;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.18); z-index: 999; font-size: 14px; }
+  header { background: #4B2480; color: #fff; padding: 24px 20px; }
+  header h1 { font-size: 24px; margin: 0; font-family: "Noto Serif TC", serif; }
+  header p { margin: 6px 0 0; opacity: 0.9; font-size: 14.5px; }
+  main { max-width: 720px; margin: 24px auto; padding: 0 20px; }
+  .hotline-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 20px 0; }
+  .hotline { background: #fff; padding: 16px; border-left: 4px solid #4B2480; border-radius: 0 6px 6px 0;
+             box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+  .hotline strong { display: block; font-size: 22px; color: #4B2480; font-family: Inter, sans-serif; letter-spacing: 0.05em; }
+  .hotline span { font-size: 13px; color: #5C5C5C; }
+  .issues-list { list-style: none; padding: 0; margin: 24px 0; }
+  .issues-list li { padding: 14px 18px; background: #fff; margin-bottom: 8px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+  .issues-list li a { color: #1F1F1F; text-decoration: none; font-weight: 500; }
+  .issues-list li a:hover { color: #4B2480; }
+  .issues-list .grass { font-size: 13px; color: #5C5C5C; margin-top: 4px; }
+  h2 { font-family: "Noto Serif TC", serif; margin-top: 32px; padding-bottom: 4px; border-bottom: 2px solid #4B2480; }
+  .voice-form { background: #ECE0F2; padding: 20px; border-radius: 8px; margin-top: 24px; }
+  .voice-form a { display: inline-block; background: #4B2480; color: #fff; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; }
+  @media (max-width: 600px) { .hotline-grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<a href="https://zh.wikipedia.org" class="quick-exit">快速離開</a>
+<header>
+  <h1>基層婦女入口</h1>
+  <p>白話版 18 議題 · 求助專線 · 「我想說」表單</p>
+</header>
+<main>
+  <h2>立即求助</h2>
+  <div class="hotline-grid">
+    <div class="hotline"><strong>113</strong><span>家暴 / 性侵 / 兒虐 24h 通報</span></div>
+    <div class="hotline"><strong>1925</strong><span>安心專線(心理諮商)</span></div>
+    <div class="hotline"><strong>1995</strong><span>生命線(自殺防治)</span></div>
+    <div class="hotline"><strong>1957</strong><span>福利諮詢專線</span></div>
+  </div>
+
+  <h2>白話版 18 議題</h2>
+  <p style="font-size:14px;color:#5C5C5C;">每個議題都有「基層婦女版」180 字白話說明,點選即可閱讀。</p>
+  <ul class="issues-list" id="grass-list"><li>載入中...</li></ul>
+
+  <div class="voice-form">
+    <h3 style="margin-top:0;font-family:'Noto Serif TC',serif;">我想說</h3>
+    <p style="margin:8px 0 16px;font-size:14px;">如果你想分享自己的經驗,匿名表單會送到本平台 DPO,不會暴露你的身份。</p>
+    <a href="../forms/voice.html">前往「我想說」表單 →</a>
+  </div>
+</main>
+
+<script>
+fetch('../api/issues.json')
+  .then(r => r.json())
+  .then(issues => {
+    const list = document.getElementById('grass-list');
+    list.innerHTML = '';
+    issues.forEach(p => {
+      const li = document.createElement('li');
+      const grass = p.summary_grass || p.summary_pro || '';
+      li.innerHTML = `<a href="../issues/${p.issue_id}.html">${p.title_zh}</a><div class="grass">${grass.slice(0,140)}${grass.length>140?'...':''}</div>`;
+      list.appendChild(li);
+    });
+  })
+  .catch(e => {
+    document.getElementById('grass-list').innerHTML = '<li>載入失敗,請稍後再試。</li>';
+  });
+</script>
+</body>
+</html>

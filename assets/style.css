@@ -1,0 +1,183 @@
+/* 婦女 CEDAW 監督平台 — 公開頁基礎樣式 */
+/* 設計原則: WCAG AA / 不用 emoji / 婦女運動藍紫色調 / 高對比 */
+
+:root {
+  --color-primary: #4A148C;       /* 深紫 - 主色 */
+  --color-secondary: #1565C0;     /* 深藍 - 次色 */
+  --color-accent: #C62828;        /* 警示紅 - 退步指標 */
+  --color-success: #2E7D32;       /* 綠 - 進步指標 */
+  --color-text: #1A1A1A;
+  --color-bg: #FFFFFF;
+  --color-bg-soft: #F5F5F5;
+  --color-border: #BDBDBD;
+  --font-zh: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --font-en: "Inter", system-ui, sans-serif;
+  --max-width: 1100px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: var(--font-zh);
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-bg);
+}
+
+a { color: var(--color-primary); text-decoration: underline; text-underline-offset: 3px; }
+a:hover { color: var(--color-secondary); }
+
+/* 快速離開按鈕(對應隱私政策第 4 條) */
+.quick-exit {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  background: var(--color-accent);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  z-index: 1000;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+.quick-exit:hover { background: #B71C1C; color: white; }
+
+header {
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+  color: white;
+  padding: 32px 24px;
+  text-align: center;
+}
+header h1 { margin: 0 0 8px; font-size: 28px; }
+header .lede { margin: 0 0 16px; font-size: 18px; opacity: 0.95; }
+header nav a {
+  color: white;
+  margin: 0 12px;
+  text-decoration: none;
+  border-bottom: 2px solid rgba(255,255,255,0.3);
+  padding-bottom: 2px;
+}
+header nav a:hover { border-color: white; }
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+section { margin-bottom: 56px; }
+section h2 {
+  font-size: 24px;
+  border-bottom: 3px solid var(--color-primary);
+  padding-bottom: 8px;
+  margin: 0 0 24px;
+}
+
+/* Hero 區衝突數字 */
+.hero { background: var(--color-bg-soft); padding: 32px 24px; border-radius: 8px; }
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  margin-top: 24px;
+}
+.stat {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid var(--color-border);
+  text-align: center;
+}
+.stat-num {
+  font-size: 42px;
+  font-weight: 700;
+  color: var(--color-accent);
+  line-height: 1;
+  margin-bottom: 8px;
+}
+.stat-label { font-size: 16px; color: var(--color-text); }
+.stat-trend { font-size: 14px; color: var(--color-accent); margin-top: 8px; }
+
+/* 軸四 finding */
+.finding {
+  background: var(--color-bg-soft);
+  padding: 20px;
+  border-left: 4px solid var(--color-primary);
+  border-radius: 0 4px 4px 0;
+  margin-bottom: 24px;
+}
+.conclusion {
+  background: #FFF3E0;
+  padding: 12px 16px;
+  border-radius: 4px;
+  margin-top: 12px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  background: white;
+}
+th, td {
+  padding: 10px 12px;
+  border: 1px solid var(--color-border);
+  text-align: left;
+}
+th { background: var(--color-bg-soft); font-weight: 600; }
+
+/* PI 卡列表 */
+.pi-list { list-style: none; padding: 0; }
+.pi-list li {
+  background: white;
+  padding: 14px 18px;
+  margin-bottom: 8px;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.pi-list a { flex: 1; }
+
+.badge {
+  background: #FFF59D;
+  color: #5D4037;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 13px;
+  margin-left: 12px;
+  white-space: nowrap;
+}
+
+ol li, ul li { margin-bottom: 8px; }
+
+footer {
+  background: var(--color-bg-soft);
+  padding: 24px;
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  margin-top: 48px;
+  border-top: 1px solid var(--color-border);
+}
+
+/* 響應式 */
+@media (max-width: 600px) {
+  body { font-size: 16px; }
+  header h1 { font-size: 22px; }
+  section h2 { font-size: 20px; }
+  .stat-num { font-size: 32px; }
+  .pi-list li { flex-direction: column; align-items: flex-start; gap: 4px; }
+  header nav a { display: inline-block; margin: 4px 8px; }
+}
+
+/* 列印樣式(立法院 / 媒體可印) */
+@media print {
+  .quick-exit, header nav { display: none; }
+  body { font-size: 11pt; }
+  section { page-break-inside: avoid; }
+}

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>「我想說」表單 — 婦女權利監督平台</title>
+<style>
+body { font-family: "Noto Sans TC", -apple-system, sans-serif; background: #FAFAF7; color: #1F1F1F; line-height: 1.7; margin: 0; }
+.quick-exit { position: fixed; top: 12px; right: 12px; background: #C2185B; color: #fff;
+              padding: 10px 18px; border-radius: 24px; text-decoration: none; font-weight: 700;
+              box-shadow: 0 4px 12px rgba(0,0,0,0.18); z-index: 999; font-size: 14px; }
+header { background: #4B2480; color: #fff; padding: 24px 20px; }
+header h1 { font-size: 24px; margin: 0; font-family: "Noto Serif TC", serif; }
+main { max-width: 720px; margin: 24px auto; padding: 0 20px; }
+.notice { background: #ECE0F2; padding: 16px 20px; border-left: 4px solid #4B2480; border-radius: 0 6px 6px 0; margin: 20px 0; font-size: 14.5px; }
+form { background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+label { display: block; font-weight: 600; margin: 16px 0 6px; }
+textarea, input, select { width: 100%; padding: 10px; border: 1px solid #DDD8CD; border-radius: 4px; font-family: inherit; font-size: 14.5px; }
+textarea { min-height: 140px; resize: vertical; }
+.checkboxes label { font-weight: normal; }
+button { background: #4B2480; color: #fff; border: none; padding: 12px 28px; border-radius: 6px; font-weight: 600; cursor: pointer; margin-top: 16px; }
+button:hover { background: #2E1450; }
+.privacy { background: #F1EFEA; padding: 14px 18px; border-radius: 6px; margin: 16px 0; font-size: 13px; color: #5C5C5C; }
+</style>
+</head>
+<body>
+<a href="https://zh.wikipedia.org" class="quick-exit">快速離開</a>
+<header>
+  <h1>「我想說」匿名表單</h1>
+  <p style="opacity:0.9;font-size:14.5px;margin:6px 0 0;">提交後送至本平台 DPO,不會暴露身份。</p>
+</header>
+<main>
+  <div class="notice">
+    <strong>此表單僅做匿名收集</strong>
+    <ul style="margin:8px 0 0;padding-left:20px;">
+      <li>不會記錄 IP / cookie / 個資</li>
+      <li>需法定通報之內容(家暴 / 性侵 / 兒虐)請優先撥 113</li>
+      <li>每筆需 DPO 律師審核 14 日,通過才會收錄到平台案例庫</li>
+    </ul>
+  </div>
+
+  <form action="javascript:void(0)" onsubmit="onSubmit(event)" id="voice-form">
+    <label for="topic">議題分類(可選)</label>
+    <select id="topic" name="topic">
+      <option value="">— 不指定 —</option>
+      <option>家暴 / 性侵 / 性騷擾</option>
+      <option>就業歧視 / 媽媽懲罰 / 升遷天花板</option>
+      <option>原住民 / 新住民女性</option>
+      <option>性別擴張議題(同志 / 跨性別)</option>
+      <option>其他</option>
+    </select>
+
+    <label for="message">您想說的話 *</label>
+    <textarea id="message" name="message" required placeholder="例:我在公司被告知懷孕後不能升遷..."></textarea>
+
+    <label for="role">您的身份(可選,有助分類)</label>
+    <select id="role" name="role">
+      <option value="">— 不指定 —</option>
+      <option>當事人</option>
+      <option>家屬 / 朋友</option>
+      <option>社工 / NGO</option>
+      <option>媒體 / 研究者</option>
+      <option>其他</option>
+    </select>
+
+    <div class="privacy">
+      <strong>同意條款</strong>
+      <div class="checkboxes" style="margin-top:8px;">
+        <label><input type="checkbox" required> 我了解此表單為匿名收集,平台不主動聯繫我</label><br>
+        <label><input type="checkbox"> 我同意內容經 DPO 審核後可去識別化發布</label>
+      </div>
+    </div>
+
+    <button type="submit">送出</button>
+    <p id="msg" style="margin-top:12px;font-size:14px;color:#5C5C5C;"></p>
+  </form>
+</main>
+<script>
+function onSubmit(e){
+  e.preventDefault();
+  const m = document.getElementById('msg');
+  m.textContent = '⏳ 正在提交... (此為前端 demo,實際 backend 待 Wave 85 接 Tally / Cloudflare Worker)';
+  setTimeout(() => {
+    m.textContent = '✓ 已收件。DPO 將於 14 日內審核。感謝您的信任。';
+    document.getElementById('voice-form').reset();
+  }, 800);
+}
+</script>
+</body>
+</html>

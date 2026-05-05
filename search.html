@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>搜尋 — 婦女權利監督平台</title>
+<meta name="description" content="跨 9 類資料即時搜尋:18 議題 / 30 CEDAW 條文 / 11 GR / 27 指標 / 16 SOGIESC CO 段 / 53 文件 / 19 倡議者 / 25 事件 / 12 法規">
+
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  :root {
+    --bg: #FAFAF7;
+    --bg-alt: #F1EFEA;
+    --bg-deep: #0E2238;
+    --text: #1F1F1F;
+    --text-muted: #5C5C5C;
+    --brand: #4B2480;
+    --brand-dark: #2E1450;
+    --accent: #C2185B;
+    --aabe-gold: #8B6F50;
+    --hairline: #E8E3D6;
+    --serif: "Noto Serif TC", Georgia, serif;
+    --sans: "Noto Sans TC", -apple-system, sans-serif;
+    --sans-en: Inter, -apple-system, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: var(--sans); background: var(--bg); color: var(--text); line-height: 1.6; }
+
+  .top-bar {
+    background: var(--bg-deep); color: #fff; padding: 12px 20px;
+    display: flex; align-items: center; gap: 16px;
+  }
+  .top-bar a { color: #fff; text-decoration: none; font-size: 13.5px; }
+  .top-bar .home { opacity: 0.85; }
+  .top-bar .title { font-family: var(--serif); font-weight: 700; font-size: 16px; flex: 1; }
+
+  .search-wrap { max-width: 960px; margin: 32px auto; padding: 0 20px; }
+  .search-form {
+    display: flex; gap: 8px; align-items: stretch;
+    border-bottom: 2px solid var(--brand); padding-bottom: 12px;
+  }
+  .search-form input {
+    flex: 1; font-size: 22px; font-family: var(--serif);
+    border: none; background: transparent; padding: 8px 4px;
+    color: var(--text); outline: none;
+  }
+  .search-form button {
+    background: var(--brand); color: #fff; border: none;
+    padding: 0 24px; cursor: pointer; font-weight: 600; letter-spacing: 0.06em;
+    border-radius: 4px;
+  }
+  .search-form button:hover { background: var(--brand-dark); }
+
+  .search-meta {
+    display: flex; gap: 16px; align-items: center;
+    margin: 16px 0; font-size: 13px; color: var(--text-muted);
+    flex-wrap: wrap;
+  }
+  .filters { display: flex; gap: 6px; flex-wrap: wrap; }
+  .filter-chip {
+    padding: 4px 10px; border: 1px solid var(--hairline);
+    border-radius: 14px; cursor: pointer; font-size: 12.5px;
+    background: #fff;
+    user-select: none;
+  }
+  .filter-chip.active { background: var(--brand); color: #fff; border-color: var(--brand); }
+  .filter-chip .count { opacity: 0.65; margin-left: 4px; font-family: var(--sans-en); font-size: 11px; }
+
+  .results { margin-top: 24px; }
+  .result {
+    border-bottom: 1px solid var(--hairline);
+    padding: 16px 0;
+    display: flex; gap: 16px;
+  }
+  .result-type {
+    font-family: var(--sans-en); font-size: 10.5px;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--brand); font-weight: 700;
+    min-width: 100px;
+  }
+  .result-body { flex: 1; }
+  .result-title {
+    font-family: var(--serif); font-size: 17px; font-weight: 600;
+    margin-bottom: 4px;
+  }
+  .result-title a { color: var(--text); text-decoration: none; }
+  .result-title a:hover { color: var(--brand); }
+  .result-snippet { font-size: 13.5px; color: var(--text-muted); }
+  .result-meta {
+    font-family: var(--sans-en); font-size: 11.5px;
+    color: var(--text-muted); margin-top: 4px;
+  }
+  mark { background: rgba(194,24,91,0.18); color: var(--text); padding: 0 2px; }
+
+  .empty {
+    text-align: center; padding: 48px 16px;
+    color: var(--text-muted); font-style: italic;
+  }
+  .loading { text-align: center; padding: 48px 16px; color: var(--text-muted); }
+
+  .stat-bar {
+    display: flex; gap: 12px; flex-wrap: wrap;
+    background: var(--bg-alt); padding: 12px 16px;
+    border-left: 3px solid var(--brand);
+    margin-bottom: 16px;
+    font-size: 12.5px; color: var(--text-muted);
+  }
+  .stat-bar .stat { font-family: var(--sans-en); }
+  .stat-bar .stat strong { color: var(--brand); font-size: 13.5px; }
+</style>
+</head>
+<body>
+  <header class="top-bar">
+    <a href="./" class="home">← 首頁</a>
+    <div class="title">全平台搜尋</div>
+    <a href="cross-platform.html" style="color:#fff;text-decoration:none;font-size:13px;font-weight:600;background:rgba(75,36,128,0.5);padding:5px 10px;border-radius:4px;margin-right:10px;">🌐 三公約共構</a>
+    <a href="api/manifest.json" target="_blank" rel="noopener">API 索引</a>
+  </header>
+
+  <main class="search-wrap">
+    <form class="search-form" onsubmit="event.preventDefault(); doSearch();" role="search">
+      <input id="q" type="search" placeholder="搜尋議題、CEDAW、修法、倡議者..."
+             autofocus aria-label="搜尋">
+      <button type="submit">搜尋</button>
+    </form>
+
+    <div class="stat-bar">
+      <span class="stat">索引 <strong id="total">—</strong> 筆</span>
+      <span class="stat">議題 PI / CEDAW / GR / 指標 / SOGIESC CO / 文件 / 倡議者 / 事件 / 法規</span>
+    </div>
+
+    <div class="search-meta" style="flex-direction: column; align-items: stretch; gap: 10px;">
+      <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+        <label style="display:inline-flex;align-items:center;gap:6px;font-size:13px;background:var(--bg-alt);padding:4px 10px;border-radius:4px;cursor:pointer;">
+          <input type="checkbox" id="full-text-toggle" style="cursor:pointer;">
+          <span><strong>🔍 全文搜尋</strong>(深入官網 25,037 段政府/NGO 文件,7,671 段含關鍵詞;首次點按需載入 3 MB)</span>
+        </label>
+      </div>
+      <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+        <span id="hint" style="flex:1;">輸入關鍵字後即時篩選 · 也可按下方分類過濾</span>
+        <div class="filters" id="filters"></div>
+      </div>
+    </div>
+
+    <div class="results" id="results">
+      <div class="loading">載入索引中...</div>
+    </div>
+  </main>
+
+<script>
+const TYPE_LABELS = {
+  PI: "議題", CEDAW: "CEDAW 條文", GR: "GR 一般性建議",
+  INDICATOR: "指標", CO_SOGIESC: "CO 段(SOGIESC)",
+  DOC: "文件", NGO: "倡議者", EVENT: "事件", LAW: "法規",
+  PASSAGE: "📜 文件段落"
+};
+let INDEX = [];
+let activeTypes = new Set(Object.keys(TYPE_LABELS));
+
+function escapeRe(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
+function highlight(text, q){
+  if(!q || !text) return text || "";
+  const re = new RegExp("("+escapeRe(q)+")","gi");
+  return String(text).replace(re,"<mark>$1</mark>");
+}
+
+function fetchInitialQuery(){
+  const p = new URLSearchParams(location.search);
+  return p.get("q") || "";
+}
+
+function renderFilters(){
+  const counts = {};
+  INDEX.forEach(d => counts[d.type] = (counts[d.type]||0)+1);
+  const wrap = document.getElementById("filters");
+  wrap.innerHTML = "";
+  Object.keys(TYPE_LABELS).forEach(t => {
+    const c = counts[t] || 0;
+    const chip = document.createElement("span");
+    chip.className = "filter-chip" + (activeTypes.has(t)?" active":"");
+    chip.innerHTML = `${TYPE_LABELS[t]}<span class="count">${c}</span>`;
+    chip.onclick = () => {
+      if(activeTypes.has(t)) activeTypes.delete(t); else activeTypes.add(t);
+      if(activeTypes.size===0) Object.keys(TYPE_LABELS).forEach(x=>activeTypes.add(x));
+      renderFilters();
+      doSearch();
+    };
+    wrap.appendChild(chip);
+  });
+}
+
+// 同義詞表 — 命中任一展開字眼即視為命中(Wave 84)
+const SYNONYMS = {
+  '家暴': ['家庭暴力','家暴防治','DV'],
+  '家庭暴力': ['家暴','DV'],
+  'DV': ['家暴','家庭暴力'],
+  'GPG': ['性別薪資差距','薪資差距','同工同酬'],
+  '性別薪資差距': ['GPG','薪資差距'],
+  'TFR': ['生育率','總生育率','少子化'],
+  '生育率': ['TFR','少子化'],
+  'SOGIESC': ['LGBTI','LGBTQ','同志','跨性別','性傾向','性別認同'],
+  'LGBTI': ['SOGIESC','同志','跨性別'],
+  '同志': ['LGBTI','SOGIESC','LGBTQ'],
+  '跨性別': ['LGBTI','SOGIESC','transgender','trans'],
+  '反暴力': ['紫絲帶','反性別暴力','GBV'],
+  '紫絲帶': ['反暴力','反性別暴力','GBV'],
+  '玻璃天花板': ['glass ceiling','升遷天花板'],
+  '媽媽懲罰': ['motherhood penalty','育兒懲罰'],
+};
+function expandQuery(q){
+  const lower = q.toLowerCase();
+  const set = new Set([q, lower]);
+  for(const key in SYNONYMS){
+    if(lower === key.toLowerCase() || lower === key){
+      SYNONYMS[key].forEach(s => set.add(s.toLowerCase()));
+    }
+  }
+  return [...set];
+}
+
+// Wave 98: 全文搜尋(lazy load passages.json)
+let PASSAGES = null;  // 7,671 段;首次切換 toggle 時 fetch
+async function loadPassages(){
+  if(PASSAGES !== null) return PASSAGES;
+  document.getElementById("hint").textContent = "正在載入 3 MB 段落索引...";
+  try{
+    const r = await fetch("api/passages.json", {cache:"force-cache"});
+    PASSAGES = await r.json();
+    document.getElementById("hint").textContent = `已載入 ${PASSAGES.length.toLocaleString()} 段(含 LGBTI / 性別認同 / 家暴 / 致死 等高訊號詞)`;
+    return PASSAGES;
+  }catch(e){
+    document.getElementById("hint").textContent = "段落索引載入失敗:" + e.message;
+    PASSAGES = [];
+    return PASSAGES;
+  }
+}
+
+function doSearch(){
+  const q = (document.getElementById("q").value || "").trim();
+  const queries = q ? expandQuery(q) : [""];
+  const fullText = document.getElementById("full-text-toggle")?.checked;
+  const out = [];
+
+  // Index search(永遠跑)
+  for(const d of INDEX){
+    if(!activeTypes.has(d.type)) continue;
+    if(q){
+      const hay = ((d.title||"") + " " + (d.title_en||"") + " " + (d.snippet||"")).toLowerCase();
+      const hit = queries.some(qq => qq && hay.includes(qq));
+      if(!hit) continue;
+    }
+    out.push(d);
+  }
+
+  // Full text search(toggle 開啟才跑)
+  if(fullText && q && PASSAGES && PASSAGES.length){
+    for(const p of PASSAGES){
+      const hay = (p.s + " " + (p.t||"") + " " + (p.i||"")).toLowerCase();
+      if(queries.some(qq => qq && hay.includes(qq))){
+        out.push({
+          type: "PASSAGE",
+          id: p.p, title: `${p.t} · §${p.p.split('-').pop()}`,
+          url: "#", snippet: p.s,
+          status: p.i, cluster: p.y ? `${p.y} 年` : null,
+        });
+      }
+    }
+  }
+  // Sort: PI first, then by type order
+  const order = Object.keys(TYPE_LABELS);
+  out.sort((a,b) => order.indexOf(a.type)-order.indexOf(b.type));
+  renderResults(out, q);
+}
+
+function renderResults(list, q){
+  const wrap = document.getElementById("results");
+  if(list.length === 0){
+    wrap.innerHTML = `<div class="empty">沒有符合的結果。試試清除過濾或換關鍵字。</div>`;
+    return;
+  }
+  const limit = 200;
+  const html = list.slice(0,limit).map(d => `
+    <div class="result">
+      <div class="result-type">${TYPE_LABELS[d.type] || d.type}</div>
+      <div class="result-body">
+        <div class="result-title"><a href="${d.url}">${highlight(d.title, q)}</a></div>
+        ${d.snippet ? `<div class="result-snippet">${highlight(d.snippet, q)}</div>` : ""}
+        <div class="result-meta">${d.id}${d.cluster ? " · cluster " + d.cluster : ""}${d.status ? " · " + d.status : ""}${d.position_axis4 ? " · " + d.position_axis4 : ""}${d.event_date ? " · " + d.event_date : ""}</div>
+      </div>
+    </div>`).join("");
+  const more = list.length > limit ? `<div class="empty">前 ${limit} 筆;再縮小範圍可看其餘 ${list.length-limit} 筆。</div>` : "";
+  wrap.innerHTML = html + more;
+  document.getElementById("hint").textContent = `命中 ${list.length} 筆${q?` · "${q}"`:""}`;
+}
+
+(async () => {
+  try{
+    const res = await fetch("assets/search_index.json", {cache:"no-cache"});
+    INDEX = await res.json();
+    document.getElementById("total").textContent = INDEX.length;
+    renderFilters();
+    const q = fetchInitialQuery();
+    if(q) document.getElementById("q").value = q;
+    doSearch();
+  }catch(e){
+    document.getElementById("results").innerHTML =
+      `<div class="empty">索引載入失敗:${e.message}</div>`;
+  }
+})();
+
+document.getElementById("q").addEventListener("input", () => {
+  clearTimeout(window._t);
+  window._t = setTimeout(doSearch, 100);
+});
+
+// Wave 98:全文搜尋 toggle
+document.getElementById("full-text-toggle")?.addEventListener("change", async (e) => {
+  if(e.target.checked){
+    await loadPassages();
+  }
+  doSearch();
+});
+</script>
+</body>
+</html>

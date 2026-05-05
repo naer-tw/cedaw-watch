@@ -1,0 +1,122 @@
+[
+  {
+    "law_id": "L01",
+    "name_zh": "消除對婦女一切形式歧視公約施行法",
+    "short_name": "CEDAW施行法",
+    "competent_agency": "行政院性平處",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=Y0000038",
+    "last_amend_date": "2011-06-08",
+    "article_count": 10,
+    "amendment_count": 0
+  },
+  {
+    "law_id": "L02",
+    "name_zh": "性別平等工作法(原性別工作平等法)",
+    "short_name": "性平工作法",
+    "competent_agency": "勞動部",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030014",
+    "last_amend_date": "2024-03-08",
+    "article_count": 49,
+    "amendment_count": 6
+  },
+  {
+    "law_id": "L03",
+    "name_zh": "性別平等教育法",
+    "short_name": "性平教育法",
+    "competent_agency": "教育部",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080067",
+    "last_amend_date": "2024-03-08",
+    "article_count": 48,
+    "amendment_count": 3
+  },
+  {
+    "law_id": "L04",
+    "name_zh": "性騷擾防治法",
+    "short_name": "性騷防治法",
+    "competent_agency": "衛福部",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050074",
+    "last_amend_date": "2023-08-16",
+    "article_count": 34,
+    "amendment_count": 2
+  },
+  {
+    "law_id": "L05",
+    "name_zh": "家庭暴力防治法",
+    "short_name": "家暴防治法",
+    "competent_agency": "衛福部 保護服務司",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050071",
+    "last_amend_date": "2024-03-08",
+    "article_count": 77,
+    "amendment_count": 6
+  },
+  {
+    "law_id": "L06",
+    "name_zh": "性侵害犯罪防治法",
+    "short_name": "性侵防治法",
+    "competent_agency": "衛福部 保護服務司",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050069",
+    "last_amend_date": "2023-06-15",
+    "article_count": 56,
+    "amendment_count": 4
+  },
+  {
+    "law_id": "L07",
+    "name_zh": "跟蹤騷擾防制法",
+    "short_name": "跟騷防制法",
+    "competent_agency": "警政署",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050194",
+    "last_amend_date": "2022-06-01",
+    "article_count": 12,
+    "amendment_count": 1
+  },
+  {
+    "law_id": "L08",
+    "name_zh": "人工生殖法",
+    "short_name": "人工生殖法",
+    "competent_agency": "衛福部 國健署",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0070024",
+    "last_amend_date": "2018-01-03",
+    "article_count": 40,
+    "amendment_count": 3
+  },
+  {
+    "law_id": "L09",
+    "name_zh": "優生保健法(墮胎相關)",
+    "short_name": "優生保健法",
+    "competent_agency": "衛福部 國健署",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0070001",
+    "last_amend_date": "1999-12-22",
+    "article_count": 18,
+    "amendment_count": 1
+  },
+  {
+    "law_id": "L10",
+    "name_zh": "民法親屬編",
+    "short_name": "民法親屬編",
+    "competent_agency": "法務部",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000001",
+    "last_amend_date": "2021-01-13",
+    "article_count": 262,
+    "amendment_count": 4
+  },
+  {
+    "law_id": "L11",
+    "name_zh": "司法院釋字第748號解釋施行法(同婚專法)",
+    "short_name": "同婚專法",
+    "competent_agency": "法務部",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008",
+    "last_amend_date": "2023-05-31",
+    "article_count": 27,
+    "amendment_count": 3
+  },
+  {
+    "law_id": "L12",
+    "name_zh": "入出國及移民法(新住民相關)",
+    "short_name": "移民法",
+    "competent_agency": "內政部 移民署",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080132",
+    "last_amend_date": "2023-06-28",
+    "article_count": 104,
+    "amendment_count": 2
+  }
+]

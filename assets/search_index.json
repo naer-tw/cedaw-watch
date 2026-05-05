@@ -1,0 +1,5488 @@
+[
+  {
+    "type": "PI",
+    "id": "PI-01",
+    "title": "性別薪資差距(GPG) 20 年 — 形式進步、實質停滯",
+    "title_en": "Gender Pay Gap Over 20 Years",
+    "url": "issues/PI-01.html",
+    "snippet": "台灣性別薪資差距(GPG)自 2007 年 17.9% 緩慢下降至 2025 年 14.5%,過去 10 年(2015-2025)呈現**停滯狀態,實質改善幾乎為零**。OECD 平均 GPG 約 12%,台灣仍偏高。**問題根源**:(a) 育兒中斷對女性職涯之「媽媽懲罰」(motherhood penalty);(b) 上市櫃女性董事僅 16.2%(2025),女性 CEO 不到 6%;(c)",
+    "cluster": "A",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-02",
+    "title": "媽媽懲罰 — 育兒成本與職涯中斷之女性化",
+    "title_en": "Motherhood Penalty — Feminization of Childcare Costs",
+    "url": "issues/PI-02.html",
+    "snippet": "「媽媽懲罰」(motherhood penalty)指女性因育兒導致職涯中斷、薪資懲罰、升遷受阻等之系統性結構問題。台灣男性育嬰留停使用率自 2007 年 1.5% 升至 2024 年 25%(顯著進步),**但 75% 育兒仍由媽媽承擔**。對應 CEDAW 第 5 條(性別角色刻板印象)、第 11 條(就業)、第 13 條(經濟福利)。**核心問題**:(a) 育兒津貼解決部分金錢壓力,但時間",
+    "cluster": "A",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-03",
+    "title": "玻璃天花板 — 上市櫃女董 / 女性 CEO / 政務官",
+    "title_en": "Glass Ceiling — Listed Company Boards / Female CEOs / Cabinet",
+    "url": "issues/PI-03.html",
+    "snippet": "上市櫃女性董事比例自 2007 年 7.5% 升至 2024 年 16.4%(進步顯著),但仍遠低於歐盟強制 30-40% 標準。**女性 CEO 不到 6%**(2024)。中央部會女性政務官 22%。**玻璃天花板問題**:(a) 升遷管道隱性偏見;(b) 育兒中斷導致關鍵年資缺;(c) 男性主導之高層人脈圈;(d) 「女性領導」刻板印象壓力。對應 CEDAW 第 7 條(政治公領域)、第 1",
+    "cluster": "A",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-04",
+    "title": "非典型就業女性化 — 部分工時 / 派遣 / 短期契約",
+    "title_en": "Feminization of Atypical Employment",
+    "url": "issues/PI-04.html",
+    "snippet": "「非典型就業」(atypical employment)指部分工時、派遣、短期契約等非正職勞動關係。**台灣女性過度集中於非典型就業**:依勞動部 2023 統計,女性部分工時約佔該類別 60%+。對應 CEDAW 第 11(1)(d)(e)、GR-13(同酬)。**問題**:(a) 退休金累積不足(老年貧窮種子,對應 PI-18);(b) 育嬰、年資、勞健保制度設計偏向典型就業;(c) 「彈性工",
+    "cluster": "A",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-05",
+    "title": "家暴防治 20 年 — 通報暴增背後的真相",
+    "title_en": "Domestic Violence Prevention Over 20 Years — The Truth Behind Surging Reports",
+    "url": "issues/PI-05.html",
+    "snippet": "台灣《家庭暴力防治法》自 1998 年施行,2007 年 CEDAW 加入時年度通報 7.3 萬件,2025 年達 17.3 萬件,**通報增加 136%**。政府以此作為「婦女保護成績」之代表性指標,然其中存在重大爭議:**通報暴增不等於施暴減少,可能反映通報率提升、定罪率仍偏低、加害人移送率不彰、保護令執行不到位**。本議題從四面向解構:(a)通報數 vs 起訴率 vs 定罪率三層漏斗;(b)",
+    "cluster": "B",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-07",
+    "title": "性騷擾三法整合 — MeToo 後申訴 10 倍暴增之系統失能",
+    "title_en": "Sexual Harassment Three Laws — Post-MeToo Surge",
+    "url": "issues/PI-07.html",
+    "snippet": "台灣性騷擾申訴自 2007 年 480 件升至 2024 年約 4,800 件,**10 倍暴增**(對應 PI-08 數位性暴力 + 2023 MeToo 風暴)。三法各有適用對象:**《性別工作平等法》(職場)**、**《性騷擾防治法》(公共空間)**、**《性別平等教育法》(學校)**,但實務上案件分流不清、處理機制不一、申訴管道分散。CEDAW 第 4 次 CO §35 已關注。**核心問",
+    "cluster": "B",
+    "status": "新興"
+  },
+  {
+    "type": "PI",
+    "id": "PI-08",
+    "title": "數位性暴力 — 衛福部首次調查盛行率 59.4%",
+    "title_en": "Digital Sexual Violence — First MOHW Survey 59.4% Prevalence",
+    "url": "issues/PI-08.html",
+    "snippet": "衛福部 2024 年公布**首次**「我國數位/網路性別暴力狀況調查報告」,18-74 歲民眾**終生盛行率 59.4%**(近 6 成)、1 年盛行率 47.7%。最常見類型:騷擾(48.5%)、羞辱與攻擊(26.0%)、跟蹤或起底(21.8%)、表意限制(11.7%)、**性影像暴力(10.4%)**。**性影像處理中心 2024 受理 1,928 件、被害人 1,040 人,其中未成年 36",
+    "cluster": "B",
+    "status": "新興"
+  },
+  {
+    "type": "PI",
+    "id": "PI-10",
+    "title": "婦癌篩檢 — 子宮頸發生率 7 成下降但篩檢覆蓋率停滯",
+    "title_en": "Women's Cancer Screening — Coverage Plateau Despite Incidence Drop",
+    "url": "issues/PI-10.html",
+    "snippet": "子宮頸癌標準化發生率自 1995 年每 10 萬人 25 人下降至 2021 年 7 人,**降幅 7 成**(HPA 癌症登記)。然而 30+ 女性子宮頸抹片覆蓋率長年 32%、乳癌 45-69 歲攝影 40%(2024)— **篩檢覆蓋率停滯**。**問題**:(a) 偏鄉、新住民、原住民 女性近用差(對應 PI-15/16);(b) 政府宣傳「五癌篩檢 487 萬人次(2023)」但分母不公",
+    "cluster": "C",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-11",
+    "title": "生育率崩跌 — 從 1.10 到 0.87 的政策失靈",
+    "title_en": "Fertility Rate Collapse — Policy Failure 1.10 → 0.87",
+    "url": "issues/PI-11.html",
+    "snippet": "台灣總生育率(TFR)從 2007 年 1.10、2017 年 1.13、跌至 2025 年 **0.87** — **全球最低**。政府過去 20 年投入育兒津貼、托育補助、育嬰假等政策,經費年年增加,結果卻是持續惡化。**核心問題不在錢**,而在:(a) 育兒成本仍以女性為主承擔(媽媽懲罰);(b) 房價高、勞動工時長、薪資停滯(GPG 14.5%);(c) 性別不平等之家事分工;(d) 政府",
+    "cluster": "C",
+    "status": "倒退"
+  },
+  {
+    "type": "PI",
+    "id": "PI-15",
+    "title": "原住民女性 — 暴力 / 健康 / 就業 三重歧視",
+    "title_en": "Indigenous Women — Triple Discrimination",
+    "url": "issues/PI-15.html",
+    "snippet": "CEDAW GR-39(2022 年最新一般性建議)專門關注原住民婦女。台灣原住民族佔總人口 2.5%(約 60 萬人),其中女性約 30 萬。歷次 CEDAW CO 對原住民女性指出:**就業參與率仍偏低、傳統部落性別角色刻板印象未鬆動、家暴通報率不公開、健康資源近用差(偏鄉醫療不足)、教育中斷率高於非原住民女性**。CEDAW 第 3 次 CO 第 172 段、第 224 段明確將原住民女性列",
+    "cluster": "D",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-16",
+    "title": "新住民女性 — 家暴 / 國籍 / 經濟自立 三大缺口",
+    "title_en": "New Immigrant Women — Three Major Gaps",
+    "url": "issues/PI-16.html",
+    "snippet": "台灣新住民女性(配偶移民)約 58 萬人(2024),主要來自越南、印尼、菲律賓、中國大陸、泰國等。歷次 CEDAW CO 指出三大持續缺口:(a)**家暴通報比例偏高,但語言文化障礙讓求助率更低**;(b)**國籍取得程序與本國配偶不平等**(申請人為新住民者程序更嚴);(c)**經濟自立支持不足**,職訓 / 創業資源近用困難。對應 CEDAW 第 9 條(國籍)、第 16 條(婚姻家庭)、G",
+    "cluster": "D",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-21",
+    "title": "CEDAW「woman」之定義 — 國際與台灣詮釋擴張軌跡",
+    "title_en": "Definition of \"Woman\" under CEDAW — International and Taiwan Interpretation Expansion",
+    "url": "issues/PI-21.html",
+    "snippet": "CEDAW 公約自 1979 年通過至今,其保護對象「woman」原指基於生理性別之女性。然而,**2010 年 GR-28 第 5 段**對 sex(生理)與 gender(社會建構)之區分,被部分倡議者作為將 CEDAW 詮釋擴張至 SOGIESC 議題之依據。**經實際比對台灣 4 次審查 CO 全文(2009/2014/2018/2022)**,本平台發現:**國際 CEDAW 委員會並未",
+    "cluster": "F",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-22",
+    "title": "性平資源被擠壓 — 經費 / 政策 / 行政人力流向 20 年比較",
+    "title_en": "Gender Equality Resource Diversion Analysis",
+    "url": "issues/PI-22.html",
+    "snippet": "行政院性別平等處(性平處)之預算與政策資源,理應依 CEDAW 第 2 條 + GR-25 用於消除對婦女實質歧視。然而,過去 20 年(2007-2026)觀察:**性平總預算雖增加,但流向逐漸從婦女實質權益(暴力防治、就業、健康)轉至 SOGIESC / 同志友善 / 性別認同議題**。本議題嘗試量化此擠壓:(a)性平處公開預算分項中「婦女實質權益」與「LGBTI 議題」之占比演變;(b)行政",
+    "cluster": "F",
+    "status": "持續追蹤"
+  },
+  {
+    "type": "PI",
+    "id": "PI-23",
+    "title": "婦女庇護所收容爭議 — 受暴空間之 sex-based vs gender identity",
+    "title_en": "Women's Shelter Admission — Sex-Based vs Gender Identity",
+    "url": "issues/PI-23.html",
+    "snippet": "家暴 / 性侵 倖存者進入庇護所(shelter),期望進入「**全女性空間**」以避免再次接觸男性帶來之創傷觸發。**跨性別女性是否應收容於婦女庇護所**,構成軸四爭議:贊成方(以「自我認同性別」為依據)主張跨性別女性亦遭受暴力,應有同等保護;反對方(本平台立場,以 WHRC §8 為依據)主張庇護所空間應依**生理性別**分配,以保障倖存者治療性安全。**台灣現況**:衛福部社家署管理之庇護所",
+    "cluster": "F",
+    "status": "觀察中"
+  },
+  {
+    "type": "PI",
+    "id": "PI-24",
+    "title": "女子監所收容爭議 — 受刑人安全 vs 性別認同",
+    "title_en": "Female Prison Admission — Inmate Safety vs Gender Identity",
+    "url": "issues/PI-24.html",
+    "snippet": "女子監所(female prison)之收容對象本以**生理女性**受刑人為主。**跨性別女性是否可基於自我認同收容於女子監所**,構成軸四高敏感爭議。國際上多起案例引發女性受刑人安全疑慮:**英國 Karen White 案(2018)**(以跨性別女性身分入女子監所後性侵其他女受刑人)、**美國加州 SB132 法案**(2021 起跨性別女性可選擇女子監所引發女受刑人聯合訴訟)。本平台立場(",
+    "cluster": "F",
+    "status": "觀察中"
+  },
+  {
+    "type": "PI",
+    "id": "PI-25",
+    "title": "女子組運動賽事 — 公平競爭 vs 性別認同",
+    "title_en": "Female Sport Categories — Fair Competition vs Gender Identity",
+    "url": "issues/PI-25.html",
+    "snippet": "CEDAW 第 10 條 (g) 保障「女童與男孩同等積極參與運動之機會」,**包括單一性別之參與機會**(WHRC §7 詮釋)。**跨性別女性是否可參加女子組賽事**,構成軸四爭議:贊成方主張運動隊伍應以性別認同為依據;反對方(本平台立場)主張**男性青春期後形成之肌肉量、骨密度、肺活量等生理優勢無法透過賀爾蒙抑制完全消除**,女子組應限於生理女性以保障公平競爭。**國際案例**:Lia Th",
+    "cluster": "F",
+    "status": "觀察中"
+  },
+  {
+    "type": "PI",
+    "id": "PI-26",
+    "title": "兒童青少年跨性別醫療 — 國際縮緊與台灣現況",
+    "title_en": "Pediatric Gender Medicine — International Tightening",
+    "url": "issues/PI-26.html",
+    "snippet": "過去 10 年,西方多國對兒童青少年使用青春期阻斷劑(puberty blockers)、跨性別賀爾蒙(cross-sex hormones)、性別重置手術之醫療政策**急速縮緊**。**英國 Cass Review(2024 終報告)**發現:支持兒童跨性別醫療之證據基礎極弱、長期傷害風險高、社會傳染現象顯著。**瑞典 Karolinska(2021)**、**芬蘭 COHERE(2020)**",
+    "cluster": "F",
+    "status": "觀察中"
+  },
+  {
+    "type": "PI",
+    "id": "PI-27",
+    "title": "婚姻家庭與母性 — CEDAW 第 16 條的 20 年退步",
+    "title_en": "Marriage, Family and Motherhood — CEDAW Article 16's 20-Year Regression",
+    "url": "issues/PI-27.html",
+    "snippet": "CEDAW 第 16 條保障婦女在婚姻、家庭、生育、子女撫養之平等權益。**過去 20 年(2007-2026)台灣婚姻家庭結構轉變,但婦女在母性地位上之保障反而退步**:結婚率下滑、離婚率高、生育率全球最低(0.72)、單親媽媽家戶貧窮率仍 17.8%、孕產婦死亡率倒退 211%(對應 PI-11)。**WHRC §2** 強調「母性為女性獨有之地位,基於懷孕生育生物事實」,反對「自我認同性別」",
+    "cluster": "D",
+    "status": "倒退"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-1",
+    "title": "CEDAW-1 歧視之定義",
+    "title_en": "Definition of Discrimination Against Women",
+    "url": "#",
+    "snippet": "本公約所稱「對婦女歧視」一詞,指基於性別之任何區別、排斥或限制,其影響或目的足以妨礙或否認婦女(不論婚姻狀況如何)在男女平等基礎上認識、享有或行使在政治、經濟、社會、文化、公民或任何其他方面之人權及基本自由。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-2",
+    "title": "CEDAW-2 締約國消除歧視義務",
+    "title_en": "State obligations",
+    "url": "#",
+    "snippet": "締約國譴責對婦女一切形式之歧視,協議立即以一切適當辦法,推行消除對婦女歧視之政策。包括:(a)男女平等原則納入憲法或法律;(b)制定法律與其他適當措施(包括制裁);(c)為婦女設立法律保護機構;(d)避免任何歧視性的行為或措施;(e)消除任何個人、組織或企業對婦女的歧視;(f)修改或廢除歧視性法律、規章、習俗;(g)廢止歧視性刑事規定。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-3",
+    "title": "CEDAW-3 婦女發展與進步",
+    "title_en": "Development and advancement of women",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施,包括制定法律,以保證婦女得到充分發展和進步,使其在與男子平等的基礎上,能行使及享受人權及基本自由。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-4",
+    "title": "CEDAW-4 暫行特別措施",
+    "title_en": "Temporary special measures",
+    "url": "#",
+    "snippet": "締約國採取旨在加速實現男女實際上平等之暫行特別措施,不得視為本公約所指之歧視。一旦達到機會均等及待遇平等之目標,該措施應停止。對保護生育之特別措施,亦不得視為歧視。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-5",
+    "title": "CEDAW-5 性別角色刻板印象",
+    "title_en": "Sex role stereotypes",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施:(a)改變男女社會與文化行為模式,以消除基於性別優劣或男女定型角色觀念的偏見、習俗及一切其他做法;(b)保證家庭教育包括正確了解母性的社會功能,以及男女在養育子女方面之共同責任。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-6",
+    "title": "CEDAW-6 販運婦女與娼妓剝削",
+    "title_en": "Trafficking and exploitation of prostitution",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施,包括制定法律,以禁止一切形式販運婦女及對娼妓婦女之剝削。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-7",
+    "title": "CEDAW-7 政治與公領域",
+    "title_en": "Political and public life",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施,消除對婦女在本國政治公共生活中之歧視,確保婦女:(a)有權參加選舉投票;(b)有權參加政府政策制定;(c)有權參加非政府組織。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-8",
+    "title": "CEDAW-8 國際代表",
+    "title_en": "International representation",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施,保證婦女有機會在男女平等且不受任何歧視之條件下代表本國政府參加國際工作及國際組織。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-9",
+    "title": "CEDAW-9 國籍",
+    "title_en": "Nationality",
+    "url": "#",
+    "snippet": "(1)締約國應給予婦女與男子在取得、改變或保留國籍方面之同等權利;(2)締約國應給予婦女與男子有關子女國籍方面之同等權利。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-10",
+    "title": "CEDAW-10 教育",
+    "title_en": "Education",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施,以消除婦女在教育方面所受之歧視,特別保證:(a)同等職業選擇條件;(b)同等課程、考試;(c)消除性別刻板觀念;(d)獎學金平等;(e)成人教育;(f)減少女生輟學率;(g)同等運動與體育機會;(h)獲取家庭計畫資訊以保健康。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-11",
+    "title": "CEDAW-11 就業",
+    "title_en": "Employment",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施,以消除婦女在就業方面之歧視:(a)工作權;(b)同等就業機會;(c)同等職業選擇與晉升;(d)同等報酬;(e)社會保障;(f)健康與安全工作條件;(g)生育保護(產假、育嬰假、防止解僱)。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-12",
+    "title": "CEDAW-12 健康",
+    "title_en": "Health",
+    "url": "#",
+    "snippet": "(1)締約國應採取一切適當措施,以消除婦女在保健方面所受之歧視,保證婦女在男女平等基礎上獲得各種包括家庭計畫在內之保健服務;(2)締約國應保證婦女在懷孕、分娩及產後期間獲得適當服務(必要時免費),保證授乳期間有足夠營養。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-13",
+    "title": "CEDAW-13 經濟與社會福利",
+    "title_en": "Economic and social benefits",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施,以消除婦女在其他經濟與社會生活領域之歧視:(a)領取家屬補助金;(b)銀行貸款、抵押及其他財務信貸;(c)參加娛樂、體育、文化活動。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-14",
+    "title": "CEDAW-14 農村婦女",
+    "title_en": "Rural women",
+    "url": "#",
+    "snippet": "(1)締約國應考慮農村婦女面臨之特殊問題,以及她們對家庭經濟生存之重要貢獻;(2)應採取一切適當措施保證農村婦女:(a)參與發展規劃;(b)健康保健與計畫生育;(c)社會保障;(d)各類正規與非正規教育與訓練;(e)組織自助團體;(f)社區生活;(g)農業信貸、土地、住宅、水電、運輸與通訊。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-15",
+    "title": "CEDAW-15 法律平等",
+    "title_en": "Equality before the law",
+    "url": "#",
+    "snippet": "(1)締約國應給予婦女在法律上與男子平等之地位;(2)應給予婦女與男子相同之法律行為能力,使其在法律上行使能力之機會;(3)凡限制婦女法律行為能力之契約或文件,均屬無效;(4)在居住與遷徙之自由方面給予男女同等權利。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-16",
+    "title": "CEDAW-16 婚姻與家庭關係",
+    "title_en": "Marriage and family",
+    "url": "#",
+    "snippet": "締約國應採取一切適當措施,消除在有關婚姻和家庭關係之一切事務中對婦女之歧視:(a)結婚之權利;(b)自由選擇配偶;(c)在婚姻存續期間及解除婚姻時之同等權利義務;(d)在子女方面之同等權利義務;(e)決定子女數目及生育間隔之同等權利;(f)監護、扶養之同等權利;(g)選擇姓氏、職業、職業之同等權利;(h)財產之同等權利;童婚與童婚契約應無效,並規定最低結婚年齡。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-17",
+    "title": "CEDAW-17 消除對婦女歧視委員會",
+    "title_en": "CEDAW Committee establishment",
+    "url": "#",
+    "snippet": "設立消除對婦女歧視委員會,由 23 位委員組成,審查本公約之執行進度。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-18",
+    "title": "CEDAW-18 國家報告義務",
+    "title_en": "State reporting obligation",
+    "url": "#",
+    "snippet": "締約國應每四年向委員會提交國家報告,說明為實施本公約所採取之措施。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-19",
+    "title": "CEDAW-19 委員會議事規則",
+    "title_en": "Committee rules of procedure",
+    "url": "#",
+    "snippet": "委員會議事規則。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-20",
+    "title": "CEDAW-20 委員會會期",
+    "title_en": "Committee sessions",
+    "url": "#",
+    "snippet": "委員會每年集會審議國家報告。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-21",
+    "title": "CEDAW-21 委員會年報與一般性建議",
+    "title_en": "Annual reports and general recommendations",
+    "url": "#",
+    "snippet": "委員會每年向聯合國大會提交報告,並可基於對國家報告之審查提出一般性建議(General Recommendations)。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-22",
+    "title": "CEDAW-22 專門機構合作",
+    "title_en": "Specialized agencies cooperation",
+    "url": "#",
+    "snippet": "與聯合國專門機構之合作。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-23",
+    "title": "CEDAW-23 較有利之國內立法",
+    "title_en": "More favorable domestic laws",
+    "url": "#",
+    "snippet": "本公約規定不影響任何更有利於實現男女平等的本國法律或國際公約。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-24",
+    "title": "CEDAW-24 締約國義務承擔",
+    "title_en": "State obligations",
+    "url": "#",
+    "snippet": "締約國保證採取本國一切必要措施以實現公約所承認之權利之充分實現。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-25",
+    "title": "CEDAW-25 簽署與批准",
+    "title_en": "Signature and ratification",
+    "url": "#",
+    "snippet": "公約之簽署與批准。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-26",
+    "title": "CEDAW-26 修訂",
+    "title_en": "Revision",
+    "url": "#",
+    "snippet": "公約之修訂程序。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-27",
+    "title": "CEDAW-27 生效",
+    "title_en": "Entry into force",
+    "url": "#",
+    "snippet": "公約生效規定。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-28",
+    "title": "CEDAW-28 保留",
+    "title_en": "Reservations",
+    "url": "#",
+    "snippet": "締約國得提出保留,但不得抵觸公約宗旨與目的。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-29",
+    "title": "CEDAW-29 爭議解決",
+    "title_en": "Dispute resolution",
+    "url": "#",
+    "snippet": "公約適用之爭議解決機制。"
+  },
+  {
+    "type": "CEDAW",
+    "id": "CEDAW-30",
+    "title": "CEDAW-30 文本",
+    "title_en": "Authentic texts",
+    "url": "#",
+    "snippet": "本公約以阿拉伯文、中文、英文、法文、俄文、西班牙文為準。"
+  },
+  {
+    "type": "GR",
+    "id": "GR-12",
+    "title": "GR-12 對婦女之暴力",
+    "title_en": "Violence against women",
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw/general-recommendations",
+    "snippet": "首次將對婦女暴力認定為性別歧視之一種形式。要求締約國於國家報告中報告暴力事件、保護法令、求助服務之資料。",
+    "axis4_note": "GR-19 之前身,1989"
+  },
+  {
+    "type": "GR",
+    "id": "GR-19",
+    "title": "GR-19 對婦女之暴力(完整版)",
+    "title_en": "Violence against women",
+    "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=INT/CEDAW/GEC/3731",
+    "snippet": "完整建立 CEDAW 對性別暴力之框架。將性別暴力定義為「主要由於婦女是婦女而對其施加,或對婦女施加之比例過高之暴力」。涵蓋家暴、性騷擾、性侵、強迫絕育等。",
+    "axis4_note": "CEDAW 史上最重要 GR 之一"
+  },
+  {
+    "type": "GR",
+    "id": "GR-23",
+    "title": "GR-23 政治與公共生活",
+    "title_en": "Political and public life",
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw/general-recommendations",
+    "snippet": "解釋第 7 條與第 8 條,要求締約國在政治公共領域以暫行特別措施(GR-25)推進婦女實質平等。",
+    "axis4_note": "與軸三政治參與指標直接相關"
+  },
+  {
+    "type": "GR",
+    "id": "GR-24",
+    "title": "GR-24 婦女與健康",
+    "title_en": "Women and health",
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw/general-recommendations",
+    "snippet": "解釋第 12 條。要求締約國保證婦女取得健康服務(包含生育健康),消除健康部門中之性別歧視。",
+    "axis4_note": "軸三健康指標基礎"
+  },
+  {
+    "type": "GR",
+    "id": "GR-25",
+    "title": "GR-25 暫行特別措施",
+    "title_en": "Temporary special measures",
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw/general-recommendations",
+    "snippet": "解釋第 4(1) 條。明確「實質平等」(substantive equality)之概念,區別於「形式平等」(formal equality)。",
+    "axis4_note": "軸三指標的法理基礎"
+  },
+  {
+    "type": "GR",
+    "id": "GR-28",
+    "title": "GR-28 締約國一般義務",
+    "title_en": "General obligations",
+    "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CEDAW/C/GC/28",
+    "snippet": "解釋第 2 條(締約國義務)。**第 5 段對「sex」與「gender」之區分,被部分倡議者作為將 CEDAW 詮釋擴張至 SOGIESC 之依據** — 軸四爭議起點。",
+    "axis4_note": "**軸四關鍵 GR** — 第 5 段「sex 指生理差異、gender 指社會文化建構」之詮釋空間"
+  },
+  {
+    "type": "GR",
+    "id": "GR-30",
+    "title": "GR-30 衝突情境之婦女",
+    "title_en": "Women in conflict prevention",
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw/general-recommendations",
+    "snippet": "解釋衝突 / 後衝突情境中之婦女權益,涵蓋戰爭性暴力、流離失所婦女等。",
+    "axis4_note": null
+  },
+  {
+    "type": "GR",
+    "id": "GR-33",
+    "title": "GR-33 司法近用",
+    "title_en": "Access to justice",
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw/general-recommendations",
+    "snippet": "要求締約國消除婦女取得司法救濟之障礙。",
+    "axis4_note": "軸三 暴力對婦女 結合議題"
+  },
+  {
+    "type": "GR",
+    "id": "GR-35",
+    "title": "GR-35 性別暴力(更新)",
+    "title_en": "Gender-based violence (updated)",
+    "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CEDAW/C/GC/35",
+    "snippet": "更新 GR-19。明確化國家對私人(配偶/家人/雇主等)之性別暴力之 due diligence 義務。**部分國際倡議將「跨性別女性」納入此 GR 之保護範圍,引發 gender-critical 婦運界異議** — 軸四再爆點。",
+    "axis4_note": "**軸四再爆點** — 部分倡議擴張至跨性別議題"
+  },
+  {
+    "type": "GR",
+    "id": "GR-37",
+    "title": "GR-37 災害情境之性別維度",
+    "title_en": "Gender dimensions of disaster risk reduction",
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw/general-recommendations",
+    "snippet": "解釋氣候變遷與災害中之性別維度。",
+    "axis4_note": null
+  },
+  {
+    "type": "GR",
+    "id": "GR-39",
+    "title": "GR-39 原住民婦女",
+    "title_en": "Indigenous women",
+    "url": "https://www.ohchr.org/en/treaty-bodies/cedaw/general-recommendations",
+    "snippet": "最新 GR(2022),專門關注原住民婦女權益。",
+    "axis4_note": "軸三 PI-15 原住民女性 直接對應"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-lfpr-female",
+    "title": "女性勞動力參與率",
+    "title_en": "Female Labor Force Participation Rate",
+    "url": "#axis3",
+    "snippet": "15 歲以上女性參與勞動力之比率",
+    "group": "經濟"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-gpg-overall",
+    "title": "性別薪資差距(全體)",
+    "title_en": "Gender Wage Gap (Overall)",
+    "url": "#axis3",
+    "snippet": "男性中位數薪資相對女性中位數薪資之差距百分比",
+    "group": "經濟"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-gpg-fulltime",
+    "title": "性別薪資差距(全職全時)",
+    "title_en": "Gender Wage Gap (Full-time)",
+    "url": "#axis3",
+    "snippet": "全職全時受僱女性對男性薪資差距百分比",
+    "group": "經濟"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-board-women",
+    "title": "上市櫃女性董事比例",
+    "title_en": "Listed Company Women Board Members",
+    "url": "#axis3",
+    "snippet": "上市櫃公司女性董事佔比",
+    "group": "經濟"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-parental-leave-male",
+    "title": "男性育嬰留停使用率",
+    "title_en": "Male Parental Leave Usage Rate",
+    "url": "#axis3",
+    "snippet": "男性育嬰留職停薪占整體育嬰留停之比率",
+    "group": "經濟"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-dv-reports",
+    "title": "家暴通報案件數",
+    "title_en": "Domestic Violence Reports",
+    "url": "#axis3",
+    "snippet": "家庭暴力防治法案件年度通報總數",
+    "group": "暴力"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-sexual-assault",
+    "title": "性侵通報件數",
+    "title_en": "Sexual Assault Reports",
+    "url": "#axis3",
+    "snippet": "性侵害犯罪防治法年度通報案件",
+    "group": "暴力"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-sexual-harassment",
+    "title": "性騷擾申訴件數",
+    "title_en": "Sexual Harassment Complaints",
+    "url": "#axis3",
+    "snippet": "工作平等法 + 性騷擾防治法 + 性平法 三法合計年度",
+    "group": "暴力"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-digital-sv",
+    "title": "數位性暴力受理案件",
+    "title_en": "Digital Sexual Violence Cases",
+    "url": "#axis3",
+    "snippet": "深偽 + 性影像散布等數位性暴力案件",
+    "group": "暴力"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-stalking-cases",
+    "title": "跟蹤騷擾案件數",
+    "title_en": "Stalking Harassment Cases",
+    "url": "#axis3",
+    "snippet": "跟蹤騷擾防制法 (2022 施行) 案件數",
+    "group": "暴力"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-pap-coverage",
+    "title": "子宮頸抹片篩檢覆蓋率",
+    "title_en": "Pap Smear Coverage",
+    "url": "#axis3",
+    "snippet": "30+ 歲女性 3 年內接受子宮頸抹片之比率",
+    "group": "健康"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-mammo-coverage",
+    "title": "乳癌篩檢覆蓋率",
+    "title_en": "Mammography Coverage",
+    "url": "#axis3",
+    "snippet": "45-69 歲女性 2 年內接受乳房攝影之比率",
+    "group": "健康"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-tfr",
+    "title": "總生育率 (TFR)",
+    "title_en": "Total Fertility Rate",
+    "url": "#axis3",
+    "snippet": "每位育齡婦女平均生育子女數",
+    "group": "健康"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-maternal-mortality",
+    "title": "孕產婦死亡率",
+    "title_en": "Maternal Mortality Rate",
+    "url": "#axis3",
+    "snippet": "每 10 萬活產之孕產婦死亡數",
+    "group": "健康"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-female-suicide-mid",
+    "title": "中年女性自殺死亡率 (35-54)",
+    "title_en": "Female Suicide Rate (35-54)",
+    "url": "#axis3",
+    "snippet": "35-54 歲女性自殺死亡率",
+    "group": "健康"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-female-legislators",
+    "title": "立委女性比例",
+    "title_en": "Female Legislators Ratio",
+    "url": "#axis3",
+    "snippet": "當屆立法委員中女性佔比",
+    "group": "政治"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-female-mayors",
+    "title": "直轄市/縣市女性首長比",
+    "title_en": "Female Mayors",
+    "url": "#axis3",
+    "snippet": "六都 + 16 縣市女性首長佔比",
+    "group": "政治"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-female-gm",
+    "title": "中央部會女性政務官比例",
+    "title_en": "Female Cabinet Members",
+    "url": "#axis3",
+    "snippet": "行政院部會首長 + 政務副首長中女性佔比",
+    "group": "政治"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-indig-female-edu",
+    "title": "原住民女性大專以上學歷比例",
+    "title_en": "Indigenous Women Higher Edu",
+    "url": "#axis3",
+    "snippet": "15+ 原住民女性大專以上學歷比",
+    "group": "弱勢"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-newimm-female-dv",
+    "title": "新住民女性家暴受害率",
+    "title_en": "New Immigrant Women DV Rate",
+    "url": "#axis3",
+    "snippet": "新住民女性家暴通報率(對所有女性家暴比)",
+    "group": "弱勢"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-singlemom-poverty",
+    "title": "單親媽媽家戶貧窮率",
+    "title_en": "Single-Mother Poverty Rate",
+    "url": "#axis3",
+    "snippet": "單親媽媽家庭最低生活保障受益率",
+    "group": "弱勢"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-elder-female-poverty",
+    "title": "高齡女性貧窮率(獨居)",
+    "title_en": "Elderly Women Poverty (Living Alone)",
+    "url": "#axis3",
+    "snippet": "65+ 獨居女性低收入戶比",
+    "group": "弱勢"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-disability-female-emp",
+    "title": "身心障礙女性就業率",
+    "title_en": "Disability Women Employment",
+    "url": "#axis3",
+    "snippet": "15+ 身心障礙女性就業率",
+    "group": "弱勢"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-trafficking-victims",
+    "title": "人口販運被害者數(女性)",
+    "title_en": "Trafficking Victims (Female)",
+    "url": "#axis3",
+    "snippet": "人口販運案件女性被害人年度",
+    "group": "弱勢"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-rural-female-emp",
+    "title": "農村女性勞參率",
+    "title_en": "Rural Female Labor Participation",
+    "url": "#axis3",
+    "snippet": "農村地區 15+ 女性勞動力參與率",
+    "group": "弱勢"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-cervical-incidence",
+    "title": "子宮頸癌標準化發生率",
+    "title_en": null,
+    "url": "#axis3",
+    "snippet": "癌症登記資料,子宮頸癌標準化發生率",
+    "group": "健康"
+  },
+  {
+    "type": "INDICATOR",
+    "id": "I-cancer-screening",
+    "title": "五癌篩檢年度人次",
+    "title_en": null,
+    "url": "#axis3",
+    "snippet": "子宮頸+乳癌+大腸+口腔+肺癌 年度篩檢人次",
+    "group": "健康"
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW1-§3",
+    "title": "第 1 次 (2009) §3",
+    "url": "#axis4",
+    "snippet": "The Republic of Korea has ratified the National Human Rights Commission Act and such act gives definition to discrimination against gender and other grounds. Nevertheless, such definition is not compl",
+    "sogiesc_terms": "[\"sexual orientation\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW1-A",
+    "title": "第 1 次 (2009) §sample-1",
+    "url": "#axis4",
+    "snippet": "on sexual orientation and assistance for...",
+    "sogiesc_terms": "[\"sexual orientation\"]",
+    "axis4_note": "第 1 次 sexual orientation 出現 2 處 — 在反歧視保護一般原則下"
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW2-§22",
+    "title": "第 2 次 (2014) §22",
+    "url": "#axis4",
+    "snippet": "The Review Committee is concerned about the lack of progress in the development of teaching materials at all levels on sexual orientation an d gender identities, as recommended by the International Gr",
+    "sogiesc_terms": "[\"LBTI\", \"sexual orientation\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW2-§33",
+    "title": "第 2 次 (2014) §33",
+    "url": "#axis4",
+    "snippet": "The Review Com mittee is concerned at the lack of legal recognition of the diversity of families in the country and that only heterosexual marriages are recognized but not same sex unions or cohabitin",
+    "sogiesc_terms": "[\"same sex\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW2-§34",
+    "title": "第 2 次 (2014) §34",
+    "url": "#axis4",
+    "snippet": "The Review Committee is concerned about the provisions of the 2008 Executive Order regulating the process of gender change and requiring inter alia, the surgical removal of reproductive organs before ",
+    "sogiesc_terms": "[\"gender identity\", \"transgender\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW2-§6",
+    "title": "第 2 次 (2014) §6",
+    "url": "#axis4",
+    "snippet": "The Review Committee is concerned that despite the guarantee of equality for all people in article 7 of the Constitution of Taiwan, there is no legal definition of discrimination against women. It is ",
+    "sogiesc_terms": "[\"LBTI\", \"transsexual\", \"intersex\", \"lesbian\", \"bisexual\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW3-§19",
+    "title": "第 3 次 (2018) §19",
+    "url": "#axis4",
+    "snippet": "The IRC recommends that the Government: (a) improve indicators and conduct a broad study on the prevalence of stereotypes and wrongful application of law by pros ecutors and judges, as recommended in ",
+    "sogiesc_terms": "[\"transgender\", \"intersex\", \"lesbian\", \"bisexual\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW3-§24",
+    "title": "第 3 次 (2018) §24",
+    "url": "#axis4",
+    "snippet": "The IRC notes the existing, albeit rather limit ed, efforts to accelerate substantive equality of women and men by introducing various forms of te mporary special measures. The IRC also notes that the",
+    "sogiesc_terms": "[\"transgender\", \"intersex\", \"lesbian\", \"bisexual\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW3-§29",
+    "title": "第 3 次 (2018) §29",
+    "url": "#axis4",
+    "snippet": "The IRC recommends that the Government: (a) amend the Domestic Violence Prevention Act to s pecify gender based violence against women, in accordance with the CEDA W Committee’s General Recommendation",
+    "sogiesc_terms": "[\"transgender\", \"intersex\", \"lesbian\", \"bisexual\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW3-§46",
+    "title": "第 3 次 (2018) §46",
+    "url": "#axis4",
+    "snippet": "The IRC is concerned that sexual harassment, as sault and bullying continue on school campuses, in particular against girls, students wit h disabilities, LBTI students and foreigners among others.",
+    "sogiesc_terms": "[\"LBTI\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW3-§47",
+    "title": "第 3 次 (2018) §47",
+    "url": "#axis4",
+    "snippet": "The IRC urges the Government to step up its eff orts to prevent sexual harassment, 12 sexual assault and sexual bullying in schools, by providing strengthened policy measures and educational programs.",
+    "sogiesc_terms": "[\"LBTI\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW4-§46",
+    "title": "第 4 次 (2022) §46",
+    "url": "#axis4",
+    "snippet": "The IRC recommends the Government to consider using temporary special measures in order to ensure at least one third of admissions for women, in highly segregated areas where they are underrepresented",
+    "sogiesc_terms": "[\"gender identity\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW4-§64",
+    "title": "第 4 次 (2022) §64",
+    "url": "#axis4",
+    "snippet": "The IRC recommends that the Government intensify its efforts to equip the hospitals and health clinics with the necessary equipment and facilities to meet the diverse health needs of women with disabi",
+    "sogiesc_terms": "[\"LBTI\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW4-§77",
+    "title": "第 4 次 (2022) §77",
+    "url": "#axis4",
+    "snippet": "The IRC recommends that in cases of divorc e that involves domestic violence, mediation should be prohibited. It further recommends that all mediation committee members undergo training on domestic vi",
+    "sogiesc_terms": "[\"same-sex\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW4-§78",
+    "title": "第 4 次 (2022) §78",
+    "url": "#axis4",
+    "snippet": "The IRC appreciates that the 2019 Act for Implementation of Juridical Yuan Interpretation No. 748 allows same-sex marriages to be legally registered in Taiwan. It notes that Article 20 of the Act reta",
+    "sogiesc_terms": "[\"same-sex\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "CO_SOGIESC",
+    "id": "CEDAW4-§79",
+    "title": "第 4 次 (2022) §79",
+    "url": "#axis4",
+    "snippet": "The IRC calls upon the Government to consider taking the necessary measures to eliminate all remaining discriminatory rules again same-sex couples. De-facto unions",
+    "sogiesc_terms": "[\"same-sex\"]",
+    "axis4_note": null
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2009_CEDAW_initial_state_report_reference",
+    "title": "2009_CEDAW_initial_state_report_reference.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府(行政院性平處) · 2009 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2009_cedaw_initial_state_report",
+    "title": "2009_cedaw_initial_state_report.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府(行政院性平處) · 2009 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2014_2014-CEDAW-LOIs_Bilingual",
+    "title": "2014_2014-CEDAW-LOIs_Bilingual.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2014 · 問題清單 LOIs",
+    "doc_type": "問題清單 LOIs"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2014_2014-CEDAW-Replies-to-LOIs_Bilingual",
+    "title": "2014_2014-CEDAW-Replies-to-LOIs_Bilingual.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府 · 2014 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2014_2014-CEDAW-State-Report-Parallel-Report-ATIPP-LIMA-TIMA",
+    "title": "2014_2014-CEDAW-State-Report-Parallel-Report-ATIPP-LIMA-TIMA_CH.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府(行政院性平處) · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2014_2014-CEDAW-State-Report-Parallel-Report-TAHR_CH",
+    "title": "2014_2014-CEDAW-State-Report-Parallel-Report-TAHR_CH.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府(行政院性平處) · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2014_2014-CEDAW-State-Reports_CH",
+    "title": "2014_2014-CEDAW-State-Reports_CH.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府(行政院性平處) · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2014_2014-CEDAW-State-Reports_EN",
+    "title": "2014_2014-CEDAW-State-Reports_EN.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府(行政院性平處) · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2018_2018-CEDAW-Common-Core-Documents_EN",
+    "title": "2018_2018-CEDAW-Common-Core-Documents_EN.pdf",
+    "url": "#docs",
+    "snippet": "UN OHCHR / 學術社群 · 2018 · Common Core 文件",
+    "doc_type": "Common Core 文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2018_2018-CEDAW-LOIs_EN",
+    "title": "2018_2018-CEDAW-LOIs_EN.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2018 · 問題清單 LOIs",
+    "doc_type": "問題清單 LOIs"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2018_2018-CEDAW-Parallel-Replies_EN",
+    "title": "2018_2018-CEDAW-Parallel-Replies_EN.pdf",
+    "url": "#docs",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2018_2018-CEDAW-State-Reports-Parallel-Reports_EN",
+    "title": "2018_2018-CEDAW-State-Reports-Parallel-Reports_EN.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府(行政院性平處) · 2018 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2018_2018_CEDAW_Shadow_Report_EN",
+    "title": "2018_2018_CEDAW_Shadow_Report_EN.pdf",
+    "url": "#docs",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2022_20220531_CW_2022_CEDAW-PR_EN_rev.1",
+    "title": "2022_20220531_CW_2022_CEDAW-PR_EN_rev.1.pdf",
+    "url": "#docs",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2022 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2022_20220531_CW_2022_CEDAW-PR_TC_rev.1",
+    "title": "2022_20220531_CW_2022_CEDAW-PR_TC_rev.1.pdf",
+    "url": "#docs",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2022 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2022_CEDAW-4th-Common-Core-Document_TC",
+    "title": "2022_CEDAW-4th-Common-Core-Document_TC.pdf",
+    "url": "#docs",
+    "snippet": "UN OHCHR / 學術社群 · 2022 · Common Core 文件",
+    "doc_type": "Common Core 文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2022_CEDAW-4th-Convention-Specific-Document_TC",
+    "title": "2022_CEDAW-4th-Convention-Specific-Document_TC.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2022 · 公約特定文件",
+    "doc_type": "公約特定文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2022_CEDAW_4th_LOIs_PR_NHRC_TC",
+    "title": "2022_CEDAW_4th_LOIs_PR_NHRC_TC.pdf",
+    "url": "#docs",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2022 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2022_CEDAW_4th_LOIs_Reply_dual",
+    "title": "2022_CEDAW_4th_LOIs_Reply_dual.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府 · 2022 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2022_CEDAW_4th_LOIs_dual",
+    "title": "2022_CEDAW_4th_LOIs_dual.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2022 · 問題清單 LOIs",
+    "doc_type": "問題清單 LOIs"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-2022_CEDAW_4th_PR_NHRC_EN",
+    "title": "2022_CEDAW_4th_PR_NHRC_EN.pdf",
+    "url": "#docs",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2022 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-AABE-SexEd-2024",
+    "title": "AABE 國教盟 性教育課綱再校準公聽會發言稿",
+    "url": "https://www.naer.edu.tw/",
+    "snippet": "國教行動聯盟 · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Awakening-Shadow-2009",
+    "title": "婦女新知 第 1 次 CEDAW 民間影子報告",
+    "url": "https://www.awakening.org.tw/",
+    "snippet": "婦女新知基金會 · 2009 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Awakening-Shadow-2014",
+    "title": "婦女新知 第 2 次 CEDAW 民間影子報告",
+    "url": "https://www.awakening.org.tw/",
+    "snippet": "婦女新知基金會 · 2014 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Awakening-Shadow-2018",
+    "title": "婦女新知 第 3 次 CEDAW 民間影子報告",
+    "url": "https://www.awakening.org.tw/",
+    "snippet": "婦女新知基金會 · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CEDAW1_CO_2009_EN",
+    "title": "CEDAW1_CO_2009_EN.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2009 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CEDAW1_CO_2009_TC",
+    "title": "CEDAW1_CO_2009_TC.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2009 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CEDAW2_CO_2014_EN",
+    "title": "CEDAW2_CO_2014_EN.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2014 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CEDAW2_CO_2014_TC",
+    "title": "CEDAW2_CO_2014_TC.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2014 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CEDAW3_CO_2018_EN",
+    "title": "CEDAW3_CO_2018_EN.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2018 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CEDAW3_CO_2018_TC",
+    "title": "CEDAW3_CO_2018_TC.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2018 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CEDAW4_CO_2022-12-02_EN",
+    "title": "CEDAW4_CO_2022-12-02_EN.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2022 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CEDAW4_CO_2022-12-02_TC",
+    "title": "CEDAW4_CO_2022-12-02_TC.pdf",
+    "url": "#docs",
+    "snippet": "UN CEDAW 委員會 · 2022 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CW-2018Shadow",
+    "title": "Covenants Watch (2018) Parallel Report on the Implementation of CEDAW",
+    "url": "https://covenantswatch.org.tw/wp-content/uploads/2015/12/2018_CEDAW_Shadow_Report_EN.pdf",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CW-2022Parallel",
+    "title": "Covenants Watch (2022) CEDAW Parallel Report",
+    "url": "https://covenantswatch.org.tw/wp-content/uploads/2015/12/20220531_CW_2022_CEDAW-PR_EN_rev.1.pdf",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2022 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CW-CEDAW2-2014",
+    "title": "Covenants Watch 第 2 次 CEDAW 平行報告(16 NGO 整合)",
+    "url": "https://covenants-watch.tw/",
+    "snippet": "人權公約施行監督聯盟 · 2014 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CW-CEDAW3-2018",
+    "title": "Covenants Watch 第 3 次 CEDAW 平行報告(11 NGO 整合)",
+    "url": "https://covenants-watch.tw/",
+    "snippet": "人權公約施行監督聯盟 · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-CalSB132",
+    "title": "California SB132 (2020) — Transgender, Gender Variant, Intersex Persons in Custody Program",
+    "url": "#docs",
+    "snippet": "中華民國政府 · 2020 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Cass2024",
+    "title": "Cass Review Final Report — Independent Review of Gender Identity Services for Children and Young People",
+    "url": "https://cass.independent-review.uk/",
+    "snippet": "UN OHCHR / 學術社群 · 2024 · 學術文獻",
+    "doc_type": "學術文獻"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-EU-DSA",
+    "title": "EU Digital Services Act 2022/2065",
+    "url": "https://eur-lex.europa.eu/eli/reg/2022/2065",
+    "snippet": "國際 NGO / WHRC / Sex Matters · 2022 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-EU-PayTransparency",
+    "title": "EU Directive 2023/970 — Pay Transparency Directive",
+    "url": "https://eur-lex.europa.eu/eli/dir/2023/970",
+    "snippet": "國際 NGO / WHRC / Sex Matters · 2023 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-EU-WomenOnBoards",
+    "title": "EU Directive 2022/2381 — Women on Boards",
+    "url": "https://eur-lex.europa.eu/eli/dir/2022/2381",
+    "snippet": "國際 NGO / WHRC / Sex Matters · 2022 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-EU-WorkLifeBalance",
+    "title": "EU Directive 2019/1158 — Work-Life Balance for Parents and Carers",
+    "url": "https://eur-lex.europa.eu/eli/dir/2019/1158",
+    "snippet": "國際 NGO / WHRC / Sex Matters · 2019 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-FamilyAlliance-2014",
+    "title": "全民護家盟 凱道大遊行宣言",
+    "url": "#docs",
+    "snippet": "全民護家盟 · 2014 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-FiLiA-UKCEDAW-2023",
+    "title": "FiLiA (UK) 第 8 次 UK CEDAW 平行報告",
+    "url": "https://filia.org.uk/",
+    "snippet": "FiLiA UK · 2023 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-FocusTW-GPG2024",
+    "title": "Focus Taiwan (2024-02-25) Taiwan gender pay gap widens in 2024",
+    "url": "https://focustaiwan.tw/society/202502250015",
+    "snippet": "媒體 · 2024 · 媒體報導",
+    "doc_type": "媒體報導"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-GEC-V4-2017",
+    "title": "行政院性平政策綱領 v4(106 年修正本)",
+    "url": "https://gec.ey.gov.tw/",
+    "snippet": "行政院性別平等處 · 2017 · 性平政策綱領",
+    "doc_type": "性平政策綱領"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-GEC-V6-Draft-2024",
+    "title": "行政院性平政策綱領 v6 草案",
+    "url": "https://gec.ey.gov.tw/",
+    "snippet": "行政院性別平等處 · 2024 · 性平政策綱領",
+    "doc_type": "性平政策綱領"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-GEPolicy_2017",
+    "title": "GEPolicy_2017.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府 ·  · 性平政策綱領",
+    "doc_type": "性平政策綱領"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-GEPolicy_2017_taichung",
+    "title": "GEPolicy_2017_taichung.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府 ·  · 性平政策綱領",
+    "doc_type": "性平政策綱領"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-GEPolicy_acri_2011_2017",
+    "title": "GEPolicy_acri_2011_2017.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府 ·  · 性平政策綱領",
+    "doc_type": "性平政策綱領"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Garden-Shadow-2018",
+    "title": "勵馨基金會 第 3 次 CEDAW 性侵 + 性騷影子報告",
+    "url": "https://www.goh.org.tw/",
+    "snippet": "勵馨基金會 · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Hilton2020",
+    "title": "Hilton & Lundberg (2020) Transgender Women in the Female Category of Sport: Perspectives on Testosterone Suppression and Performance Advantage. Sports Medicine 51(2)",
+    "url": "https://link.springer.com/article/10.1007/s40279-020-01389-3",
+    "snippet": "UN OHCHR / 學術社群 · 2020 · 學術文獻",
+    "doc_type": "學術文獻"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Hotline-Shadow-2018",
+    "title": "同志諮詢熱線 第 3 次 CEDAW LBTI 影子報告",
+    "url": "https://hotline.org.tw/",
+    "snippet": "台灣同志諮詢熱線協會 · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Hotline-Shadow-2022",
+    "title": "同志諮詢熱線 第 4 次 CEDAW LBTI 影子報告",
+    "url": "https://hotline.org.tw/",
+    "snippet": "台灣同志諮詢熱線協會 · 2022 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-ILO-C190",
+    "title": "ILO Convention 190 — Violence and Harassment Convention (2019)",
+    "url": "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C190",
+    "snippet": "國際 NGO / WHRC / Sex Matters · 2019 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-J748",
+    "title": "司法院釋字第 748 號解釋",
+    "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=4&id=308779",
+    "snippet": "中華民國政府 · 2017 · 判決",
+    "doc_type": "判決"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Kaohsiung-PI11-Study-2024",
+    "title": "高醫性別研究所 台灣 TFR 全球最低之政策剖析",
+    "url": "#docs",
+    "snippet": "高雄醫大性別研究所 · 2024 · 學術文獻",
+    "doc_type": "學術文獻"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-LGBA-Manifesto-2019",
+    "title": "LGB Alliance (UK) Founding Manifesto",
+    "url": "https://lgballiance.org.uk/",
+    "snippet": "LGB Alliance UK · 2019 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-MOHW-DSV2024",
+    "title": "衛生福利部 (2024) 我國數位/網路性別暴力狀況調查報告",
+    "url": "https://www.mohw.gov.tw/cp-16-79334-1.html",
+    "snippet": "研究機構 · 2024 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-MOHW-IPV-2023",
+    "title": "衛福部 親密暴力被害人服務方案 v2",
+    "url": "https://dep.mohw.gov.tw/dops/",
+    "snippet": "衛福部保護服務司 · 2023 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-MOL-GenderStat-2024",
+    "title": "勞動部 性別勞動統計年報(2024)",
+    "url": "https://www.mol.gov.tw/",
+    "snippet": "勞動部 · 2024 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-MWF-Shadow-2018",
+    "title": "現代婦女基金會 第 3 次 CEDAW 家暴章節影子報告",
+    "url": "https://www.38.org.tw/",
+    "snippet": "現代婦女基金會 · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Mommies-Position-2024",
+    "title": "台灣全國媽媽護家護兒聯盟 對性平政策綱領 v6 修訂意見書",
+    "url": "#docs",
+    "snippet": "台灣全國媽媽護家護兒聯盟 ⭐ · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Mommies-Statement-2024",
+    "title": "護家護兒聯盟 反性別認定法草案 公聽會聲明",
+    "url": "#docs",
+    "snippet": "台灣全國媽媽護家護兒聯盟 ⭐ · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-NAP_2022_Foreword_EN",
+    "title": "NAP_2022_Foreword_EN.pdf",
+    "url": "#docs",
+    "snippet": "中華民國政府 · 2022 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-NDC-Pop2024",
+    "title": "National Development Council (2024) Population Projections for the Republic of China (Taiwan): 2024-2070",
+    "url": "https://pop-proj.ndc.gov.tw/",
+    "snippet": "研究機構 · 2024 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-NHRC-CEDAW",
+    "title": "NHRC (2022) CEDAW 4th Independent Opinion (Parallel Report)",
+    "url": "https://covenantswatch.org.tw/wp-content/uploads/2015/12/CEDAW_4th_PR_NHRC_EN.pdf",
+    "snippet": "Covenants Watch / 婦女新知 / 多 NGO 聯署 · 2022 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-NHS-PB2024",
+    "title": "UK NHS England (2024-06) Discontinuation of Puberty Blockers for Under-18",
+    "url": "#docs",
+    "snippet": "中華民國政府 · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-NTU-PI21-Study-2023",
+    "title": "台大婦女研究室 SOGIESC 進入婦女政策之比較研究",
+    "url": "#docs",
+    "snippet": "台大婦女研究室 · 2023 · 學術文獻",
+    "doc_type": "學術文獻"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-awakening-page-2762682",
+    "title": "找不到網頁 | 婦女新知基金會",
+    "url": "https://www.awakening.org.tw/announce/list",
+    "snippet": "婦女新知基金會(自家網站) · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-awakening-page-3029561",
+    "title": "婦女新知基金會 | 女性權益，我們倡議 Fight for Gender Equality",
+    "url": "https://www.awakening.org.tw/",
+    "snippet": "婦女新知基金會(自家網站) · 2026 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-awakening-page-7096864",
+    "title": "找不到網頁 | 婦女新知基金會",
+    "url": "https://www.awakening.org.tw/article/list",
+    "snippet": "婦女新知基金會(自家網站) · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-awakening-page-8521927",
+    "title": "找不到網頁 | 婦女新知基金會",
+    "url": "https://www.awakening.org.tw/topic/list/?utm=&topic_id=",
+    "snippet": "婦女新知基金會(自家網站) · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1051328",
+    "title": "聯合國CEDAW委員會發布 「CEDAW與COVID-19」指引說明 ，強調各國在嚴重特殊傳染性肺炎（COVID-19）的應處作為和危機後的恢復計畫中，應該促進女性的經濟權能並解決就業和社會保障體系中的性別不平等問題，並須確保女性能夠平等且實質參與相關計畫的制訂和決策。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/264",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1124757",
+    "title": "行政院性別平等處發布「民眾向行政機關引用CEDAW指引及案例」手冊",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/268",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2021 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1450753",
+    "title": "CEDAW)第5次國家報告國際審查委員會「問題清單」已公告於本網站",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/303",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2026 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1473226",
+    "title": "締約各國為加速實現男女事實上的平等而採取的暫行特別措施，不得視為本公約所指的歧視，亦不得因此導致維持不平等的標準或另立標準；這些措施應在男女機會和待遇平等的目的達到之後，停止採用。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/47",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1478052",
+    "title": "締約各國譴責對婦女一切形式的歧視，協議立即用一切適當辦法，推行消除對婦女歧視的政策。為此目的，承擔：",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/27",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1509310",
+    "title": "締約各國應採取一切適當措施以消除在保健方面對婦女的歧視，保證她們在男女平等的基礎上取得各種包括有關計畫生育的保健服務。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/55",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1663859",
+    "title": "1. 消除對婦女歧視委員會在2010年第四十七屆會議上根據《消除對婦女一切形式歧視公約》第二十一條做出決定，就婦女在預防衝突、衝突及衝突後局勢中的作用通過一項一般性建議。本一般性建議的主要宗旨和目的是，向締約國提供關於立法、政策和其他適當措施的權威指導，以期確保全面遵守《公約》規定的保護、尊重和實現婦女人權的義務。本一般性建議還借鑒了以前通過的一般性建議所述的原則。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/192",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1669489",
+    "title": "CEDAW第4次國家報告2022年11月28日（ㄧ）至12月2日（五）國際審查會議直播連結",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/287",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1688465",
+    "title": "CEDAW第3次國家報告結論性意見與建議：跨機關點次之回應表審查會議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/259",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2018 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1699967",
+    "title": "CEDAW 法規檢視講師教學工作坊（7場）",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/188",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2012 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1875043",
+    "title": "行政院性別平等處公告「CEDAW第4次國家報告結論性意見與建議」",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/288",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1894451",
+    "title": "消除對婦女一切形式歧視公約（CEDAW）」第4次國家報告結論性意見與建議之 行動回應表「定稿版」與「一稿及二稿民間意見與機關回應說明」已公開於行政院性別平等會官網",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/292",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2024 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1930067",
+    "title": "國際性別通訊「認識CEDAW公約系列」",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/45",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-1989913",
+    "title": "本手冊從日常生活、新聞事件和司法判決蒐集十個婦女人權歧視案例並提出思考問題，供討論帶領人引導學員察覺刻板印象及歧視的存在，以及不同權利面向中易受歧視的群體，希望由此作為民間思索在地工作如何聯結國際規範的起點，促使更多元的團體加入書寫歧視及運用CEDAW等人權公約的行列，以凝聚各地組織能量，激發消除性別歧視、促進實質平等的行動策略，進而提出修法及政策制訂的建議。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/214",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2086061",
+    "title": "本手冊包括國中教案四件和高中職教案三件，並涵蓋了公民與社會、健康與護理、綜合與輔導活動、國文、英文及美術等學習領域，希望透過創意的設計，結合校園性別平等教育與CEDAW，讓國際婦女人權公約開始在中學校園生根與發芽。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/193",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2013 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2206244",
+    "title": "行政院性別平等處公告「消除對婦女一切形式歧視公約中華民國第3次國家報告」定稿",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/247",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2017 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2254450",
+    "title": "依據CEDAW施行法之規定，我國將於今（103）年6月比照聯合國國家報告審議制度，舉辦「CEDAW第二次國家報告審議會議」。為擴大民間在該審查會 議的參與，婦權基金會特辦理3場交流活動，協助已完成民間報告的團體跨區蒐集資料、促進在地交流，並藉由經驗分享，協助本次未及提出民間報告的團體，瞭解 民間團體在CEDAW報告審議機制中的角色，及如何運用CEDAW報告作為倡議及政策監督的工具。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/199",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2321835",
+    "title": "行政院性別平等處公告4月21-22日「CEDAW第3次國家報告結論性意見與建議期中審查會議」會議資訊",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/262",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2020 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2357506",
+    "title": "CEDAW委員會緊急呼籲美國確保女性能取得安全且合法的人工流產管道",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/282",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-236443",
+    "title": "消除對婦女一切形式歧視公約(CEDAW)",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/198",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2013 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2403793",
+    "title": "欲落實CEDAW，不僅需政府部門與民間團體共同努力，更需將其內涵與精神生根社會，並與我們的生活經驗產生連結。這本宣導手冊希望藉由對各種歧視樣態的案例分享，以淺顯易懂的說明方式，讓讀者更瞭解CEDAW的實質意涵，由意識的自覺進而捍衛自身的權利。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/44",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-240452",
+    "title": "消除對婦女一切形式歧視公約（ CEDAW ）",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/302",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2637512",
+    "title": "保障基本人權和基本自由（第3條）",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/46",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2712897",
+    "title": "行政院性別平等處CEDAW第二次國家報告議題清單回應已公告上網",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/206",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2714320",
+    "title": "CEDAW第3次國家報告審查會議「非政府組織提交平行報告注意事項」",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/248",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2018 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2739072",
+    "title": "CEDAW第4次國家報告座談會」延後辦理！",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/271",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2021 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2884684",
+    "title": "聯合國CEDAW委員會及CRC委員會通過聯合一般性建議／意見",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/235",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-2920442",
+    "title": "1. 消除對婦女歧視委員會(以下簡稱「委員會」)對高齡婦女所經歷多種形式的歧視，以及締約國報告中對於高齡婦女的權利未作系統性闡述而表示關切，並於2008年10月20日至11月7日舉行的第四十二屆會議，根據《消除對婦女一切形式歧視公約》(以下簡稱「公約」)第21條，決定通過關於高齡婦女問題和保護其人權的一般性建議。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/74",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2008 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3024424",
+    "title": "CEDAW國家報告及民間報告（英文版）提交國際審查",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/251",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2018 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3084283",
+    "title": "CEDAW第3次國家報告審查委員會總結意見與建議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/257",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2018 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3236370",
+    "title": "四. 婦女在決策系統中的平等和包容性代表權的規範框架",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/295",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3260498",
+    "title": "CEDAW影子報告與政府部門對話會議—家庭暴力與性騷擾」相關建議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/28",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3300883",
+    "title": "消除對婦女一切形式歧視公約(CEDAW)中華民國第二次國家報告國外專家審查暨發表會議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/200",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3321861",
+    "title": "為回應疫情採行限制措施下驟增的性別暴力，聯合國婦女署、開發計畫署、世界衛生組織、國際移民組織、人權高及專員辦公室、毒品與犯罪問題辦公室、人道事務協調廳、人口基金、兒童基金等9個組織於6月24日共同發布「COVID-19下的婦女與女童暴力」跨組織聲明（ Inter-Agency）Statement on Violence against Women and Girls in the Context of COVID-19 ）。聲明呼籲各國應在以下六個關鍵領域採取行動：",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/267",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3350310",
+    "title": "一. 實現男女比例 50/50 的路線圖",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/294",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2019 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3399841",
+    "title": "1.本一般性建議為締約國採取立法、政策和其他相關措施以確保履行《消除對婦女一切形式歧視公約》規定的與原住民族婦女和女童權利有關的義務提供指導。全球估計有4.766億原住民族人民，其中一半以上（2.384億）是婦女。許多生活在農村、偏遠地區和城市的原住民族婦女和女童在生活中反復面臨歧視和暴力。本一般性建議適用於原住民族領土之內和之外的原住民族婦女和女童。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/290",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2009 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3406838",
+    "title": "聯合國CEDAW委員會與CRC委員會於11月19日發表 「預防、保護和協助因衝突中性暴力而出生的兒童及其母親」聯合聲明 ，敦促各國政府對因衝突中性暴力而出生的嬰兒提供更多協助與支持，並對性暴力倖存婦女提供更多保護。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/278",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3422980",
+    "title": "財團法人婦女權益促進發展基金會",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/201",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3459751",
+    "title": "CEDAW第二次國家報告審查委員會總結意見與建議正式版本公告",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/210",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3493799",
+    "title": "CEDAW第二次國家報告審查委員議題清單已提出",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/203",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-350058",
+    "title": "行政院公告CEDAW第4次國家報告座談會紀錄及會後書面意見",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/277",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2021 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3569627",
+    "title": "1. 締約各國應採取一切適當措施，消除在就業方面對婦女的歧視，以保證她們在男女平等的基礎上享有相同權利，特別是：",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/54",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3576368",
+    "title": "1. 氣候變遷使天氣和氣候災害的頻率和強度增加，加劇了全球災害的風險和影響，增加了社區面對這些災害的脆弱性。有科學證據表明，世界上大部分極端天氣事件都是人類造成的氣候變遷所致。 這類災害造成的人權後果明顯體現為政治和經濟不穩定、不平等加劇、糧食和水安全減弱以及對健康和生計的威脅加大。氣候變遷影響到每個人，但那些造成氣候變遷責任最輕的國家和人口，包括貧困人口、年輕人和子孫後代，最容易受到氣候變遷的影響。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/256",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2015 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-3746324",
+    "title": "CEDAW影子報告與政府部門對話會議—外籍移工與人口販運」相關建議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/31",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4023671",
+    "title": "詳見 行政院性別平等會官網 (另開視窗)—最新消息",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/293",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4032659",
+    "title": "聯合國CEDAW委員會通過關於婦女的難民地位、庇護、國籍和無國籍狀態的第32號一般性建議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/233",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4039747",
+    "title": "聯合國CEDAW委員會與CRC委員會於8月30日共同呼籲塔利班兌現保護阿富汗婦女和女童的承諾，尊重和履行《消除對婦女一切形式歧視公約》和《兒童權利公約》所載的人權保障。聲明詳見 連結 。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/275",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4059544",
+    "title": "非政府組織提交國際審查委員會問題清單之平行回應至7月4日截止",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/252",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2018 · 問題清單 LOIs",
+    "doc_type": "問題清單 LOIs"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4096237",
+    "title": "締約各國應採取一切適當措施，保證婦女在與男子平等不受任何歧視的條件下，有機會在國際上代表本國政府和參加各國際組織的工作。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/51",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4117816",
+    "title": "消除對婦女一切形式歧視公約(CEDAW)",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/280",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4132069",
+    "title": "行政院性別平等處公告「消除對婦女一切形式歧視公約中華民國第4次國家報告」定稿",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/281",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4161090",
+    "title": "為阻止國際人權反對聲浪對女性的性與生殖健康的威脅，聯合國CRPD委員會及CEDAW委員會於8月29日發表了「保證女性的性與生殖健康，特別是身心障礙女性」（ Guaranteeing sexual and reproductive health and rights for all women, in particular women with disabilities ）共同聲明，重申身心障礙人權與性別平等並不衝突，兩者皆是人權價值的重要內涵。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/258",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4183328",
+    "title": "委員會感謝 100 多個民間社會和婦女組織、《公約》締約方、學術界代表、聯合國實體 和 其他利益攸關方在編寫本一般性建議的過程中做出了寶貴貢獻，提 出了看法和意見。委員會還衷心感謝暴力侵害婦女及其原因和後果問題特別報告 員在執行其任務授權方面的工作及其為本一般性建議做出的貢獻。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/249",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4226684",
+    "title": "消除對婦女一切形式歧視公約（CEDAW）」第4次國家報告結論性意見與建議之行動回應表(第2稿)已公布",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/291",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4252164",
+    "title": "行政院性別平等處更新「CEDAW第3次國家報告結論性意見與建議期中審查作業調整說明」，延長書面意見收件時間至4月17日(五)",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/263",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2020 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4417823",
+    "title": "CEDAW影子報告與政府部門對話會議—新移民議題」相關建議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/29",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4477617",
+    "title": "政府部門與民間團體的對話與激盪】教育權",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/33",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2009 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4668721",
+    "title": "1.如《世界人權宣言》所言，家庭是社會的基本單位。 它是一個社會和法律概念，而且在許多國家，是一個宗教概念。家庭還是一個經濟概念。家庭市場研究表明，家庭結構、家庭內的性別分工和家庭法對婦女經濟福利的影響不下於勞動市場結構和勞動法的影響。的確，婦女往往不能平等享有其家庭的經濟財富和收益，而且一旦家庭解體，她們付出的代價通常比男子更高，守寡後則可能陷於赤貧。如果她們有子女，特別是國家提供的經濟安全網很小或根本不存在時，則尤其如此。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/191",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4794959",
+    "title": "1. 教育在推廣人權價值觀方面發揮了關鍵的推動變革和增強能力的作用，被認為是實現性別平等和增強婦女權能的途徑。  教育也是一項重要的工具，用於實現個人發展以及發展一支能夠促進公民責任和國家發展的有能力的勞動力和公民隊伍。因此，會員國2000年9月核可《聯合國千年宣言》(大會第55/2號決議)，決心確保到2015年，世界各地的兒童都能夠完成初級教育的全部課程，並且女童和男童能夠平等接受所有各級教育。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/250",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2015 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-4903623",
+    "title": "注意到《聯合國憲章》重申對基本人權、人身尊嚴和價值以及男女平等權利的信念，",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/222",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5049498",
+    "title": "時間：102年5月至11月（共9場）",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/40",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2013 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5072452",
+    "title": "CEDAW即將在明年迎來第四次國際審查，公部門與民間團體也開始撰寫平行報告。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/274",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5104350",
+    "title": "CEDAW第5次國家報告初稿下載(114.6.11性平處公告)",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/297",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5235162",
+    "title": "有關「消除對婦女一切形式歧視公約(CEDAW)第 5 次國家報告 作業計畫」、「消除對婦女一切形式歧視公約(CEDAW)第 5 次國家報告 撰寫重點」、「消除對婦女一切形式歧視公約(CEDAW)第 5 次國家報告 國際審查指導小組委員名單」等以上資訊 ， 已公告 於 行政院性別平等會網站  ，歡迎查詢。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/296",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2025 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5243941",
+    "title": "CEDAW 第 4 次國家報告國際審查會議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/284",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5537478",
+    "title": "行政院性別平等處已公告--CEDAW 第 4 次國家報告結論性意見與建議之行動回應表審查會議民間團體報名注意事項",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/289",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2023 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5570785",
+    "title": "為加強CEDAW第4次國家報告撰寫過程中，政府部門與民間團體間之對話與意見交流機制，爰規劃於臺北、臺中、高雄及花蓮辦理9場次座談會，由行政院性別平等處會同國家報告各條文撰寫機關，以國家報告初稿徵詢及蒐集民間團體意見，使報告內容趨於完備。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/270",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2021 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5692150",
+    "title": "主辦：財團法人婦女權益促進發展基金會",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/221",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2015 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-586537",
+    "title": "時間 議程 主持人 主講人 13:30 ~ 14:00",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/39",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2008 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5869166",
+    "title": "在本公約中，「對婦女的歧視」一詞指基於性別而作的任何區別、排斥或限制，其影響或其目的均足以妨礙或否認婦女不論已婚未婚在男女平等的基礎上認識、享有或行使在政治、經濟、社會、文化、公民或任何其他方面的人權和基本自由。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/26",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-5915366",
+    "title": "第二部分】政治和公共生活（第7條）",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/50",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6071747",
+    "title": "為避免實體審查之群聚行為，行政院性平處將第1輪審查改以書面方式徵詢各界意見；第2輪則於本年9月至10月視疫情狀況再評估辦理實體座談會或線上視訊會議或其他替代方式。詳參附檔。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/272",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6181685",
+    "title": "3.在實踐中，委員會注意到一些妨礙婦女在平等基礎上實現其司法救助權的障礙和限制，包括締約國未能在司法救助的各個方面提供有效的管轄權保護。這些障礙是在歧視和不平等的結構性背景下出現的，成因包括性別陳刻板印象、歧視性法律、交叉或複合歧視、程序和舉證的規定和實踐，以及無法在物質、經濟、社會和文化方面有系統地確保所有婦女能夠利用各種司法機制。所有這些障礙構成對婦女人權的持續侵犯。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/230",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6274145",
+    "title": "1.《消除對婦女一切形式歧視公約》第6條規定，締約國有法律義務採取一切適當措施，包括制定法律，以禁止一切形式販賣婦女和強迫婦女賣淫對她們進行剝削的行為。儘管國家、區域和國際各級在打擊販運方面有大量法律和政策框架，但在全世界發現的人口販運受害者中，婦女和女童仍然占大多數，犯罪者普遍逍遙法外。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/269",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-634471",
+    "title": "行政院性別平等處CEDAW第二次國家報告定稿已公告上網",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/174",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6345901",
+    "title": "締約各國應給予婦女與男子有取得、改變或保留國籍的同等權利。締約各國應特別保證，與外國人結婚或於婚姻存續期間丈夫改變國籍均不當然改變妻子的國籍，使她成為無國籍人，或把丈夫的國籍強加於她。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/52",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-645452",
+    "title": "政府部門與民間團體的對話與激盪】禁止性剝削",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/34",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2009 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6676862",
+    "title": "行政院性別平等處公告「各機關落實CEDAW第3次國家報告73點結論性意見與建議之回應表」",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/261",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2019 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6712531",
+    "title": "a) 改變男女的社會和文化行為模式，以消除基於性別而分尊卑觀念或基於男女任務定型所產生的偏見、習俗和一切其他做法； (b) 保證家庭教育應包括正確了解母性的社會功能和確認教養子女是父母的共同責任，當然在任何情況下都應首先考慮子女的利益。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/48",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-677395",
+    "title": "1. 消除對婦女歧視委員會旨在通過本一般性建議向締約國提供關於立法、政策和其他適當措施的權威指導，以確保締約國履行《消除對婦女一切形式歧視公約》及其《任擇議定書》規定的有關與婦女的難民地位、庇護、國籍和無國籍狀態相關的不歧視和性別平等的義務。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/219",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-67793",
+    "title": "聯合國氣候行動高峰會召開前夕，CEDAW、ICESCR、ICMW、CRC、CRPD等五個人權公約條約機構於9月16日共同發表了「人權與氣候變遷」（Human Rights and Climate Change）共同聲明，肯定峰會對鼓勵減碳行動所發揮的作用，也呼籲各國在檢視氣候承諾時，必須將人權義務納入考量。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/260",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6848320",
+    "title": "2018/7/20(五)委員會總結意見發表記者會：NGO列席名單",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/255",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2018 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-691399",
+    "title": "日期：2016年9月20日（星期二）",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/236",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2016 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6914815",
+    "title": "行政院性別平等處公告CEDAW審查秘書處諮詢委員名單",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/202",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-6994944",
+    "title": "1. 消除對婦女歧視委員會申明移徙婦女與所有婦女相同，在生活的各領域均不應受到歧視，在其第32屆會議(2005年1月)中決定，按照《消除對婦女一切形式歧視公約》第21條，針對可能受虐待和歧視的女性移工，提出一般性建議。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/109",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-7031585",
+    "title": "看見疫情下的中高齡女性」懶人包",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/196",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-7138910",
+    "title": "CEDAW第二次國家報告審查委員會總結意見與建議分工表公告",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/212",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-727846",
+    "title": "日期：101年5月14日 地點：臺灣國家婦女館會議室",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/190",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-7297737",
+    "title": "締約各國應採取一切適當措施以消除在經濟和社會生活的其他方面對婦女的歧視，保證她們在男女平等的基礎上有相同權利，特別是：",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/56",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-7444710",
+    "title": "CEDAW第三次國家報告國外專家審查暨發表會議」非政府組織報名結果公告",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/254",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2018 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-7599560",
+    "title": "全書共分為四大章：（一）培訓介紹與期望，（二）CEDAW介紹，（三）CEDAW的主要原則，以及（四）CEDAW委員會。透過最簡單的方式，提供種子教師推廣CEDAW的基礎教材，讓講師可以透過深入淺出的方式帶領學員瞭解CEDAW。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/42",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2012 · 教育宣導",
+    "doc_type": "教育宣導"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-7746503",
+    "title": "有關行政院性別平等處辦理之「CEDAW第5次國家報告初稿與民間意見交流座談會」",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/298",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-7829121",
+    "title": "行政院性別平等處已公告「CEDAW第5次國家報告二稿」",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/299",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2025 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-7951386",
+    "title": "CEDAW影子報告與政府部門對話會議—愛滋議題」相關建議",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/30",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2010 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8133638",
+    "title": "CEDAW第二次國家報告國外專家審查暨發表會議議程異動",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/208",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8202009",
+    "title": "聯合國婦女署、CEDAW委員會與CRPD委員會於10月22日發表「終止對身心障礙女性的性騷擾」（ Ending Sexual Harassment Against Women And Girls With Disabilities）聯合聲明 ，指出目前的婦女權益與性別平等工作仍不夠關注身心障礙女性，必須正視障礙者「沒有我們的參與，就不要替我們做決定」（Nothing about us, without us）的呼籲。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/266",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8214522",
+    "title": "1.《消除對婦女一切形式歧視公約》（《消除對婦女歧視公約》）和《兒童權利公約》包含具有法律約束力的與消除有害做法一般相關以及具體相關的義務。在執行各自監測任務的過程中，消除對婦女歧視委員會和兒童權利委員會一再提請注意這些危及婦女兒童，主要是女童的做法。鑒於工作任務的重疊以及對防止、回應和消除有害做法的共同承諾，無論其在何地以何種形式出現，消除對婦女歧視委員會和兒童權利公約委員會決定編制本聯合一般性建議/意見。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/217",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2011 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8246639",
+    "title": "行政院性別平等處CEDAW第二次國家報告英文版已公告上網",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/205",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8267096",
+    "title": "CEDAW第四次國家報告國外專家審查暨發表會議」非政府組織報名結果公告(11.24更新)",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/286",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8323550",
+    "title": "有關第2輪「審查各機關對CEDAW第2次國家報告總結意見與建議初步回應會議」3~6月分各場次會議資訊、報名表等，已於 行政院性別平等會網站 公告，歡迎參閱。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/220",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2015 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8360331",
+    "title": "政府部門與民間團體的對話與激盪】就業權",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/35",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2009 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8385955",
+    "title": "婦權基金會：「消除對婦女一切形式歧視公約（CEDAW）影子/替代報告英譯補助辦法」即日起接受申請，102年12月底前截止收件",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/194",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2013 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8443217",
+    "title": "時間 內容 主持人／報告人／引言人 13:00 ~ 13:20",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/36",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2011 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8692462",
+    "title": "從業務中看見CEDAW（3場）",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/189",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-872553",
+    "title": "CEDAW第4次國家報告二稿公佈，第二輪座談現正報名中！",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/276",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2021 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8743541",
+    "title": "時間 議程 主持人/主講人 09:00 ~ 09:30",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/37",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2009 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8802928",
+    "title": "1. 締約各國應考慮到農村婦女面臨的特殊問題和她們對家庭生計包括她們在經濟體系中非商品化部門的工作方面所發揮的重要作用，並應採取一切適當措施，保證對農村婦女適用本公約的各項規定。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/57",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-8962282",
+    "title": "非政府組織提交國際審查委員會問題清單之平行回應至10月31日中午12時止",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/283",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · 問題清單 LOIs",
+    "doc_type": "問題清單 LOIs"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9006107",
+    "title": "行政院性別平等處建置「CEDAW第2次國家報告國外專家審查暨發表會議」專屬網站",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/207",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9020827",
+    "title": "地點：集思台大會議中心蘇格拉底廳(台北市羅斯福路四段85號B1)",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/38",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2008 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9231192",
+    "title": "自二月緬甸軍方接管政府以來社會經濟動盪不斷，加上Covid-19的爆發使其國人面臨嚴重的衝擊，其中風險最大的包括單身女性、懷孕和哺乳期婦女和女孩、少數民族和宗教人士、老年人、障礙者、兒童和多元性別群體。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/273",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9263227",
+    "title": "締約各國應給予男女在法律面前平等的地位。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/58",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9331296",
+    "title": "行政院性別平等處公告「CEDAW第3次國家報告結論性意見與建議期中審查閉門會議」會議紀錄",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/265",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2020 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9422192",
+    "title": "Government responses to COVID-19: Lessons on Gender Equality for A World in Turmoil",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/216",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9441224",
+    "title": "tw_en-global_news_detail_41_國內讀書會與工作坊___detail",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/41",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 教育宣導",
+    "doc_type": "教育宣導"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9516599",
+    "title": "行政院性別平等處公告「消除對婦女一切形式歧視公約中華民國第5次國家報告」",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/301",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2025 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9540319",
+    "title": "有關「審查各機關對CEDAW第2次國家報告總結意見與建議初步回應會議」第1~11場次會議資訊、報名表以及各機關初步回應表等，已於 行政院性別平等會網站 公告，歡迎參閱。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/213",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2014 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9628623",
+    "title": "一、 我國「CEDAW第3次國家報告國外專家審查暨發表會」（以下稱審查會議）訂於2018年7月16日（一）至20日（五）假 公務人力發展學院福華國際文教會館 舉行（106台北市大安區新生南路三段30號）。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/253",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2018 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9634690",
+    "title": "1. 消除對婦女歧視委員會(「委員會」)旨在透過本一般性建議，闡明《消除對婦女一切形式歧視公約》(《公約》)第2條的範圍和含義，以便向締約國提供於國內執行《公約》實質性條款的方法。委員會鼓勵締約國將本一般性建議翻譯成本國和地方語文，並廣發給政府機關的所有分支、民間社會，包括媒體、學術界、人權及婦女組織和機構。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/24",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9647867",
+    "title": "政府部門與民間團體的對話與激盪】婚姻與家庭",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/32",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2009 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9670620",
+    "title": "財團法人婦女權益促進發展基金會（以下簡稱「本會」）為鼓勵非政府組織積極參與CEDAW國家報告審查，並透過發展民間報告呈現婦女及脆弱群體的處境，檢驗國內政策措施之效果及提出具體建議，作為國際專家審閱國家報告的重要對照和參考資訊，特制定本補助辦法。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/279",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-974018",
+    "title": "1. 消除對婦女歧視委員會確認農村婦女做出了重要貢獻，且確認迫切需要更好地承認和保護其人權。委員會通過先前的結論性意見和一般性建議確定農村婦女仍在以各種方式面臨歧視。在本一般性建議中，委員會澄清，締約國有義務確保農村婦女的權利，重點是《消除對婦女一切形式歧視公約》第十四條，該條認識到農村婦女的特殊情況，並重點強調了締約國在承認、促進和保護其權利方面的具體義務。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/232",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2015 · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9827747",
+    "title": "締約各國應採取一切適當措施，包括制定法律，以禁止一切形式販賣婦女和強迫婦女賣淫，對她們進行剝削的行為。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/49",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9979481",
+    "title": "締約各國應採取一切適當措施以消除對婦女的歧視，以保證婦女在教育方面享有與男子平等的權利，特別是在男女平等的基礎上保證：",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/53",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-page-9999293",
+    "title": "從規劃到執行法律審查的過程中，這本手冊將一路提供建議、協助您達成最佳的檢視成果。這本手冊也提供政府、非政府組織、學術界和實務界在推動性別平等工作上的實際方向—制定以CEDAW為基準的法律檢視指標，並使用這些指標找出具歧視性的規定和法律隔閡，最後發展出具體建議。",
+    "url": "https://www.cedaw.org.tw/tw/en-global/news/detail/43",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2011 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-pdf-1549382",
+    "title": "CEDAW 第三次國家報告國外專家審查暨發表會議",
+    "url": "非政府組織報名結果下載.pdf",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2026 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-pdf-3520759",
+    "title": "CEDAW 第 3 次國家報告國外專家審查暨發表會議 平行報告提交團體",
+    "url": "43民間團體.pdf",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2026 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-pdf-4589058",
+    "title": "CEDAW 第 4 次國家報告國際審查會議報名結果",
+    "url": "非政府組織報名結果-與會名單下載.pdf",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2026 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-pdf-7396393",
+    "title": "102 年度消除對婦女一切形式歧視公約（CEDAW）",
+    "url": "102年度消除對婦女一切形式歧視公約（CEDAW）影子_替代報告補助計畫」.pdf",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2013 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-pdf-7497201",
+    "title": "Inter-Agency Statement on Violence against",
+    "url": "Inter-Agency）Statement_on_Violence_against_Women_and_Girls_i.pdf",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2026 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-cedaw_org-pdf-9356742",
+    "title": "消除對婦女一切形式歧視公約（CEDAW）",
+    "url": "消除對婦女一切形式歧視公約（CEDAW）影子_替代報告英譯補助辦法.pdf",
+    "snippet": "婦女權益促進發展基金會 / CEDAW 資訊網 · 2026 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-1053984",
+    "title": "為擘劃我國性別平等政策方向，行政院於100年函頒「性別平等政策綱領」，內容涵蓋7大領域之政策願景與內涵，以及255項具體行動措施，作為我國性別平等政策最高指導方針；另為與時俱進、回應社會各界建議，於106年將具體行動措施修正為221項。",
+    "url": "https://gec.ey.gov.tw/Page/FD420B6572C922EA",
+    "snippet": "行政院性別平等處 (GEC) ·  · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-1255992",
+    "title": "為輔導各直轄市、縣（市）政府擬訂政策、計畫及措施時，皆能融入性別觀點、主動創新推動性別平等措施、性別主流化及CEDAW，積極消除性別歧視，促進性別平等，特訂頒「行政院辦理直轄市與縣（市）政府推動性別平等業務輔導獎勵計畫」，每2年評核地方政府，並辦理觀摩交流及輔導，藉由專家培力與交流學習，提升業務橫向與縱向聯繫與溝通協調能力，促進中央與地方、政府與民間之政策對話，提升地方政府推動性別平等業務之量能。",
+    "url": "https://gec.ey.gov.tw/Page/53E3DC8A1F34DCB9",
+    "snippet": "行政院性別平等處 (GEC) · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-1312005",
+    "title": "行政院性別電影院、讀書會活動推廣方案        114.7修正",
+    "url": "https://gec.ey.gov.tw/Page/A60C23A6E4B9B362",
+    "snippet": "行政院性別平等處 (GEC) ·  · 教育宣導",
+    "doc_type": "教育宣導"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-1390560",
+    "title": "為周延本院性平會運作機制並提升議事效率，業編製「行政院性別平等會議事手冊」，建立相關議事規則及行政作業事項，使本院性平會委員及相關部會人員有所依循，以及三層級運作模式有效分工。",
+    "url": "https://gec.ey.gov.tw/Page/29D1801A4DBEB965",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-1975312",
+    "title": "初次國家報告國外專家建議一覽表 PDF",
+    "url": "https://gec.ey.gov.tw/Page/4D41529D2CAC4188",
+    "snippet": "行政院性別平等處 (GEC) · 2009 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2043105",
+    "title": "相關檔案 國內相關連結 PDF",
+    "url": "https://gec.ey.gov.tw/Page/A50CBA2640E26763",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2241382",
+    "title": "為促進政府各機關之橫向連繫，強化推動婦女權益工作之整體效能，行政院特於86年5月6日成立任務編組的「行政院婦女權益促進委員會」﹝以下簡稱婦權會﹞，將婦女團體代表、學者專家的倡議納入國家最高的決策機制中，透過政府的立法與政策的落實，使我國婦女的各項權益能於合理公平的前提下確實獲得保障，有效推動婦女權益工作。",
+    "url": "https://gec.ey.gov.tw/Page/7DF8BED6934CC797",
+    "snippet": "行政院性別平等處 (GEC) · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-225718",
+    "title": "114年性別平等觀念電話民意調查」調查報告（調查日期：114.4.24-4.28） PDF",
+    "url": "https://gec.ey.gov.tw/Page/C0A6CC38F299B3B7",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2338860",
+    "title": "File_8196576471944F61_a893ef51-6065-46f6-9a12-f8f078dfcddc_subpage_a893ef51-6065",
+    "url": "https://gec.ey.gov.tw/File/8196576471944F61",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2344095",
+    "title": "File_227CC18BE92762DF_631e9885-fa3c-434f-a279-4cb9c888c630_subpage_631e9885-fa3c",
+    "url": "https://gec.ey.gov.tw/File/227CC18BE92762DF",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2383632",
+    "title": "消除對婦女一切形式歧視公約之性別平等大步走計畫」開放資料集連結： 行政院性別平等會-消除對婦女一切形式歧視公約之性別平等大步走計畫",
+    "url": "https://gec.ey.gov.tw/Page/F10DD3C19468AEE0",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2437474",
+    "title": "為輔導各直轄市、縣（市）政府擬訂政策、計畫及措施時，皆能融入性別觀點、主動創新推動性別平等措施、性別主流化及CEDAW，積極消除性別歧視，促進性別平等，特訂頒「行政院辦理直轄市與縣（市）政府推動性別平等業務輔導獎勵計畫」，每2年評核地方政府，並辦理觀摩交流及輔導，藉由專家培力與交流學習，提升業務橫向與縱向聯繫與溝通協調能力，促進中央與地方、政府與民間之政策對話，提升地方政府推動性別平等業務之量能。",
+    "url": "https://gec.ey.gov.tw/page/67A7EAED60BF4413",
+    "snippet": "行政院性別平等處 (GEC) · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2468913",
+    "title": "鑑於保障婦女權益已成國際人權主流價值，我國為提升我國之性別人權標準，落實性別平等，行政院爰於2006（民國95）年7月8日函送公約由立法院審議，經立法院於2007（民國96）年1月5日議決，2月9日 總統批准並頒發加入書。為明定CEDAW具國內法效力，行政院於2010（民國99）年5月18日函送「消除對婦女一切形式歧視公約施行法」草案，經立法院2011（民國100）年5月20日三讀通過， 總統6月8日公布，自2012（民國101）年1月1日起施行。",
+    "url": "https://gec.ey.gov.tw/Page/DED329DC207B5986",
+    "snippet": "行政院性別平等處 (GEC) · 2007 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2614072",
+    "title": "隱私權及網站安全政策   / 政府網站資料開放宣告",
+    "url": "https://gec.ey.gov.tw/Page/846A2467D63654C9",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2797028",
+    "title": "一、感謝撥冗填寫「機關人員使用『民眾向行政機關引用CEDAW指引及案例』意見調查表」，您的意見與建議將作為「民眾向行政機關引用CEDAW指引及案例」後續改進的參考；所登載的個人資料並將嚴加保密，僅供本案統計分析使用。",
+    "url": "https://gec.ey.gov.tw/Page/1A9348C359FEE9EE",
+    "snippet": "行政院性別平等處 (GEC) ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2904894",
+    "title": "相關檔案 CEDAW第34號至第37號一般性建議法規檢視作業 PDF",
+    "url": "https://gec.ey.gov.tw/Page/B1F87A9456CE21D3",
+    "snippet": "行政院性別平等處 (GEC) ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-2970327",
+    "title": "2026性別圖像(英文版)出版，歡迎各界參考運用!",
+    "url": "https://gec.ey.gov.tw/Page/E94D714D5D21AD0E",
+    "snippet": "行政院性別平等處 (GEC) · 2026 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-3326232",
+    "title": "性別平等重要議題(院層級)及執行成果",
+    "url": "https://gec.ey.gov.tw/Page/9136608CF4A53A80",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-3482847",
+    "title": "CEDAW法規檢視專案審查小組成員名單及會議紀錄」開放資料集連結： 行政院性別平等會-消除對婦女一切形式歧視公約之CEDAW法規檢視專案審查小組成員名單及會議紀錄",
+    "url": "https://gec.ey.gov.tw/Page/82225D923EAF708A",
+    "snippet": "行政院性別平等處 (GEC) · 2017 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-3787641",
+    "title": "性別統計（Gender statistics），是落實性別主流化的工具之一，目的在藉由數字適切反應出不同性別在各個政策上的處境與狀況，提供政策規劃之參考。",
+    "url": "https://gec.ey.gov.tw/Page/3F1901613DDCF12F",
+    "snippet": "行政院性別平等處 (GEC) ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-4055341",
+    "title": "113年金馨獎得獎機關經驗分享及交流",
+    "url": "https://gec.ey.gov.tw/page/D1AAE162DBE58CEA",
+    "snippet": "行政院性別平等處 (GEC) · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-418673",
+    "title": "CEDAW是「消除對婦女一切形式歧視公約」（The Convention on the Elimination of All Forms of Discrimination against Women）的簡稱，由聯合國大會決議通過，並於1981年（民國70年）生效，明文規範締約國應採取立法及一切適當措施，消除對婦女的歧視，確保婦女在教育、就業、保健、家庭、政治、法律、社會、經濟等各方面享有平等權利。",
+    "url": "https://gec.ey.gov.tw/Page/CD44690CDAB23DC4",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-4249757",
+    "title": "相關檔案 開啟性平之眼~我國性別平等重要政策及現況(114年) PDF",
+    "url": "https://gec.ey.gov.tw/Page/7AE0515342C16A11",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-4313647",
+    "title": "相關連結 推廣女性參與運動白皮書(106年３月)",
+    "url": "https://gec.ey.gov.tw/Page/9FDEDFF73F1F0BD5",
+    "snippet": "行政院性別平等處 (GEC) · 2017 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-4772067",
+    "title": "隱私權及網站安全政策   / 政府網站資料開放宣告",
+    "url": "https://gec.ey.gov.tw/Page/AF843A01143A76A3",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-5088206",
+    "title": "為引導本院所屬各部會及地方政府於擬訂政策、計畫及措施時皆能融入性別觀點，本院自104年起函頒「行政院所屬機關推動性別平等業務輔導考核及獎勵計畫」及「行政院辦理直轄市與縣（市）政府推動性別平等業務輔導獎勵計畫」，據以對各部會及地方政府推動性別平等業務進行輔導考核及獎勵表揚。",
+    "url": "https://gec.ey.gov.tw/Page/EDD6D602EAF1C648",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-5328114",
+    "title": "消除對婦女一切形式歧視公約之法規檢視流程、填報系統、表格等相關檔案」開放資料集連結： 行政院性別平等會-消除對婦女一切形式歧視公約之法規檢視流程、填報系統、表格等相關檔案",
+    "url": "https://gec.ey.gov.tw/Page/762D2D0A8CEEA1E3",
+    "snippet": "行政院性別平等處 (GEC) ·  · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-5909126",
+    "title": "為營造性別友善環境，開啟社會大眾性平之眼，本院透過自製宣導圖文及蒐整歷次徵件比賽之得獎作品提供閱覽，以推廣性別平等觀念，提升社會大眾性別平等意識。",
+    "url": "https://gec.ey.gov.tw/Page/CCBB3C1B2B5583C1",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-6085225",
+    "title": "File_1F59ECA533AE6832_subpage_1F59ECA533AE6832",
+    "url": "https://gec.ey.gov.tw/File/1F59ECA533AE6832",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-6169655",
+    "title": "Look up! 拯救公司大作戰(宣導短片30秒-中文發音,英文字幕)",
+    "url": "https://gec.ey.gov.tw/Page/35F100EB6AE25330",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-6206037",
+    "title": "隱私權及網站安全政策   / 政府網站資料開放宣告",
+    "url": "https://gec.ey.gov.tw/Page/9B2EF9647CF08AF7",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-6577027",
+    "title": "相關檔案 CEDAW第29_33號一般性建議法規檢視計畫_函頒 PDF",
+    "url": "https://gec.ey.gov.tw/Page/58DFD05D70B24C6D",
+    "snippet": "行政院性別平等處 (GEC) ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-6913801",
+    "title": "最新消息開放資料集網址：https://opendata.ey.gov.tw/Page/BF42D887A7B414E2/239",
+    "url": "https://gec.ey.gov.tw/Page/C2FF8E98185C16C8",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-7077280",
+    "title": "相關檔案 民眾向行政機關引用CEDAW指引及案例（摘要版）手冊內頁 PDF",
+    "url": "https://gec.ey.gov.tw/Page/2635D882392678B0",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-7135950",
+    "title": "依106年6月30日本院性別平等會第15次委員會議決定，性別平等政策綱領辦理情形不再填報，由各部會自主管理，爰自106年起，將相關辦理情形納入性別平等業務輔導考核中檢視。(開放資料集網址： 行政院性別平等會-性平綱領辦理情形 ）",
+    "url": "https://gec.ey.gov.tw/Page/13D4980F4A2F600C",
+    "snippet": "行政院性別平等處 (GEC) · 2016 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-714838",
+    "title": "我國多元性別(LGBTI)者生活狀況調查",
+    "url": "https://gec.ey.gov.tw/Page/D49DA0F230080286",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-719310",
+    "title": "性別影響評估（Gender Impact Assessment，簡稱GIA），是落實性別主流化的工具之一，目的在促使政策制定者更能清楚掌握男女不同處境，並設定預期的結果，使性別落差獲得改善，確保政策、計畫與法案，從研擬規劃、決策、執行、監督評估與事後檢討建議等各階段過程，都能納入性別觀點(註)。",
+    "url": "https://gec.ey.gov.tw/Page/E3B16FCD552924BA",
+    "snippet": "行政院性別平等處 (GEC) · 2013 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-7576762",
+    "title": "為利性別平等業務推廣於全國，並扎根於地方，行政院性別平等處於101年成立後，陸續於北、中、南、東及離島地區各縣（市）辦理培力活動，促進中央與地方、政府與民間之政策對話，並輔導各地方政府完成建置性別平等專區，呈現各地方政府性別平等推動機制及相關活動等內容。",
+    "url": "https://gec.ey.gov.tw/Page/C8BC6AE9CFFA8FED",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-7768405",
+    "title": "隱私權及網站安全政策   / 政府網站資料開放宣告",
+    "url": "https://gec.ey.gov.tw/Page/BBF2977B3CAAF19A",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8008115",
+    "title": "1995年聯合國第4屆世界婦女會議通過「北京行動宣言」，正式以「性別主流化」作為各國達成性別平等之全球性策略。「性別主流化」是一種策略，也是一種價值，希望所有政府的計畫與法律要具有性別觀點，並在作成決策之前，對男性和女性的可能影響進行分析，以促使政府資源配置確保不同性別平等獲取享有參與社會、公共事務及資源取得之機會，最終達到實質性別平等。",
+    "url": "https://gec.ey.gov.tw/Page/5377448F8ED85A79",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8146497",
+    "title": "隱私權及網站安全政策   / 政府網站資料開放宣告",
+    "url": "https://gec.ey.gov.tw/Page/67FD954AEA98409C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8179639",
+    "title": "File_AAE27F0FC19F3B0E_3dd851c8-f4fb-4016-a369-08f273ec2cc2_subpage_3dd851c8-f4fb",
+    "url": "https://gec.ey.gov.tw/File/AAE27F0FC19F3B0E",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8222864",
+    "title": "消除對婦女一切形式歧視公約(CEDAW)」及「認識多元性別」數位課程都在「e等公務園+學習平臺」!",
+    "url": "https://gec.ey.gov.tw/Page/45D93E9733732064",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8292714",
+    "title": "相關檔案 行政院性別平等會設置要點 PDF",
+    "url": "https://gec.ey.gov.tw/Page/DF15BDB018364DC4",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8322130",
+    "title": "為響應聯合國2012年宣布10月11日為第1屆「國際女孩日」，呼籲各國重視並投資女孩，期能幫助女孩獲得應有的人權與照顧，及立法院第8屆第2會期第2會議臨時提案，建請本院積極響應聯合國的主張「重視女孩、投資女孩」，並將每年10月11日訂為「臺灣女孩日」，本院除責成內政部研訂女孩日外，並於102年3月函頒「提升女孩權益行動方案」，明訂我國維護及提升女孩權益之14項願景及75項實施策略，並督促各部會積極落實各項促進女孩身心健康、教育、人身安全及改善傳統禮俗、媒體內容性別刻板印象與歧",
+    "url": "https://gec.ey.gov.tw/Page/D5E6DE64DED71EFC",
+    "snippet": "行政院性別平等處 (GEC) · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8473081",
+    "title": "本院於95年函頒「各部會性別平等專案小組運作原則」，督導本院所屬各部會成立「性別平等專案小組」，由部會聘請學者專家就性別平等業務提供諮詢及指導、協助辦理性別預算審議及性別影響評估，以及配合行政院性別平等會三層級之議事運作，追蹤管考決議事項與辦理情形。",
+    "url": "https://gec.ey.gov.tw/Page/8ACB510BA90A8AB0",
+    "snippet": "行政院性別平等處 (GEC) · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8646918",
+    "title": "為落實推動性別平等政策綱領，本院研訂本綱領之推動策略主要權責機關，以及「行政院所屬各部會性別平等推動計畫(115至118年)編審及推動作業注意事項」，函請各部會積極配合辦理。",
+    "url": "https://gec.ey.gov.tw/Page/C77E60A0B01565B0",
+    "snippet": "行政院性別平等處 (GEC) ·  · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8664042",
+    "title": "1995年聯合國第4屆世界婦女會議通過「北京行動宣言」，正式以「性別主流化」作為各國達成性別平等之全球性策略。「性別主流化」是一種策略，也是一種價值，希望所有政府的計畫與法律要具有性別觀點，並在作成決策之前，對男性和女性的可能影響進行分析，以促使政府資源配置確保不同性別平等獲取享有參與社會、公共事務及資源取得之機會，最終達到實質性別平等。",
+    "url": "https://gec.ey.gov.tw/Page/5242009AF646447E",
+    "snippet": "行政院性別平等處 (GEC) · 2009 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8675163",
+    "title": "1995年聯合國於北京舉辦第4屆世界婦女大會，通過「北京宣言暨行動綱領」，正式宣示以「性別主流化」做為行動策略，要求各國將性別平等做為政策主流，以性別議題取代婦女議題。",
+    "url": "https://gec.ey.gov.tw/Page/D8B706F7DD8453E7",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8713397",
+    "title": "為促進直轄市、縣(市)政府推動性別平等業務資訊之流通與分享，匯集地方政府性別主流化專區之整合平臺，呈現各地方政府婦權會或性平會運作情形、性別主流化工具及推廣活動等內容，使民眾提升對地方政府所推動之性別平等工作的認識。",
+    "url": "https://gec.ey.gov.tw/Page/2DE3F7FC1E1D4737",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-8884629",
+    "title": "促進女性參與及進入決策階層向為我國及國際重視與努力之議題，我國「性別平等政策綱領」、「消除對婦女一切形式歧視公約」(CEDAW)及聯合國永續發展目標(SDGs)均揭示確保女性參與公共生活和領導決策，行政院亦將「促進公私部門決策參與之性別平等」列為性別平等重要議題，並依CEDAW國家報告結論性意見與建議，督促所屬機關研議有關措施、修正相關規定或訂定暫行特別措施，以積極推動公共事務及決策參與之性別平等。",
+    "url": "https://gec.ey.gov.tw/Page/8F04E73DC96E5F11",
+    "snippet": "行政院性別平等處 (GEC) ·  · CO",
+    "doc_type": "CO"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9034615",
+    "title": "本網站依無障礙網頁設計原則建置，網站的主要內容分為四大區塊：",
+    "url": "https://gec.ey.gov.tw/Page/9C0CE6136F7B12A3",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9130708",
+    "title": "隱私權及網站安全政策   / 政府網站資料開放宣告",
+    "url": "https://gec.ey.gov.tw/Page/C5AA54A31C835221",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9136042",
+    "title": "行政院性別平等會自 101年成立，採三層級議事運作方式(詳見議事手冊)，其中，分工小組會議分別由6個分工小組秘書單位召開，為節省行政成本及提升會議運作效能，經本院性別平等會第7次委員會議通過決定調整部分分工小組名稱及權責，各分工小組名稱及其秘書單位為：",
+    "url": "https://gec.ey.gov.tw/Page/96A7EFBD23C1DBCC",
+    "snippet": "行政院性別平等處 (GEC) · 2012 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9342319",
+    "title": "性別主流化」自民國84年聯合國第4屆世界婦女大會首度提出後，在國際間已被視為推動性別平等之重要策略。我國自94年推動實施「行政院各部會推動性別主流化實施計畫」以來，便已將「性別分析」列為推展性別主流化的重要工具，為使政府機關及各界加強認識性別分析，本院於「重要性別統計資料庫」下建置 「 性別分析」專區 ，將逐步蒐羅本院各部會或專家學者所提供之案例，提供觀摩與擴散學習之用。",
+    "url": "https://gec.ey.gov.tw/Page/FF17EFA346515D07",
+    "snippet": "行政院性別平等處 (GEC) · 2016 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-941155",
+    "title": "隱私權及網站安全政策   / 政府網站資料開放宣告",
+    "url": "https://gec.ey.gov.tw/Page/C5F8F340E5F339AC",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9487152",
+    "title": "消除對婦女一切形式歧視公約》（CEDAW）第4次國家報告具體展現106年至109年間，我國在消除婦女歧視、提升婦女人權以及促進性別平等之重要成果，包括108年國際性別不平等指數(Gender Inequality Index, GII)，臺灣性別平等表現稱冠全亞洲；108年通過同性婚姻合法化；以及109年女性立法委員比率突破4成，為亞洲最高。",
+    "url": "https://gec.ey.gov.tw/Page/11E499B6A6E6D7AD",
+    "snippet": "行政院性別平等處 (GEC) · 2019 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9549800",
+    "title": "本院自93年10月起請各部會均確認並指派性別聯絡人及其代理人各1名，擔任該部會性別主流化業務之窗口。",
+    "url": "https://gec.ey.gov.tw/Page/E214911D86715434",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9551763",
+    "title": "一、感謝撥冗填寫「民眾使用『民眾向行政機關引用CEDAW指引及案例』意見調查表」，您的意見與建議將作為「民眾向行政機關引用CEDAW指引及案例」後續改進的參考；所登載的個人資料並將嚴加保密，僅供本案統計分析使用。",
+    "url": "https://gec.ey.gov.tw/Page/511BDD26351C3C3F",
+    "snippet": "行政院性別平等處 (GEC) ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9663238",
+    "title": "本院性別平等會採三層級議事運作模式，由本院院長召開委員會議（含臨時委員會議）、執行秘書召開會前協商會議，並由本院性平會下設之各分工小組召開分工小組會議、分工小組民間召集人會議及專案會議。原則上，委員會議、會前協商會議、分工小組會議每4個月召開1次。",
+    "url": "https://gec.ey.gov.tw/Page/CDAD63A541E1314F",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9690247",
+    "title": "111年性別平等作品徵件及宣導活動",
+    "url": "https://gec.ey.gov.tw/Page/23C070C9B7948CAB",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9829554",
+    "title": "為記錄本院與所屬各部會及直轄市、縣市政府共同推動性別平等工作之歷程及成果，本院性別平等處自成立後每年編印性別平等年報，內容包含與各機關及民間團體共同推動性別平等政策綱領、性別主流化實施計畫、消除對婦女一切形式歧視公約，以及參與國際交流及深耕輔導地方政府之推動等成果。",
+    "url": "https://gec.ey.gov.tw/Page/CF1527460413B31A",
+    "snippet": "行政院性別平等處 (GEC) · 2024 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-page-9991782",
+    "title": "隱私權及網站安全政策   / 政府網站資料開放宣告",
+    "url": "https://gec.ey.gov.tw/Page/14DC425A319B3267",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-1286110",
+    "title": "性別平等政策綱領推動策略主要權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/727A2FC3728AA2C6?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2021 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-1329226",
+    "title": "序                                        1",
+    "url": "https://gec.ey.gov.tw/File/54EF1D401DA7F0CA?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2017 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-1358982",
+    "title": "110 年性別平等觀念電話民意調查",
+    "url": "https://gec.ey.gov.tw/File/33B71AE7B52BAAB3/d2ce2386-693d-49c4-bee0-f9622807ca7c?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2021 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-1474132",
+    "title": "類型         案例                      違反CEDAW條文及理由",
+    "url": "https://gec.ey.gov.tw/File/3FF6E2BFD45428AC?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-1633867",
+    "title": "國家發展計畫(114至117年)",
+    "url": "https://gec.ey.gov.tw/File/90DE1021AA455424?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-1736079",
+    "title": "113 年性別平等觀念電話民意調查",
+    "url": "https://gec.ey.gov.tw/File/3213C1C433961753/c443683a-06d9-4ef0-a52e-55499a471d7f?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2024 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-1761109",
+    "title": "名稱                                        網址",
+    "url": "https://gec.ey.gov.tw/File/227CC18BE92762DF/631e9885-fa3c-434f-a279-4cb9c888c630?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-1910006",
+    "title": "序                              1",
+    "url": "https://gec.ey.gov.tw/File/738D06C95C99EEE3?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2023 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2030717",
+    "title": "消除對婦女一切形式歧視公約(CEDAW)",
+    "url": "https://gec.ey.gov.tw/File/B8648FCD5FEBFA5D?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2034315",
+    "title": "111 年性別平等觀念電話民意調查",
+    "url": "https://gec.ey.gov.tw/File/8DF65589C943BF4E/52b5962e-8de9-443f-81ba-5fb45347e7d0?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2039646",
+    "title": "K109021001    委   研究報告",
+    "url": "https://gec.ey.gov.tw/File/3827AAC22568EC04/f64fecaa-b81c-4510-a1dd-1b02e129627a?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2021 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2142456",
+    "title": "序                             1",
+    "url": "https://gec.ey.gov.tw/File/BB013EFA716CB573?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2010 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2201445",
+    "title": "性別平等政策綱領具體行動措施之權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/C0509D01E3BC78E2?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2017 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2357058",
+    "title": "消除對婦女一切形式岐視公約(CEDAW)國家報告之國外專家建議一覽表",
+    "url": "https://gec.ey.gov.tw/File/5D1874DCE9E56F5D/e394b890-0043-4d2f-9dd3-bd3eb310eb06?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2007 · 國家報告",
+    "doc_type": "國家報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2528360",
+    "title": "101 年 5 月 17 日 第 1 次委員會議核定",
+    "url": "https://gec.ey.gov.tw/File/8D455FC8BB0A0B62?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2545712",
+    "title": "中華民國 100 年 12 月 19 日行政院頒布",
+    "url": "https://gec.ey.gov.tw/File/900DA1E5D22687D8?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2011 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2562113",
+    "title": "前言         從婦女權益走向性別平等",
+    "url": "https://gec.ey.gov.tw/File/BC2E1C763361D88F?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2007 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2612907",
+    "title": "File_931CC841B4AC3AB4",
+    "url": "https://gec.ey.gov.tw/File/931CC841B4AC3AB4?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2675241",
+    "title": "CEDAW 第 29 號至第 33 號一般性建議法規檢視專案審查小組 (106 年)",
+    "url": "https://gec.ey.gov.tw/File/C5F88091C3BF516F/55e1ab36-e151-4f16-a596-6949bdc57a45?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2017 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2723556",
+    "title": "114 年性別平等觀念電話民意調查",
+    "url": "https://gec.ey.gov.tw/File/68BC240C106283D3/9fd6fb7a-5ef2-40e5-a464-bbbed320df9d?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2843862",
+    "title": "消除對婦女一切形式歧視公約（CEDAW）法規檢視專案",
+    "url": "https://gec.ey.gov.tw/File/26D5A53B0CBE3182/76e50c75-f853-4835-acd6-c7014bbd8d35?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2850349",
+    "title": "序                              1",
+    "url": "https://gec.ey.gov.tw/File/9A1B295929374C53?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2023 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2960978",
+    "title": "性別平等政策綱領具體行動措施之權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/5B04B4BD721A106A?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2018 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2977110",
+    "title": "各部會性別平等專案小組委員名單",
+    "url": "https://gec.ey.gov.tw/File/4CE0F6C579146976/e8f4227d-3a1a-418f-9b2a-af56c35103b5?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2018 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-2979916",
+    "title": "不符合 CEDAW 第 34 號至第 37 號一般性建議之法規及行政措施清冊",
+    "url": "https://gec.ey.gov.tw/File/5745CFBAC9CA4DBE/e8c03b87-bb19-459f-94a2-33a23e688559?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-3161142",
+    "title": "研商「法規明定委員性別比例未達三分之一是否符合 CEDAW」會議",
+    "url": "https://gec.ey.gov.tw/File/C1A6FAE99010DE88/5d39d798-52bb-4bf0-b7e2-3f3034de5b38?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2014 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-3240634",
+    "title": "疫情下 APEC 區域女性經濟發展之機會",
+    "url": "https://gec.ey.gov.tw/File/6126AB565A6F5BF1/14530a77-763d-4990-b7e6-d5a0f2ba1a46?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-3241838",
+    "title": "第一章   緒論 .................................................... 1",
+    "url": "https://gec.ey.gov.tw/File/7F11A45D01414D7E/605a8a08-1cad-4de8-b2fc-79e0d8f0c5fa?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2020 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-3277378",
+    "title": "CEDAW法規檢視結果清單【報送行政院性平處-範例】",
+    "url": "https://gec.ey.gov.tw/File/F74EF2D5E8210A5D?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2016 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-3645498",
+    "title": "性別平等政策綱領各篇具體行動措施",
+    "url": "https://gec.ey.gov.tw/File/4F6BF2E6274D3644?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2009 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-3669209",
+    "title": "性別平等政策綱領推動策略主要權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/744FC9FB7BE01094?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-3737027",
+    "title": "不符合CEDAW規定之法規及行政措施清冊 104.02.17",
+    "url": "https://gec.ey.gov.tw/File/22805AFB07193702/73412327-aef4-42d3-8b61-94ea1529b292?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-3904343",
+    "title": "Ex10924（委託研究報告）",
+    "url": "https://gec.ey.gov.tw/File/641C9A1CEFC38DB0/609f345c-7b49-4f77-a3c4-d2d028f02502?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4225860",
+    "title": "計畫編號：K112062801",
+    "url": "https://gec.ey.gov.tw/File/CC0D9C04ADACD7BE/7405952b-6522-48b5-aec6-0b67c150df2f?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4234805",
+    "title": "一、根植「黃金十年」政策目標納入「國家發展計畫」. ............ 006",
+    "url": "https://gec.ey.gov.tw/File/52C31F2970DCDD0A?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2013 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4332305",
+    "title": "Gender Equality Policy Guidelines",
+    "url": "https://gec.ey.gov.tw/File/F107F7C170AB7D74?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2011 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4561163",
+    "title": "1995 年聯合國第 4 屆世界婦女會議通過「北京行動宣言」",
+    "url": "https://gec.ey.gov.tw/File/5F963B5B07FA51E0?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2015 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4745633",
+    "title": "行政院 114 年 9 月 19 日院臺教字第 1145015881 號函核定",
+    "url": "https://gec.ey.gov.tw/File/A50A211F09DDAB92?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-475980",
+    "title": "CEDAW 第 34 號至第 37 號一般性建議法規檢視專案審查小組名單",
+    "url": "https://gec.ey.gov.tw/File/2D776756010DFB3D/241f57e2-6ce1-46f6-b235-4d520434b612?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2021 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-481467",
+    "title": "受委託單位：中華經濟研究院 WTO 及 RTA 中心",
+    "url": "https://gec.ey.gov.tw/File/FE0790FF358574F0/cb72c9cb-ed68-49b0-aecb-b81a2c33b36f?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2025 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4819017",
+    "title": "一般性建議       權責機關               法規名稱",
+    "url": "https://gec.ey.gov.tw/File/C188AB5CC34BBB97?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4870469",
+    "title": "行政院人事行政總處性別平等專區",
+    "url": "https://gec.ey.gov.tw/File/B99E6234A8834F3E?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4888994",
+    "title": "112 年性別平等觀念電話民意調查",
+    "url": "https://gec.ey.gov.tw/File/7DB8C6CD925B8E8B/b1362adf-0b6c-4aa9-aa4c-fd0df007d33a?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2023 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4953393",
+    "title": "不符合CEDAW 第29號至第33號一般性建議 之法規及行政措施清冊",
+    "url": "https://gec.ey.gov.tw/File/4FB6543A2699608C/c2ac77f5-e9e6-4804-9e21-b86f08daa5c4?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-4993147",
+    "title": "中華民國101年1月13日院臺性平字第1010120571號分行，並自",
+    "url": "https://gec.ey.gov.tw/File/BAFC341952119F2F?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5286349",
+    "title": "機 關人員 使用「民 眾向行 政機關引 用 CEDAW 指引 及案例 」",
+    "url": "https://gec.ey.gov.tw/File/69A844A87D837214?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5353480",
+    "title": "消除對婦女一切形式歧視公約相關連結",
+    "url": "https://gec.ey.gov.tw/File/1F59ECA533AE6832?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5364144",
+    "title": "File_CD1AE794154F95FD",
+    "url": "https://gec.ey.gov.tw/File/CD1AE794154F95FD?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5390406",
+    "title": "性別平等政策綱領推動策略主要權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/65A48DDAF6CB4FBF?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5402697",
+    "title": "序                                         1",
+    "url": "https://gec.ey.gov.tw/File/CEF3DE8BB160BF0A?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2019 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5491461",
+    "title": "各部會性別平等專案小組運作原則",
+    "url": "https://gec.ey.gov.tw/File/EFBB8B509C7E4760/c3cc634f-a17c-4127-845d-ffe118d88cf8?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2009 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5734344",
+    "title": "序                                      1",
+    "url": "https://gec.ey.gov.tw/File/2949AE627C754E89?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2020 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5735439",
+    "title": "消除對婦女一切形式歧視公約(CEDAW)",
+    "url": "https://gec.ey.gov.tw/File/2CE79534C43F78F5?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-5751697",
+    "title": "Gender Equality Policy Guidelines",
+    "url": "https://gec.ey.gov.tw/File/1EC53484B2D237FE?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2011 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-6169378",
+    "title": "目                 錄",
+    "url": "https://gec.ey.gov.tw/File/F3DEB55DC1EF20F7?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-646440",
+    "title": "民 眾使用 「民眾向 行政機 關引用 CEDAW 指 引及案例 」",
+    "url": "https://gec.ey.gov.tw/File/2E9C47696EF09E53?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-6489550",
+    "title": "性別平等政策綱領各篇具體行動措施",
+    "url": "https://gec.ey.gov.tw/File/91912580EDDF703E?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2009 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-655309",
+    "title": "CEDAW 第 29 號至第 33 號一般性建議法規檢視",
+    "url": "https://gec.ey.gov.tw/File/64B3ED6C9D7CD60C/35287bf0-a685-4516-9740-c82efd0f1c00?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2017 · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-6573249",
+    "title": "性別平等政策綱領推動策略主要權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/F55F286F14267034?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-6800974",
+    "title": "消除對婦女一切形式歧視公約一般性建議聯合國各官方語言版相關連結",
+    "url": "https://gec.ey.gov.tw/File/AAE27F0FC19F3B0E/3dd851c8-f4fb-4016-a369-08f273ec2cc2?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 一般性建議",
+    "doc_type": "一般性建議"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-6846672",
+    "title": "總   論………………………………………………………………………… 58",
+    "url": "https://gec.ey.gov.tw/File/8A122CDA78EEE928/4980b92c-a2ec-4824-b03e-6f181a9a5813?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-7035183",
+    "title": "各部會第 1 位為性別聯絡人，第 2 位為代理人          115.4.30 修正",
+    "url": "https://gec.ey.gov.tw/File/46A468F4F2C0F63B?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-7097989",
+    "title": "行政院性別平等信箱各年度案件數及多元性別議題案件數",
+    "url": "https://gec.ey.gov.tw/File/8196576471944F61/a893ef51-6065-46f6-9a12-f8f078dfcddc?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-7401383",
+    "title": "序                                      1",
+    "url": "https://gec.ey.gov.tw/File/7EB995EEE998574B?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2013 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-7480151",
+    "title": "影響女性勞動力退出職場原因分析",
+    "url": "https://gec.ey.gov.tw/File/DF5CC15334A18DD8/d5e61d1d-faf3-4a26-940c-db428ca3064a?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2020 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-7551769",
+    "title": "Gender Equality Policy Guidelines",
+    "url": "https://gec.ey.gov.tw/File/654D2ECCF110B384?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-7800912",
+    "title": "性別平等政策綱領推動策略主要權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/65EE07B3E1F21A1E?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-7945019",
+    "title": "行政院性別電影院、讀書會活動推廣方案",
+    "url": "https://gec.ey.gov.tw/File/6B185D83756FEC69?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 教育宣導",
+    "doc_type": "教育宣導"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-8053101",
+    "title": "性別平等政策綱領各篇具體行動措施",
+    "url": "https://gec.ey.gov.tw/File/6F68E94CBC005EE2?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2009 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-8087177",
+    "title": "Convention on the Elimination of All Forms",
+    "url": "https://gec.ey.gov.tw/File/5CBD8A672245EA37/2b4caee5-3c4f-4fb7-8e7a-c3bd20fe7680?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2007 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-8226395",
+    "title": "CEDAW 法規檢視專案審查小組正式名單(101 年)",
+    "url": "https://gec.ey.gov.tw/File/AEFE59E9137CE3F4/9dfc504a-3401-43d5-abeb-2f3e3d8ff81a?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2012 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-8313259",
+    "title": "性別平等政策綱領推動策略主要權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/31B79CEDB4FEBA8F?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-8350955",
+    "title": "序                                      1",
+    "url": "https://gec.ey.gov.tw/File/79A680F5DA0830A7?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2014 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-856492",
+    "title": "引用CEDAW指引及案例（民眾版）",
+    "url": "https://gec.ey.gov.tw/File/134D1AB69514C20E?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2020 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-8601205",
+    "title": "行政院77年4月22日臺77內字第9656號函核定修正",
+    "url": "https://gec.ey.gov.tw/File/A7ACAC3A9844E376?A=C",
+    "snippet": "行政院性別平等處 (GEC) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-8646043",
+    "title": "序                                1",
+    "url": "https://gec.ey.gov.tw/File/3D64843BE3A1C3C5?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2018 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-927638",
+    "title": "性別平等政策綱領具體行動措施之權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/B28C440C610AFADD?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2017 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-931695",
+    "title": "截至114年12月31日止尚未完成修法之不符合 CEDAW 法規",
+    "url": "https://gec.ey.gov.tw/File/DD1D52838E6FC9EF/c582238e-bcc2-4cc3-b478-8e7068037e55?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2022 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-9453234",
+    "title": "民眾向行政機關引用 CEDAW 指引及案例",
+    "url": "https://gec.ey.gov.tw/File/66B4CBF1DCAD9AE1?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2011 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-9637032",
+    "title": "引用CEDAW指引及案例（機關版）",
+    "url": "https://gec.ey.gov.tw/File/F4003BF79D683C2F?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2020 · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-9770207",
+    "title": "邁向共治、共享、共贏的永續社會",
+    "url": "https://gec.ey.gov.tw/File/8B04B81EC8F30CA1?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2011 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-9905313",
+    "title": "性別平等政策綱領各篇具體行動措施",
+    "url": "https://gec.ey.gov.tw/File/2084A704AD61D0C9?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2009 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-9914610",
+    "title": "性別平等政策綱領具體行動措施之權責機關一覽表",
+    "url": "https://gec.ey.gov.tw/File/AFB652472CBDFC75?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2018 · 國家人權行動計畫",
+    "doc_type": "國家人權行動計畫"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-9933299",
+    "title": "序                             1",
+    "url": "https://gec.ey.gov.tw/File/56C4FE7ACA23BC94?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2023 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gec-pdf-9956193",
+    "title": "CEDAW法規檢視結果清單【報送性平處-範例】",
+    "url": "https://gec.ey.gov.tw/File/847BCDB9409D9043?A=C",
+    "snippet": "行政院性別平等處 (GEC) · 2020 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-2080336",
+    "title": "行政院性別平等處 委託研究 - /MyBooks.aspx",
+    "url": "https://www.gender.ey.gov.tw/MyBooks.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-2664799",
+    "title": "行政院性別平等處 委託研究 - /JoinMember01.aspx",
+    "url": "https://www.gender.ey.gov.tw/JoinMember01.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-4322726",
+    "title": "行政院性別平等處 委託研究 - /research/PageList",
+    "url": "https://www.gender.ey.gov.tw/research/PageList",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-4549937",
+    "title": "行政院性別平等資料庫雲端應用服務整合平台",
+    "url": "https://www.gender.ey.gov.tw/Default.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 · 2013 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-5029364",
+    "title": "nbsp;&nbsp;1&nbsp;2&nbsp;3&nbsp;4&nbsp;5&nbsp;6&nbsp;7&nbsp;8&nbsp;9&nbsp;10&nbsp;&nbsp;...&nbsp;>&nbsp;>>&nbsp;",
+    "url": "https://www.gender.ey.gov.tw/Research/AgentSearch.aspx?k=7Kzq8y!ZjgNG7aSMfwb!Pw%40%40",
+    "snippet": "行政院性平處 / 委託研究資料庫 · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-531118",
+    "title": "行政院性別平等處 委託研究 - /OperatingDescription.aspx",
+    "url": "https://www.gender.ey.gov.tw/OperatingDescription.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-6509766",
+    "title": "行政院性別平等處 委託研究 - /AdvanceSearch.aspx",
+    "url": "https://www.gender.ey.gov.tw/AdvanceSearch.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-6635299",
+    "title": "行政院性別平等處 委託研究 - /research/",
+    "url": "https://www.gender.ey.gov.tw/research/",
+    "snippet": "行政院性平處 / 委託研究資料庫 · 2024 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-6863059",
+    "title": "行政院性別平等處 委託研究 - /Stat_Statistics_Search.aspx",
+    "url": "https://www.gender.ey.gov.tw/Stat_Statistics_Search.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-7582474",
+    "title": "您的瀏覽器似乎不支援JavaScript語法，但沒關係，這裡的JavaScript語法並不會影響到內容的陳述， 如需要選擇字級大小，IE6請利用鍵盤按住ALT鍵+ V → X → (G)最大(L)較大(M)中(S)較小(A)小，來選擇適合您的文字大小， 而IE7或Firefox瀏覽器則可利用鍵盤 Ctrl + (+)放大(-)縮小來改變字型大小，如需要回到上一頁可使用瀏覽器提供的 Alt+左方向鍵(←) 快速鍵功能，列印可使用瀏覽器提供的(Ctrl+P)功能。",
+    "url": "https://www.gender.ey.gov.tw/gecdb/",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-7611946",
+    "title": "charset \"UTF-8\";",
+    "url": "https://www.gender.ey.gov.tw/Research/Style/index.css?v=20201008",
+    "snippet": "行政院性平處 / 委託研究資料庫 · 2020 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-8140609",
+    "title": "行政院性別平等處 委託研究 - /Research/Default.aspx",
+    "url": "https://www.gender.ey.gov.tw/Research/Default.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 · 2024 · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-8338147",
+    "title": "性別平等研究文獻資源網」是由行政院性別平等處所建置性別平等知識整合之服務平臺，匯集國內外有關女性、男性、性別相關權益促進及其他議題之書籍、期刊、期刊論文、學位論文、學術研討會論文、公務出國報告、政府委託研究報告及視聽資料等文獻資料目錄，以一站式整合查詢服務，提供婦女、性別團體、專家學者、公務人員與社會大眾便利查閱及取得相關研究資料，促進性別研究資訊流通，並提供線上議題追蹤等會員個人服務，回應社會大眾對性別平等議題之關注，以培養具性別意識與興趣的知識社群。",
+    "url": "https://www.gender.ey.gov.tw/Research/CP.aspx?nid=och13fDhZK5F3eT%2fzf2xnA%3d%3d",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 政府回應",
+    "doc_type": "政府回應"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-8500300",
+    "title": "行政院性別平等資料庫雲端應用服務整合平台",
+    "url": "https://www.gender.ey.gov.tw/Login.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 · 2013 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-gender_research-page-9823376",
+    "title": "行政院性別平等處 委託研究 - /Stat_Statistics_Field.aspx",
+    "url": "https://www.gender.ey.gov.tw/Stat_Statistics_Field.aspx",
+    "snippet": "行政院性平處 / 委託研究資料庫 ·  · 研究報告",
+    "doc_type": "研究報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-goh-page-4125957",
+    "title": "已發送 Email 驗證信給你，請點擊信件連結以完成訂閱程序",
+    "url": "https://www.goh.org.tw/tw/publications",
+    "snippet": "勵馨基金會(自家網站) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-goh-page-4244055",
+    "title": "勵馨基金會-致力預防與終止性別暴力 創造性別平權的台灣NGO組織",
+    "url": "https://www.goh.org.tw/",
+    "snippet": "勵馨基金會(自家網站) · 2026 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-goh-page-6000576",
+    "title": "從時事新聞看見我們與受暴服務對象的工作日常-勵馨基金會",
+    "url": "https://www.goh.org.tw/tw/news",
+    "snippet": "勵馨基金會(自家網站) · 2022 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-iwomenweb-page-2379909",
+    "title": "描述: HTTP 404. 您要尋找的資源 (或其相依性的其中之一) 可能已經移除、名稱已經變更或是暫時無法使用。請檢閱下列 URL，並且確定它的拼寫無誤。",
+    "url": "https://www.iwomenweb.org.tw/cp.aspx?n=14594",
+    "snippet": "婦女權益促進發展基金會 (iWomen 官方網) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-iwomenweb-page-3682567",
+    "title": "描述: HTTP 404. 您要尋找的資源 (或其相依性的其中之一) 可能已經移除、名稱已經變更或是暫時無法使用。請檢閱下列 URL，並且確定它的拼寫無誤。",
+    "url": "https://www.iwomenweb.org.tw/Hot.aspx",
+    "snippet": "婦女權益促進發展基金會 (iWomen 官方網) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-iwomenweb-page-3787470",
+    "title": "描述: HTTP 404. 您要尋找的資源 (或其相依性的其中之一) 可能已經移除、名稱已經變更或是暫時無法使用。請檢閱下列 URL，並且確定它的拼寫無誤。",
+    "url": "https://www.iwomenweb.org.tw/cp.aspx?n=14593",
+    "snippet": "婦女權益促進發展基金會 (iWomen 官方網) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-iwomenweb-page-7255243",
+    "title": "婦女聯合網站業已停止營運，目前提供靜態網頁資料，若有需要請前往婦女聯合網站（更新至2023年12月31日）﹐",
+    "url": "https://www.iwomenweb.org.tw/",
+    "snippet": "婦女權益促進發展基金會 (iWomen 官方網) · 2023 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-iwomenweb-page-8186858",
+    "title": "描述: HTTP 404. 您要尋找的資源 (或其相依性的其中之一) 可能已經移除、名稱已經變更或是暫時無法使用。請檢閱下列 URL，並且確定它的拼寫無誤。",
+    "url": "https://www.iwomenweb.org.tw/News.aspx?n=14593",
+    "snippet": "婦女權益促進發展基金會 (iWomen 官方網) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-iwomenweb-page-8706625",
+    "title": "接受補助、捐贈名單清冊及支付獎助、捐贈名單清冊",
+    "url": "https://www.iwomenweb.org.tw/index.html",
+    "snippet": "婦女權益促進發展基金會 (iWomen 官方網) · 2024 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-iwomenweb-page-9976854",
+    "title": "描述: HTTP 404. 您要尋找的資源 (或其相依性的其中之一) 可能已經移除、名稱已經變更或是暫時無法使用。請檢閱下列 URL，並且確定它的拼寫無誤。",
+    "url": "https://www.iwomenweb.org.tw/cp.aspx?n=14595",
+    "snippet": "婦女權益促進發展基金會 (iWomen 官方網) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-modwomen-page-1725478",
+    "title": "影像性暴力成傷害連續體，被害者求助無門",
+    "url": "https://www.38.org.tw/news",
+    "snippet": "現代婦女基金會(自家網站) · 2026 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-modwomen-page-7093797",
+    "title": "找不到頁面 | 現代婦女基金會",
+    "url": "https://www.38.org.tw/publication",
+    "snippet": "現代婦女基金會(自家網站) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-modwomen-page-7328713",
+    "title": "找不到頁面 | 現代婦女基金會",
+    "url": "https://www.38.org.tw/research",
+    "snippet": "現代婦女基金會(自家網站) ·  · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-modwomen-page-887747",
+    "title": "影像性暴力成傷害連續體，被害者求助無門",
+    "url": "https://www.38.org.tw/",
+    "snippet": "現代婦女基金會(自家網站) · 2026 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-twrf-page-1611938",
+    "title": "婦女救援基金會Taipei Women's Rescue Foundation",
+    "url": "https://www.twrf.org.tw/info/category/17",
+    "snippet": "婦女救援基金會 TWRF(自家網站) · 2012 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-twrf-page-6731736",
+    "title": "婦女救援基金會Taipei Women's Rescue Foundation",
+    "url": "https://www.twrf.org.tw/info/category/18",
+    "snippet": "婦女救援基金會 TWRF(自家網站) · 2007 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-OFFv3-twrf-page-9187435",
+    "title": "婦女救援基金會Taipei Women's Rescue Foundation",
+    "url": "https://www.twrf.org.tw/",
+    "snippet": "婦女救援基金會 TWRF(自家網站) · 2026 · 政策文件",
+    "doc_type": "政策文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-SEGM-Sweden",
+    "title": "SEGM (2021) Sweden Karolinska Ends Use of Puberty Blockers and Cross-Sex Hormones for Minors Outside Clinical Trials",
+    "url": "https://segm.org/Sweden_ends_use_of_Dutch_protocol",
+    "snippet": "UN OHCHR / 學術社群 · 2021 · 學術文獻",
+    "doc_type": "學術文獻"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-SexMatters-Brief-2023",
+    "title": "Sex Matters (UK) UK GRA 改革政策抗辯文件",
+    "url": "https://sex-matters.org/",
+    "snippet": "Sex Matters UK · 2023 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-SpainTransLaw",
+    "title": "Spain Ley Trans (2023) Law 4/2023",
+    "url": "#docs",
+    "snippet": "中華民國政府 · 2023 · 法律文件",
+    "doc_type": "法律文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-TWRF-Shadow-2018",
+    "title": "TWRF 第 3 次 CEDAW DSGBV 影子報告",
+    "url": "https://www.twrf.org.tw/",
+    "snippet": "婦女救援基金會 TWRF · 2018 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-TWRF-Shadow-2022",
+    "title": "TWRF 第 4 次 CEDAW DSGBV + 跟蹤騷擾影子報告",
+    "url": "https://www.twrf.org.tw/",
+    "snippet": "婦女救援基金會 TWRF · 2022 · 影子報告",
+    "doc_type": "影子報告"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-WHRC-AnnualReport-2024",
+    "title": "WHRC International 全球年度報告(2024)",
+    "url": "https://www.womensdeclaration.com/",
+    "snippet": "WHRC International · 2024 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-WHRC-Decl",
+    "title": "WHRC Declaration on Womens Sex-Based Rights (2019)",
+    "url": "https://womensdeclaration.com/en/declaration-womens-sex-based-rights-full-text/",
+    "snippet": "國際 NGO / WHRC / Sex Matters · 2019 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-WoLF-USCEDAW-2014",
+    "title": "WoLF (US) 提交 UN CEDAW 美國第 7-9 次平行報告",
+    "url": "https://www.womensliberationfront.org/",
+    "snippet": "Women's Liberation Front (US) · 2014 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "DOC",
+    "id": "DOC-Yogyakarta",
+    "title": "Yogyakarta Principles + 10 (2017)",
+    "url": "https://yogyakartaprinciples.org/",
+    "snippet": "國際 NGO / WHRC / Sex Matters · 2017 · 國際文件",
+    "doc_type": "國際文件"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-AABE",
+    "title": "國教行動聯盟",
+    "url": "trace/?stakeholder=SH-AABE",
+    "snippet": "性平教育課綱關注,健康教育主軸",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-AcademiaHist",
+    "title": "中研院近史所",
+    "url": "trace/?stakeholder=SH-AcademiaHist",
+    "snippet": "台灣婦運史 / 慰安婦研究",
+    "stakeholder_type": "academic",
+    "position_axis4": "neutral"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-AwakeningFoundation",
+    "title": "婦女新知基金會",
+    "url": "trace/?stakeholder=SH-AwakeningFoundation",
+    "snippet": "創立 1982,台灣最早婦運團體之一;近 10 年將 CEDAW 詮釋擴張至多元性別議題",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-CEDAWCommittee",
+    "title": "UN CEDAW 委員會",
+    "url": "trace/?stakeholder=SH-CEDAWCommittee",
+    "snippet": "對台灣 4 次審查 CO 之擴張立場呈非線性,2018/2022 反向縮減 SOGIESC",
+    "stakeholder_type": "int_committee",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-CIP",
+    "title": "原住民族委員會",
+    "url": "trace/?stakeholder=SH-CIP",
+    "snippet": "原住民婦女(對應 PI-15)",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-CNA-Gender",
+    "title": "中央社性別議題小組",
+    "url": "trace/?stakeholder=SH-CNA-Gender",
+    "snippet": "官方媒體,持平報導為主",
+    "stakeholder_type": "media",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-CitizenAlliance",
+    "title": "幸福家庭聯盟",
+    "url": "trace/?stakeholder=SH-CitizenAlliance",
+    "snippet": "2013 公投發起單位之一,反性別擴張",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-CovenantsWatch",
+    "title": "人權公約施行監督聯盟 (Covenants Watch)",
+    "url": "trace/?stakeholder=SH-CovenantsWatch",
+    "snippet": "兩公約 / CEDAW / CRC / CRPD 平行報告整合,集合 50+ NGO",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-DGBAS",
+    "title": "行政院主計總處",
+    "url": "trace/?stakeholder=SH-DGBAS",
+    "snippet": "人口普查、性別統計總覽",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-FamilyAlliance",
+    "title": "全民護家盟",
+    "url": "trace/?stakeholder=SH-FamilyAlliance",
+    "snippet": "反同婚陣營,2013 起活躍",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-FamilyValue",
+    "title": "台灣家庭價值聯盟",
+    "url": "trace/?stakeholder=SH-FamilyValue",
+    "snippet": "反框架擴張,主張婦女實質權利優先",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-FiLiA-UK",
+    "title": "FiLiA (UK)",
+    "url": "trace/?stakeholder=SH-FiLiA-UK",
+    "snippet": "英國最大年度婦運大會,反擴張立場",
+    "stakeholder_type": "NGO_international",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-FoCare",
+    "title": "中華民國家庭照顧者關懷總會",
+    "url": "trace/?stakeholder=SH-FoCare",
+    "snippet": "家庭照顧者(85% 為女性)權益、長照性別議題",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "neutral"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-GEC",
+    "title": "行政院性別平等處",
+    "url": "trace/?stakeholder=SH-GEC",
+    "snippet": "",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-GHRA",
+    "title": "台灣性別人權協會",
+    "url": "trace/?stakeholder=SH-GHRA",
+    "snippet": "SOGIESC 倡議第一線,推動性別認定法、跨性別免術換證",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-Garden",
+    "title": "勵馨基金會",
+    "url": "trace/?stakeholder=SH-Garden",
+    "snippet": "婦女反暴力服務,近年漸進整合 SOGIESC",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-GenderEquity",
+    "title": "台灣性別平權教育協會",
+    "url": "trace/?stakeholder=SH-GenderEquity",
+    "snippet": "性平教育倡議",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-Homemakers",
+    "title": "主婦聯盟環境保護基金會",
+    "url": "trace/?stakeholder=SH-Homemakers",
+    "snippet": "主婦消費合作社母會,環境 / 食安 / 性別交織",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "neutral"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-Hotline",
+    "title": "台灣同志諮詢熱線協會",
+    "url": "trace/?stakeholder=SH-Hotline",
+    "snippet": "同志議題核心倡議組織",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-IIS",
+    "title": "中研院社會所性別組",
+    "url": "trace/?stakeholder=SH-IIS",
+    "snippet": "量化性別研究",
+    "stakeholder_type": "academic",
+    "position_axis4": "neutral"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-IWAW",
+    "title": "International Women's Alliance Watch",
+    "url": "trace/?stakeholder=SH-IWAW",
+    "snippet": "監督國際婦女組織立場光譜",
+    "stakeholder_type": "NGO_international",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-IntersexILGA",
+    "title": "ILGA World 與台灣協作",
+    "url": "trace/?stakeholder=SH-IntersexILGA",
+    "snippet": "國際同志聯合會,提交 CEDAW 平行報告",
+    "stakeholder_type": "NGO_international",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-IntersexUnknown",
+    "title": "台灣性別不明關懷協會",
+    "url": "trace/?stakeholder=SH-IntersexUnknown",
+    "snippet": "雙性人 / DSD 倡議,小兒醫療(對應 PI-26)",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-Kaohsiung-WS",
+    "title": "高雄醫學大學性別研究所",
+    "url": "trace/?stakeholder=SH-Kaohsiung-WS",
+    "snippet": "性別與醫療研究領頭",
+    "stakeholder_type": "academic",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-LGB-Alliance",
+    "title": "LGB Alliance (UK)",
+    "url": "trace/?stakeholder=SH-LGB-Alliance",
+    "snippet": "同志運動分裂出的反擴張組織,主張 LGB 不含 T+",
+    "stakeholder_type": "NGO_international",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-LGBTQFamily",
+    "title": "台灣同志家庭權益促進會",
+    "url": "trace/?stakeholder=SH-LGBTQFamily",
+    "snippet": "同性伴侶生育權倡議",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-LY-Female-DPP",
+    "title": "民進黨女性立委團",
+    "url": "trace/?stakeholder=SH-LY-Female-DPP",
+    "snippet": "范雲、林淑芬、陳培瑜等,擴張派婦運親近",
+    "stakeholder_type": "legislator",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-LY-Female-KMT",
+    "title": "國民黨女性立委團",
+    "url": "trace/?stakeholder=SH-LY-Female-KMT",
+    "snippet": "黃馨瑩、柯志恩等,立場分散",
+    "stakeholder_type": "legislator",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-LY-Female-TPP",
+    "title": "台灣民眾黨女性立委團",
+    "url": "trace/?stakeholder=SH-LY-Female-TPP",
+    "snippet": "黃珊珊、麥玉珍等,立場分散",
+    "stakeholder_type": "legislator",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-LY-Judiciary",
+    "title": "立法院司法及法制委員會",
+    "url": "trace/?stakeholder=SH-LY-Judiciary",
+    "snippet": "性別認定法、性平三法等審議委員會",
+    "stakeholder_type": "legislator",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-LY-Society",
+    "title": "立法院衛環委員會",
+    "url": "trace/?stakeholder=SH-LY-Society",
+    "snippet": "家暴法、性侵法、衛福相關性別議題",
+    "stakeholder_type": "legislator",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-LesbianFamily",
+    "title": "台灣婦女團體全國聯合會",
+    "url": "trace/?stakeholder=SH-LesbianFamily",
+    "snippet": "聯盟性婦運組織,接軌國際 NGO Forum",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MOE",
+    "title": "教育部",
+    "url": "trace/?stakeholder=SH-MOE",
+    "snippet": "性別平等教育法主管、校園性平調查",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MOFA",
+    "title": "外交部 NGO 國際事務會",
+    "url": "trace/?stakeholder=SH-MOFA",
+    "snippet": "CEDAW 國家報告對外提交、國際委員會聯絡",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MOHW-PSD",
+    "title": "衛福部保護服務司",
+    "url": "trace/?stakeholder=SH-MOHW-PSD",
+    "snippet": "",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MOI",
+    "title": "內政部",
+    "url": "trace/?stakeholder=SH-MOI",
+    "snippet": "",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MOI-Police",
+    "title": "內政部警政署",
+    "url": "trace/?stakeholder=SH-MOI-Police",
+    "snippet": "家暴 / 性侵第一線執法",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MOJ",
+    "title": "法務部",
+    "url": "trace/?stakeholder=SH-MOJ",
+    "snippet": "刑法 / 民法主管、性別平等法制",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MOL",
+    "title": "勞動部 (MOL)",
+    "url": "trace/?stakeholder=SH-MOL",
+    "snippet": "性別工作平等法主管、GPG 統計、育嬰留停",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MOTC-Stats",
+    "title": "內政部戶政司",
+    "url": "trace/?stakeholder=SH-MOTC-Stats",
+    "snippet": "生育登記、性別欄、戶口統計",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-ModernWomen",
+    "title": "現代婦女基金會",
+    "url": "trace/?stakeholder=SH-ModernWomen",
+    "snippet": "1987 創,家暴防治先驅,推動家暴法立法。性侵法律扶助、家事法律、保護令服務",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-MommiesCoalition",
+    "title": "台灣全國媽媽護家護兒聯盟",
+    "url": "trace/?stakeholder=SH-MommiesCoalition",
+    "snippet": "本平台主辦組織",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-NHRC",
+    "title": "國家人權委員會",
+    "url": "trace/?stakeholder=SH-NHRC",
+    "snippet": "",
+    "stakeholder_type": "gov_agency",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-NTU-GenderStudy",
+    "title": "台大婦女研究室",
+    "url": "trace/?stakeholder=SH-NTU-GenderStudy",
+    "snippet": "婦女研究老牌學術中心",
+    "stakeholder_type": "academic",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-NWLeague",
+    "title": "台灣婦女團體全國聯合會 NWL",
+    "url": "trace/?stakeholder=SH-NWLeague",
+    "snippet": "婦聯會體系,長期偏弱勢婦女、軍眷",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "neutral"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-Nikkei-TW",
+    "title": "Nikkei 台灣婦女調查 NHK",
+    "url": "trace/?stakeholder=SH-Nikkei-TW",
+    "snippet": "國際媒體外部觀察",
+    "stakeholder_type": "media",
+    "position_axis4": "neutral"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-OHCHR",
+    "title": "OHCHR (UN 人權事務高級專員辦事處)",
+    "url": "trace/?stakeholder=SH-OHCHR",
+    "snippet": "CEDAW / CRPD 委員會秘書處所在",
+    "stakeholder_type": "int_committee",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-Pengwanru",
+    "title": "彭婉如文教基金會",
+    "url": "trace/?stakeholder=SH-Pengwanru",
+    "snippet": "紀念彭婉如(被殺害婦運先驅),推動托育人員、家事服務員培力",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-ProtectFamily",
+    "title": "下一代幸福聯盟",
+    "url": "trace/?stakeholder=SH-ProtectFamily",
+    "snippet": "2018 愛家公投發起,反同志教育納入性平教育",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-SexMatters",
+    "title": "Sex Matters (UK)",
+    "url": "trace/?stakeholder=SH-SexMatters",
+    "snippet": "英國法律政策智庫",
+    "stakeholder_type": "NGO_international",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-SingleParent",
+    "title": "中華單親家庭互助協會",
+    "url": "trace/?stakeholder=SH-SingleParent",
+    "snippet": "單親媽媽支援、托育、就業",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "neutral"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-Storm-Gender",
+    "title": "風傳媒性別專欄",
+    "url": "trace/?stakeholder=SH-Storm-Gender",
+    "snippet": "商業媒體,擴張派與反擴張並存的觀點",
+    "stakeholder_type": "media",
+    "position_axis4": "unclear"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-TAPCPR",
+    "title": "台灣伴侶權益推動聯盟",
+    "url": "trace/?stakeholder=SH-TAPCPR",
+    "snippet": "同婚專法主要推動者(2009 起),748 號釋憲幕後",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-TGEEA",
+    "title": "台灣性別平等教育協會",
+    "url": "trace/?stakeholder=SH-TGEEA",
+    "snippet": "性平教育課綱推動,多元性別教學",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-TWRF",
+    "title": "婦女救援基金會 (TWRF)",
+    "url": "trace/?stakeholder=SH-TWRF",
+    "snippet": "1988 創,雛妓救援、慰安婦倡議、人口販運、數位性別暴力 (DSGBV)",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-TransAdvocacy",
+    "title": "跨性別倡議站",
+    "url": "trace/?stakeholder=SH-TransAdvocacy",
+    "snippet": "跨性別社群網絡,推動免術換證、性別認定法",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-TrueLove",
+    "title": "信望愛家庭協會",
+    "url": "trace/?stakeholder=SH-TrueLove",
+    "snippet": "宗教家庭價值倡議",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-UNWomen",
+    "title": "UN Women",
+    "url": "trace/?stakeholder=SH-UNWomen",
+    "snippet": "聯合國婦女署,推動 SOGIESC 進入婦女政策",
+    "stakeholder_type": "int_committee",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-WHRC",
+    "title": "WHRC 婦女人權運動(國際)",
+    "url": "trace/?stakeholder=SH-WHRC",
+    "snippet": "全球連署 36,000+ Sex-Based Rights",
+    "stakeholder_type": "NGO_international",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-WHRC-International",
+    "title": "WHRC International Steering Committee",
+    "url": "trace/?stakeholder=SH-WHRC-International",
+    "snippet": "WHRC 全球指導委員會 + 30+ 國家分會",
+    "stakeholder_type": "NGO_international",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-WoLF-US",
+    "title": "WoLF (Women's Liberation Front)",
+    "url": "trace/?stakeholder=SH-WoLF-US",
+    "snippet": "美國反擴張婦運,提交聯合國 CEDAW 平行報告",
+    "stakeholder_type": "NGO_international",
+    "position_axis4": "against_expand"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-WomenAct",
+    "title": "婦女權益促進發展基金會",
+    "url": "trace/?stakeholder=SH-WomenAct",
+    "snippet": "CEDAW 國家報告編撰協辦,政府委辦半官方性質",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "neutral"
+  },
+  {
+    "type": "NGO",
+    "id": "SH-WomenLearn",
+    "title": "台灣女性學學會",
+    "url": "trace/?stakeholder=SH-WomenLearn",
+    "snippet": "學術型婦運組織,性別研究學者社群,推動性別主流化",
+    "stakeholder_type": "NGO_local",
+    "position_axis4": "expand"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-1988-Garden-Founded",
+    "title": "勵馨基金會 成立(從雛妓救援起家)",
+    "url": "trace/?event=AE-1988-Garden-Founded",
+    "snippet": "1988-04 · 記者會",
+    "event_date": "1988-04",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-1992-TWRF-Comfort",
+    "title": "TWRF 慰安婦阿嬤倡議組織化(57 名阿嬤公開身分)",
+    "url": "trace/?event=AE-1992-TWRF-Comfort",
+    "snippet": "1992 · 記者會",
+    "event_date": "1992",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-1996-MWF-SAPA-Push",
+    "title": "現代婦女基金會 推動性侵害犯罪防治法立法(彭婉如命案後)",
+    "url": "trace/?event=AE-1996-MWF-SAPA-Push",
+    "snippet": "1996 · 法案推動",
+    "event_date": "1996",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-1996-Peng-Murder",
+    "title": "彭婉如理事長 高雄被殺害(改變台灣婦運分水嶺)",
+    "url": "trace/?event=AE-1996-Peng-Murder",
+    "snippet": "1996-11-30 · 記者會",
+    "event_date": "1996-11-30",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-1997-Peng-Foundation",
+    "title": "彭婉如文教基金會 成立 + 第一個托育人員職業訓練",
+    "url": "trace/?event=AE-1997-Peng-Foundation",
+    "snippet": "1997-09 · 政策建議書",
+    "event_date": "1997-09",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-1998-MWF-DV-Push",
+    "title": "現代婦女基金會 推動家庭暴力防治法立法(亞洲首部)",
+    "url": "trace/?event=AE-1998-MWF-DV-Push",
+    "snippet": "1998-06 · 法案推動",
+    "event_date": "1998-06",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2002-EmploymentEqAct",
+    "title": "兩性工作平等法 立法院三讀(婦女新知主導 16 年推動)",
+    "url": "trace/?event=AE-2002-EmploymentEqAct",
+    "snippet": "2002-01-16 · 法案推動",
+    "event_date": "2002-01-16",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2004-GenderEqEduAct",
+    "title": "性別平等教育法 立法院三讀(葉永鋕案 + 婦運推動)",
+    "url": "trace/?event=AE-2004-GenderEqEduAct",
+    "snippet": "2004-06-23 · 法案推動",
+    "event_date": "2004-06-23",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2007-MOHW-DVStat",
+    "title": "衛福部保護服務司 家暴通報統計建制",
+    "url": "trace/?event=AE-2007-MOHW-DVStat",
+    "snippet": "2007 · 政策建議書",
+    "event_date": "2007",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2007-DV-Amendment",
+    "title": "家暴法 2007 大修(納入精神虐待 / 跟蹤騷擾雛形)",
+    "url": "trace/?event=AE-2007-DV-Amendment",
+    "snippet": "2007-03-28 · 法案推動",
+    "event_date": "2007-03-28",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2007-GHRA-Founded",
+    "title": "台灣性別人權協會 GHRA 成立",
+    "url": "trace/?event=AE-2007-GHRA-Founded",
+    "snippet": "2007-09 · 記者會",
+    "event_date": "2007-09",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2009-SexHarassmentAct",
+    "title": "性騷擾防治法 修正(納入工作場所以外 — 大眾運輸 / 公共場所)",
+    "url": "trace/?event=AE-2009-SexHarassmentAct",
+    "snippet": "2009-01-13 · 法案推動",
+    "event_date": "2009-01-13",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2009-AwakeningCEDAW1",
+    "title": "婦女新知 第 1 次 CEDAW 民間影子報告",
+    "url": "trace/?event=AE-2009-AwakeningCEDAW1",
+    "snippet": "2009-03 · 影子報告提交",
+    "event_date": "2009-03",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2009-CW-Founded",
+    "title": "Covenants Watch 人權公約施行監督聯盟 成立",
+    "url": "trace/?event=AE-2009-CW-Founded",
+    "snippet": "2009-12 · 記者會",
+    "event_date": "2009-12",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2010-GR28",
+    "title": "CEDAW 委員會通過 GR-28 一般性建議(§5 區分 sex 與 gender)",
+    "url": "trace/?event=AE-2010-GR28",
+    "snippet": "2010-12 · GR 通過",
+    "event_date": "2010-12",
+    "event_type": "GR 通過"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2013-MarriageEqualityFirstReading",
+    "title": "伴侶盟 民法修正草案(同婚)立法院一讀",
+    "url": "trace/?event=AE-2013-MarriageEqualityFirstReading",
+    "snippet": "2013-10 · 法案推動",
+    "event_date": "2013-10",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2014-AwakeningCEDAW2",
+    "title": "婦女新知 第 2 次 CEDAW 民間影子報告",
+    "url": "trace/?event=AE-2014-AwakeningCEDAW2",
+    "snippet": "2014-06 · 影子報告提交",
+    "event_date": "2014-06",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2014-HotlineCEDAW2",
+    "title": "同志諮詢熱線 第 2 次 CEDAW 平行報告",
+    "url": "trace/?event=AE-2014-HotlineCEDAW2",
+    "snippet": "2014-06 · 影子報告提交",
+    "event_date": "2014-06",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2014-MWF-CEDAW2",
+    "title": "現代婦女基金會 第 2 次 CEDAW 平行報告(家暴段落)",
+    "url": "trace/?event=AE-2014-MWF-CEDAW2",
+    "snippet": "2014-06 · 影子報告提交",
+    "event_date": "2014-06",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2014-CW-CEDAW2",
+    "title": "Covenants Watch 第 2 次 CEDAW 平行報告整合(集合 16 NGO)",
+    "url": "trace/?event=AE-2014-CW-CEDAW2",
+    "snippet": "2014-06 · 影子報告提交",
+    "event_date": "2014-06",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2014-CEDAW2-CO63",
+    "title": "第 2 次 CEDAW CO §63 列舉 LBTI(首次)",
+    "url": "trace/?event=AE-2014-CEDAW2-CO63",
+    "snippet": "2014-06-26 · CO 段落要求",
+    "event_date": "2014-06-26",
+    "event_type": "CO 段落要求"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2014-WoLF-USCEDAW",
+    "title": "WoLF (US) 提交 UN CEDAW 第 7-9 次美國平行報告",
+    "url": "trace/?event=AE-2014-WoLF-USCEDAW",
+    "snippet": "2014-09 · 影子報告提交",
+    "event_date": "2014-09",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2014-FamilyAlliance",
+    "title": "全民護家盟 凱道大遊行",
+    "url": "trace/?event=AE-2014-FamilyAlliance",
+    "snippet": "2014-11-30 · 記者會",
+    "event_date": "2014-11-30",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2014-PaternityLeave",
+    "title": "父親育嬰留停 8 週(性平工作法 §16 修正)",
+    "url": "trace/?event=AE-2014-PaternityLeave",
+    "snippet": "2014-12-11 · 法案推動",
+    "event_date": "2014-12-11",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2015-Intersex-Surgery",
+    "title": "性別不明關懷協會 雙性人嬰兒手術延遲倡議",
+    "url": "trace/?event=AE-2015-Intersex-Surgery",
+    "snippet": "2015-10 · 政策建議書",
+    "event_date": "2015-10",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2015-MWF-FemicideStat",
+    "title": "現代婦女基金會 親密關係致死案件統計呼籲(11/25 反性別暴力日)",
+    "url": "trace/?event=AE-2015-MWF-FemicideStat",
+    "snippet": "2015-11-25 · 記者會",
+    "event_date": "2015-11-25",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2017-MOL-EmploymentEqRevise",
+    "title": "勞動部 性別工作平等法施行細則修正(納入「性別認同」歧視)",
+    "url": "trace/?event=AE-2017-MOL-EmploymentEqRevise",
+    "snippet": "2017 · 政策建議書",
+    "event_date": "2017",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2017-GEPolicyRevision",
+    "title": "婦女新知等 共同推動性平綱領納入多元性別章節",
+    "url": "trace/?event=AE-2017-GEPolicyRevision",
+    "snippet": "2017-01 · 政策建議書",
+    "event_date": "2017-01",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2017-GEC-GEPolicyV4",
+    "title": "行政院性平處 性別平等政策綱領 v4 發布",
+    "url": "trace/?event=AE-2017-GEC-GEPolicyV4",
+    "snippet": "2017-01-03 · 政策建議書",
+    "event_date": "2017-01-03",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2017-SexEdRevision",
+    "title": "性別平等教育課綱十二年國教納入多元性別(婦女新知 + 熱線)",
+    "url": "trace/?event=AE-2017-SexEdRevision",
+    "snippet": "2017-05 · 記者會",
+    "event_date": "2017-05",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2017-J748Ruling",
+    "title": "司法院釋字第 748 號公布:同性婚姻違憲",
+    "url": "trace/?event=AE-2017-J748Ruling",
+    "snippet": "2017-05-24 · CO 段落要求",
+    "event_date": "2017-05-24",
+    "event_type": "CO 段落要求"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-AABE-SexEd",
+    "title": "AABE 國教盟 反對性平教育課綱多元性別內容",
+    "url": "trace/?event=AE-2018-AABE-SexEd",
+    "snippet": "2018 · 政策建議書",
+    "event_date": "2018",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-Garden-MaternalHealth",
+    "title": "勵馨基金會 + 多 NGO 孕產婦死亡率倒退報告",
+    "url": "trace/?event=AE-2018-Garden-MaternalHealth",
+    "snippet": "2018-04 · 政策建議書",
+    "event_date": "2018-04",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-CEDAW3-multi",
+    "title": "多 NGO 第 3 次 CEDAW 民間平行報告(共 11 NGO)",
+    "url": "trace/?event=AE-2018-CEDAW3-multi",
+    "snippet": "2018-07 · 影子報告提交",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-TWRF-CEDAW3",
+    "title": "TWRF 第 3 次 CEDAW 平行報告(數位性別暴力章節)",
+    "url": "trace/?event=AE-2018-TWRF-CEDAW3",
+    "snippet": "2018-07 · 影子報告提交",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-CW-CEDAW3",
+    "title": "Covenants Watch 第 3 次 CEDAW 平行報告(11 NGO)",
+    "url": "trace/?event=AE-2018-CW-CEDAW3",
+    "snippet": "2018-07 · 影子報告提交",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-Garden-CEDAW3",
+    "title": "勵馨基金會 第 3 次 CEDAW 平行報告(性侵章)",
+    "url": "trace/?event=AE-2018-Garden-CEDAW3",
+    "snippet": "2018-07 · 影子報告提交",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-Hotline-CEDAW3",
+    "title": "同志諮詢熱線 第 3 次 CEDAW 平行報告",
+    "url": "trace/?event=AE-2018-Hotline-CEDAW3",
+    "snippet": "2018-07 · 影子報告提交",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-CEDAW3-CO172",
+    "title": "第 3 次 CEDAW CO §172/§224/§306 將 LBTI 列為弱勢交織分組",
+    "url": "trace/?event=AE-2018-CEDAW3-CO172",
+    "snippet": "2018-07-20 · CO 段落要求",
+    "event_date": "2018-07-20",
+    "event_type": "CO 段落要求"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-MOL-PartTimeReport",
+    "title": "勞動部 部分工時勞工權益保障報告",
+    "url": "trace/?event=AE-2018-MOL-PartTimeReport",
+    "snippet": "2018-08 · 政策建議書",
+    "event_date": "2018-08",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-ModernWomen-GlassCeiling",
+    "title": "現代婦女基金會 上市櫃女董調查發布(2018 僅 11.6%)",
+    "url": "trace/?event=AE-2018-ModernWomen-GlassCeiling",
+    "snippet": "2018-09 · 政策建議書",
+    "event_date": "2018-09",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-CIP-IndigenousWomen",
+    "title": "原住民族委員會 原住民婦女狀況調查報告",
+    "url": "trace/?event=AE-2018-CIP-IndigenousWomen",
+    "snippet": "2018-11 · 政策建議書",
+    "event_date": "2018-11",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-ReferendumDefeat",
+    "title": "2018 公投第 14 案(同婚以民法保障)否決",
+    "url": "trace/?event=AE-2018-ReferendumDefeat",
+    "snippet": "2018-11-24 · 法案推動",
+    "event_date": "2018-11-24",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2018-GHRA-TransIDDraft",
+    "title": "GHRA 性別認定法草案 立法院公聽會",
+    "url": "trace/?event=AE-2018-GHRA-TransIDDraft",
+    "snippet": "2018-12 · 法案推動",
+    "event_date": "2018-12",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2019-WHRCDeclaration",
+    "title": "WHRC Declaration on Women's Sex-Based Rights 全球連署啟動",
+    "url": "trace/?event=AE-2019-WHRCDeclaration",
+    "snippet": "2019-03-08 · 政策建議書",
+    "event_date": "2019-03-08",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2019-748Act",
+    "title": "司法院釋字 748 號施行法 立法院三讀通過",
+    "url": "trace/?event=AE-2019-748Act",
+    "snippet": "2019-05-24 · 法案推動",
+    "event_date": "2019-05-24",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2019-LGBA-Founded",
+    "title": "LGB Alliance (UK) 成立 — 同志運動分裂",
+    "url": "trace/?event=AE-2019-LGBA-Founded",
+    "snippet": "2019-10 · 記者會",
+    "event_date": "2019-10",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2020-MOI-NewImmigrantWomen",
+    "title": "內政部 + 婦女救援 新住民配偶國籍法保障",
+    "url": "trace/?event=AE-2020-MOI-NewImmigrantWomen",
+    "snippet": "2020-06 · 政策建議書",
+    "event_date": "2020-06",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2020-TWRF-DSGBVReport",
+    "title": "TWRF 數位性別暴力研究報告發布(11/25 反性別暴力日)",
+    "url": "trace/?event=AE-2020-TWRF-DSGBVReport",
+    "snippet": "2020-11-25 · 政策建議書",
+    "event_date": "2020-11-25",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2021-SexMatters-Founded",
+    "title": "Sex Matters (UK) 成立",
+    "url": "trace/?event=AE-2021-SexMatters-Founded",
+    "snippet": "2021 · 記者會",
+    "event_date": "2021",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-Awakening-EqualPayDay",
+    "title": "婦女新知 同酬日記者會(台灣女性需多工作 56 天)",
+    "url": "trace/?event=AE-2022-Awakening-EqualPayDay",
+    "snippet": "2022-02-25 · 記者會",
+    "event_date": "2022-02-25",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-AwakeningCEDAW4",
+    "title": "婦女新知 第 4 次 CEDAW 民間影子報告",
+    "url": "trace/?event=AE-2022-AwakeningCEDAW4",
+    "snippet": "2022-04 · 影子報告提交",
+    "event_date": "2022-04",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-CRC-IndigenousWomen",
+    "title": "原住民族青年陣線 + 多原民團體 第 4 次 CEDAW 平行報告原住民篇",
+    "url": "trace/?event=AE-2022-CRC-IndigenousWomen",
+    "snippet": "2022-04 · 影子報告提交",
+    "event_date": "2022-04",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-LGBTQFamily-IVF",
+    "title": "台灣同志家庭權益促進會 同志/單身女性人工生殖法草案",
+    "url": "trace/?event=AE-2022-LGBTQFamily-IVF",
+    "snippet": "2022-06 · 法案推動",
+    "event_date": "2022-06",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-MOJ-StalkingAct",
+    "title": "跟蹤騷擾防制法 上路(各 NGO 8 年推動)",
+    "url": "trace/?event=AE-2022-MOJ-StalkingAct",
+    "snippet": "2022-06-01 · 法案推動",
+    "event_date": "2022-06-01",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-Hotline-CEDAW4",
+    "title": "同志諮詢熱線 第 4 次 CEDAW 平行報告",
+    "url": "trace/?event=AE-2022-Hotline-CEDAW4",
+    "snippet": "2022-11 · 影子報告提交",
+    "event_date": "2022-11",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-AwakeningCEDAW4-actual",
+    "title": "婦女新知 第 4 次 CEDAW 國際審查提交文件(實際內容)",
+    "url": "trace/?event=AE-2022-AwakeningCEDAW4-actual",
+    "snippet": "2022-11-29 · 影子報告提交",
+    "event_date": "2022-11-29",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-TWRF-CEDAW4",
+    "title": "TWRF 第 4 次 CEDAW 平行報告 DSGBV 章",
+    "url": "trace/?event=AE-2022-TWRF-CEDAW4",
+    "snippet": "2022-11-29 · 影子報告提交",
+    "event_date": "2022-11-29",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-CW-CEDAW4",
+    "title": "Covenants Watch 第 4 次 CEDAW 平行報告整合",
+    "url": "trace/?event=AE-2022-CW-CEDAW4",
+    "snippet": "2022-11-29 · 影子報告提交",
+    "event_date": "2022-11-29",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2022-CEDAW4-CO78",
+    "title": "第 4 次 CEDAW CO §78-79 聚焦同性婚姻歧視",
+    "url": "trace/?event=AE-2022-CEDAW4-CO78",
+    "snippet": "2022-12-02 · CO 段落要求",
+    "event_date": "2022-12-02",
+    "event_type": "CO 段落要求"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2023-PrivateImageLaw",
+    "title": "性侵害犯罪防治法 私密影像條文(刑法 §319-1~§319-3 修正)",
+    "url": "trace/?event=AE-2023-PrivateImageLaw",
+    "snippet": "2023-02-08 · 法案推動",
+    "event_date": "2023-02-08",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2023-MOHW-IPVProgram",
+    "title": "衛福部 親密暴力被害人服務方案 v2",
+    "url": "trace/?event=AE-2023-MOHW-IPVProgram",
+    "snippet": "2023-04 · 政策建議書",
+    "event_date": "2023-04",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2023-Pengwanru-PublicChildcare",
+    "title": "彭婉如基金會 公共保母系統擴張倡議",
+    "url": "trace/?event=AE-2023-Pengwanru-PublicChildcare",
+    "snippet": "2023-04 · 政策建議書",
+    "event_date": "2023-04",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2023-MeToo-Outbreak",
+    "title": "台灣 MeToo 風暴爆發(聲量 2 個月達數百件)",
+    "url": "trace/?event=AE-2023-MeToo-Outbreak",
+    "snippet": "2023-05-31 · 媒體投書",
+    "event_date": "2023-05-31",
+    "event_type": "媒體投書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2023-MWF-MeTooLegal",
+    "title": "現代婦女基金會 MeToo 法律扶助專案啟動",
+    "url": "trace/?event=AE-2023-MWF-MeTooLegal",
+    "snippet": "2023-06 · 法案推動",
+    "event_date": "2023-06",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2023-LY-MeTooReform",
+    "title": "立法院司法委員會 性平三法大修 MeToo 修法協商",
+    "url": "trace/?event=AE-2023-LY-MeTooReform",
+    "snippet": "2023-08 · 法案推動",
+    "event_date": "2023-08",
+    "event_type": "法案推動"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2023-FiLiA-CEDAWUK",
+    "title": "FiLiA (UK) 第 8 次 UK CEDAW 平行報告(反 self-ID)",
+    "url": "trace/?event=AE-2023-FiLiA-CEDAWUK",
+    "snippet": "2023-09 · 影子報告提交",
+    "event_date": "2023-09",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2023-LYHearingExpand",
+    "title": "立法院公聽會: 性別工作平等法修法是否擴及自我認同性別",
+    "url": "trace/?event=AE-2023-LYHearingExpand",
+    "snippet": "2023-10 · 公聽會發言",
+    "event_date": "2023-10",
+    "event_type": "公聽會發言"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-GEPolicyV6",
+    "title": "婦女新知等 推動性平綱領第 6 版進一步擴張",
+    "url": "trace/?event=AE-2024-GEPolicyV6",
+    "snippet": "2024 · 政策建議書",
+    "event_date": "2024",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-TAPCPRTransPlatform",
+    "title": "伴侶盟 跨性別資訊平台 / Line 官方帳號上線",
+    "url": "trace/?event=AE-2024-TAPCPRTransPlatform",
+    "snippet": "2024 · 政策建議書",
+    "event_date": "2024",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-WHRC-AnnualReport",
+    "title": "WHRC International 全球年度報告 — sex-based rights 推進",
+    "url": "trace/?event=AE-2024-WHRC-AnnualReport",
+    "snippet": "2024-03-08 · 記者會",
+    "event_date": "2024-03-08",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-Homemakers-Coop",
+    "title": "主婦聯盟生活消費合作社 三八婦女節聲明",
+    "url": "trace/?event=AE-2024-Homemakers-Coop",
+    "snippet": "2024-03-08 · 記者會",
+    "event_date": "2024-03-08",
+    "event_type": "記者會"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-AABESexEdReform",
+    "title": "AABE 國教盟 性教育課綱再校準公聽會發言",
+    "url": "trace/?event=AE-2024-AABESexEdReform",
+    "snippet": "2024-04 · 政策建議書",
+    "event_date": "2024-04",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-TransSurgeryFree",
+    "title": "台北高等行政法院判決:強制手術換證違反 CEDAW 與兩公約",
+    "url": "trace/?event=AE-2024-TransSurgeryFree",
+    "snippet": "2024-08 · 訴訟",
+    "event_date": "2024-08",
+    "event_type": "訴訟"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-Garden-Sport",
+    "title": "勵馨等 NGO 男女運動空間公平倡議",
+    "url": "trace/?event=AE-2024-Garden-Sport",
+    "snippet": "2024-08 · 政策建議書",
+    "event_date": "2024-08",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-GHRA-TransLitigation",
+    "title": "GHRA 跨性別免術換證 行政訴訟勝訴(台北高行)",
+    "url": "trace/?event=AE-2024-GHRA-TransLitigation",
+    "snippet": "2024-08-16 · 訴訟",
+    "event_date": "2024-08-16",
+    "event_type": "訴訟"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-MommiesGEPolicy",
+    "title": "台灣全國媽媽護家護兒聯盟 對性平綱領第 6 版修訂意見書",
+    "url": "trace/?event=AE-2024-MommiesGEPolicy",
+    "snippet": "2024-09 · 政策建議書",
+    "event_date": "2024-09",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-TransSite-PrisonAdmission",
+    "title": "跨性別倡議站 法務部矯正署男性收容空間建議",
+    "url": "trace/?event=AE-2024-TransSite-PrisonAdmission",
+    "snippet": "2024-09 · 政策建議書",
+    "event_date": "2024-09",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-GEC-GEPolicyV6",
+    "title": "行政院性平處 性別平等政策綱領 v6 修訂",
+    "url": "trace/?event=AE-2024-GEC-GEPolicyV6",
+    "snippet": "2024-09 · 政策建議書",
+    "event_date": "2024-09",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-Kaohsiung-TFRStudy",
+    "title": "高醫性別研究所 台灣 TFR 全球最低之政策剖析",
+    "url": "trace/?event=AE-2024-Kaohsiung-TFRStudy",
+    "snippet": "2024-09 · 政策建議書",
+    "event_date": "2024-09",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-MOJ-PrisonGenderPolicy",
+    "title": "法務部矯正署 跨性別收容人空間政策研擬",
+    "url": "trace/?event=AE-2024-MOJ-PrisonGenderPolicy",
+    "snippet": "2024-09 · 政策建議書",
+    "event_date": "2024-09",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-PlatformLiability",
+    "title": "TWRF 平台業者下架責任倡議",
+    "url": "trace/?event=AE-2024-PlatformLiability",
+    "snippet": "2024-10 · 政策建議書",
+    "event_date": "2024-10",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-Mommies-ShelterPosition",
+    "title": "護家護兒聯盟 庇護所收容立場聲明",
+    "url": "trace/?event=AE-2024-Mommies-ShelterPosition",
+    "snippet": "2024-10 · 政策建議書",
+    "event_date": "2024-10",
+    "event_type": "政策建議書"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2024-LY-TransIDDebate",
+    "title": "立法院 性別認定法草案 跨黨派公聽會",
+    "url": "trace/?event=AE-2024-LY-TransIDDebate",
+    "snippet": "2024-11 · 公聽會發言",
+    "event_date": "2024-11",
+    "event_type": "公聽會發言"
+  },
+  {
+    "type": "EVENT",
+    "id": "AE-2026-MommiesCEDAW",
+    "title": "台灣全國媽媽護家護兒聯盟 第 5 次 CEDAW 影子報告(本平台)",
+    "url": "trace/?event=AE-2026-MommiesCEDAW",
+    "snippet": "2026-04 · 影子報告提交",
+    "event_date": "2026-04",
+    "event_type": "影子報告提交"
+  },
+  {
+    "type": "LAW",
+    "id": "L01",
+    "title": "消除對婦女一切形式歧視公約施行法",
+    "url": "laws/L01.html",
+    "snippet": "主管:略 · 最近修法 2011-06-08",
+    "short_name": "CEDAW施行法"
+  },
+  {
+    "type": "LAW",
+    "id": "L02",
+    "title": "性別平等工作法(原性別工作平等法)",
+    "url": "laws/L02.html",
+    "snippet": "主管:略 · 最近修法 2024-03-08",
+    "short_name": "性平工作法"
+  },
+  {
+    "type": "LAW",
+    "id": "L03",
+    "title": "性別平等教育法",
+    "url": "laws/L03.html",
+    "snippet": "主管:略 · 最近修法 2024-03-08",
+    "short_name": "性平教育法"
+  },
+  {
+    "type": "LAW",
+    "id": "L04",
+    "title": "性騷擾防治法",
+    "url": "laws/L04.html",
+    "snippet": "主管:略 · 最近修法 2023-08-16",
+    "short_name": "性騷防治法"
+  },
+  {
+    "type": "LAW",
+    "id": "L05",
+    "title": "家庭暴力防治法",
+    "url": "laws/L05.html",
+    "snippet": "主管:略 · 最近修法 2024-03-08",
+    "short_name": "家暴防治法"
+  },
+  {
+    "type": "LAW",
+    "id": "L06",
+    "title": "性侵害犯罪防治法",
+    "url": "laws/L06.html",
+    "snippet": "主管:略 · 最近修法 2023-06-15",
+    "short_name": "性侵防治法"
+  },
+  {
+    "type": "LAW",
+    "id": "L07",
+    "title": "跟蹤騷擾防制法",
+    "url": "laws/L07.html",
+    "snippet": "主管:略 · 最近修法 2022-06-01",
+    "short_name": "跟騷防制法"
+  },
+  {
+    "type": "LAW",
+    "id": "L08",
+    "title": "人工生殖法",
+    "url": "laws/L08.html",
+    "snippet": "主管:略 · 最近修法 2018-01-03",
+    "short_name": "人工生殖法"
+  },
+  {
+    "type": "LAW",
+    "id": "L09",
+    "title": "優生保健法(墮胎相關)",
+    "url": "laws/L09.html",
+    "snippet": "主管:略 · 最近修法 1999-12-22",
+    "short_name": "優生保健法"
+  },
+  {
+    "type": "LAW",
+    "id": "L10",
+    "title": "民法親屬編",
+    "url": "laws/L10.html",
+    "snippet": "主管:略 · 最近修法 2021-01-13",
+    "short_name": "民法親屬編"
+  },
+  {
+    "type": "LAW",
+    "id": "L11",
+    "title": "司法院釋字第748號解釋施行法(同婚專法)",
+    "url": "laws/L11.html",
+    "snippet": "主管:略 · 最近修法 2023-05-31",
+    "short_name": "同婚專法"
+  },
+  {
+    "type": "LAW",
+    "id": "L12",
+    "title": "入出國及移民法(新住民相關)",
+    "url": "laws/L12.html",
+    "snippet": "主管:略 · 最近修法 2023-06-28",
+    "short_name": "移民法"
+  }
+]

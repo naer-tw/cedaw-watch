@@ -1,0 +1,107 @@
+<!doctype html><html lang="zh-Hant"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>5 輪獨立 QA 結果 — 婦女權利監督平台</title>
+<style>
+body { font-family: "Noto Sans TC", -apple-system, sans-serif; background:#FAFAF7; color:#1F1F1F; line-height:1.7; margin:0; }
+header { background:#0E2238; color:#fff; padding:14px 20px; }
+header a { color:#fff; text-decoration:none; opacity:0.85; font-size:14px; }
+main { max-width:760px; margin:32px auto; padding:0 20px; }
+h1 { font-family:"Noto Serif TC", Georgia, serif; font-size:30px; line-height:1.3; margin-bottom:12px; }
+h2 { font-family:"Noto Serif TC", serif; font-size:22px; margin-top:32px; padding-bottom:6px; border-bottom:2px solid #4B2480; }
+h3 { font-family:"Noto Serif TC", serif; font-size:18px; margin-top:24px; }
+h4 { font-size:15px; margin-top:18px; }
+p { margin:10px 0; font-size:15px; }
+ul, ol { padding-left:24px; margin:10px 0; }
+li { margin-bottom:6px; font-size:15px; }
+a { color:#4B2480; text-decoration:underline; text-decoration-thickness:1px; text-underline-offset:2px; }
+a:hover { color:#2E1450; }
+strong { color:#1F1F1F; }
+code { background:#F1EFEA; padding:1px 6px; border-radius:3px; font-family:"JetBrains Mono", Menlo, monospace; font-size:0.92em; }
+pre { background:#0E2238; color:#fff; padding:14px 18px; border-radius:6px; overflow-x:auto; }
+pre code { background:none; color:#fff; padding:0; }
+blockquote { border-left:4px solid #4B2480; padding:8px 18px; background:#ECE0F2; margin:14px 0; border-radius:0 6px 6px 0; }
+blockquote p { font-size:14.5px; }
+.tools { background:#F1EFEA; padding:8px 14px; border-radius:6px; margin-top:24px; font-size:13px; }
+.tools a { margin-right:14px; }
+</style></head><body>
+<header><a href="../index.html">← 回首頁</a></header>
+<main>
+<h1>QA 議題追蹤</h1>
+<blockquote>
+<p><strong>建立日</strong>:2026-04-30 / Wave 10</p>
+<p><strong>更新日</strong>:2026-04-30 / Wave 21(第二輪 QA 後)</p>
+<p><strong>目的</strong>:記錄獨立 QA 之發現與修法狀態</p>
+</blockquote>
+<h2>第 1 輪 cold read(Wave 10 / 2026-04-30)</h2>
+<p>執行者:獨立 Explore agent,審查 Wave 1-9 全部產出,評分 8.1/10</p>
+<p>| # | 嚴重性 | 議題 | 修法狀態 | Wave |</p>
+<p>|---:|---|---|---|---:|</p>
+<p>| 1 | ⚠ 中 | PI-05 §六 同性配偶家暴用「不反對此擴及」措辭與立場有張力 | ✅ Wave 10 修(改為「同婚當事人雙方皆為生理女性,無框架擴張問題」)| 10 |</p>
+<p>| 2 | ⚠ 中 | Schema-frontmatter 映射缺失 | ✅ Wave 11 修 | 11 |</p>
+<p>| 3 | ⚠ 低 | PI-01/PI-11 為精簡版 | ✅ Wave 12 修(補完整 5 audience)| 12 |</p>
+<p>| 4 | ⚠ 中 | PI-21 國際 gender-critical 文獻只有名稱無 URL | ✅ Wave 13 修(7 來源全 URL)| 13 |</p>
+<p>| 5 | ⚠ 中 | PI-21/22 缺 axis4_review_status 欄位 | ✅ Wave 11 修 | 11 |</p>
+<p>| 6 | ⚠ 高 | 4 次 CO PDF 全部 placeholder | ✅ <strong>Wave 16-17 用 WebFetch 抓 8 PDF + 真實校正</strong> | 16-17 |</p>
+<p>| 7 | ⚠ 低 | self_qa.sh 尚未跑過 | ✅ Wave 14 修(✓ 21/⚠ 0/✗ 0)| 14 |</p>
+<h2>第 2 輪 cold read(Wave 21 / 2026-04-30)</h2>
+<p>執行者:獨立 Explore agent,審查 Wave 16-20 增量(主動爬蟲階段)</p>
+<p>評分:<strong>6.0/10 平均</strong>(降低,因發掘更深問題)</p>
+<p>| 面向 | 第 1 輪 | 第 2 輪 | 變化 |</p>
+<p>|---|:---:|:---:|---|</p>
+<p>| 立場一致性 | 9.5 | — | — |</p>
+<p>| 真實資料整合 | — | 6/10 | 新項目 |</p>
+<p>| 論述一致性 | — | 7/10 | — |</p>
+<p>| 新事實吸收 | — | 5/10 | <strong>重大</strong> |</p>
+<p>| 軸四邊界風險 | — | 6/10 | 新項目 |</p>
+<p>| 發表就緒度 | 8 | <strong>4/10</strong> | <strong>下修</strong> |</p>
+<p>| # | 嚴重性 | 議題 | 修法狀態 | Wave |</p>
+<p>|---:|---|---|---|---:|</p>
+<p>| 8 | 🔴 <strong>高</strong> | 國際 CO 並未線性擴張,本平台立場若仍說「反對國際 CO 擴張」會被反駁 — <strong>應改為「反對台灣政府詮釋擴張」</strong> | ✅ Wave 21 修(CLAUDE.md §一 立場精確化)| 21 |</p>
+<p>| 9 | ⚠ 中 | PI-22 §4.1 預算分項表 4 列 100% 推測,但寫成「預估」誤導 | ✅ Wave 21 修(加 ⚠ 警告 + 改為「待驗證假說」)| 21 |</p>
+<p>| 10 | ⚠ 中 | PI-22 §4.2 性平綱領用語頻次表「待數」,但 Wave 19 已分析 2017 版 | ✅ Wave 21 修(填入真實數值,SOGIESC 53 vs 弱勢分組 14 = 3.8 倍)| 21 |</p>
+<p>| 11 | ⚠ 中 | PI-08 數位性暴力,跨性別被害人若統計納入婦女,將與本平台立場衝突 | ✅ Wave 21 修(§6.1 軸四註記,定義「法律性別女性」)| 21 |</p>
+<p>| 12 | ⚠ 低 | 軸三指標多項仍 placeholder(子宮頸抹片 / 婦癌篩檢 / 弱勢交織) | 🔴 待 Wave 22+(WebSearch 抓真實值)| — |</p>
+<p>| 13 | ⚠ 低 | PI-21 4 次 CO 條文對應表 6/12 格仍「待查」 | 🔴 待 Wave 22+(parse_co_to_md.py 細部入庫)| — |</p>
+<p>| 14 | 🔴 中高 | 性平綱領僅分析 2017 版,需第 1/2014/2018/2024 多版做時序對比 | 🔴 待 Wave 22+(<code>fetch_gepolicy.py</code> + <code>analyze_gepolicy_terms.py</code>)| — |</p>
+<p>| 15 | ⚠ 低 | 6 PI 全部 published: false,無法上線 | 🔴 軸四 PI(05/21/22)需三方覆核才可發布 | 待人事 |</p>
+<h2>整體進度</h2>
+<pre><code>
+Wave 1-15  基礎建設(scaffolding + governance + schema + 5 PI 基礎)
+Wave 16-20 主動爬蟲(8 CO PDF + 性平綱領 + 真實指標 + PI-08)
+Wave 21    第二輪 QA + 立場精確化 + PI-22/08 修法
+Wave 22+   待 cron 抓性平綱領多版 + 軸三指標完整
+</code></pre>
+<h2>修訂歷史</h2>
+<ul>
+<li>v2.0 / 2026-04-30 / Wave 21 / 加第 2 輪 QA + Issue #8-15</li>
+<li>v1.0 / 2026-04-30 / Wave 10</li>
+</ul>
+<h2>第 5 輪 cold read(Wave 70 / 2026-04-30)</h2>
+<p>審查對象:Wave 60-69 增量(歷年 PDF + 法律 + recommendation + FTS + 影子報告 v0.2 + 6 PI 英譯)</p>
+<p>評分:<strong>7.1/10</strong>(同 Wave 27 持平,規模擴張 5x)</p>
+<p>| 面向 | 分數 | 備註 |</p>
+<p>|---|:---:|---|</p>
+<p>| 資料完整性 | 7.5/10 | 39 rec + 4,601 passage + 137 時序;6 空表非致命 |</p>
+<p>| 品質正確性 | 7.8/10 | trigger 事件歸因 85%,無重大錯誤 |</p>
+<p>| 論述一致性 | 7.0/10 | v0.2 立場清晰,軸四國際引用需謹慎 |</p>
+<p>| 政治風險 | 6.5/10 | 軸四邊界表述易遭反方詰問 |</p>
+<p>| 英譯品質 | 7.2/10 | 6/18 完成,用語一致 82% |</p>
+<p>| 視覺化體驗 | 7.0/10 | trace HTML 美觀,交互可深化 |</p>
+<p>| # | 嚴重性 | 議題 | 修法狀態 | Wave |</p>
+<p>|---:|---|---|---|---:|</p>
+<p>| 16 | ⚠ 中 | passage_fts 部分索引未編譯(4601 段中只 1239 筆活躍)| 🔴 待 Wave 71 修 | — |</p>
+<p>| 17 | ⚠ 低 | recommendation body 欄位多空,只有 title | 🔴 待重抽 | — |</p>
+<p>| 18 | ⚠ 中 | trace HTML 軸四標籤(擴張派/反擴張派)需中立化措辭 | 🔴 改「倡議導向」分群 | — |</p>
+<p>| 19 | ⚠ 低 | trace HTML 缺 decade view + 因果勾連 | 🔴 互動性深化 | — |</p>
+<p>| 20 | ⚠ 中 | 軸四 v0.2 §四 國際 CO 引用易被批選擇性 | 🔴 強化「政府詮釋為主軸」、弱化「國際反對擴張」 | — |</p>
+<p>| 21 | ⚠ 低 | 6 PI 英譯 PI-23 邊界表述需法律譯者確認 | 🔴 待認證譯者 | — |</p>
+<p>| 22 | ⚠ 中 | media_coverage 表空白影響「社會迴響」論述 | 🔴 寫 fetch 抓主流媒體 | — |</p>
+<p><strong>建議</strong>:可發佈 v0.2-beta(含「資料補充進行中」disclaimer)</p>
+<div class="tools">
+  <a href="../index.html">回首頁</a>
+  <a href="../search.html">全平台搜尋</a>
+  <a href="ABOUT_NGO.html">主辦組織</a>
+  <a href="DATA_COMPLETENESS_REPORT.html">資料完整度</a>
+  <a href="QA_ISSUES.html">5 輪 QA 結果</a>
+</div>
+</main></body></html>

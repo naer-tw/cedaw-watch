@@ -1,0 +1,1329 @@
+[
+  {
+    "event_id": "AE-1988-Garden-Founded",
+    "event_date": "1988-04",
+    "event_type": "記者會",
+    "title": "勵馨基金會 成立(從雛妓救援起家)",
+    "stakeholder_id": "SH-Garden",
+    "stakeholder_name": "勵馨基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-07"
+    ],
+    "position_summary": "原為廣慈博愛院雛妓收容,1988 獨立為基金會",
+    "source_url": "https://www.goh.org.tw/",
+    "outcome_intent": "推動兒童及少年性交易防治條例立法(1995)"
+  },
+  {
+    "event_id": "AE-1992-TWRF-Comfort",
+    "event_date": "1992",
+    "event_type": "記者會",
+    "title": "TWRF 慰安婦阿嬤倡議組織化(57 名阿嬤公開身分)",
+    "stakeholder_id": "SH-TWRF",
+    "stakeholder_name": "婦女救援基金會 (TWRF)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-07"
+    ],
+    "position_summary": "韓國金學順阿嬤站出來後,台灣 TWRF 協助 57 名阿嬤組織倡議",
+    "source_url": "https://www.twrf.org.tw/",
+    "outcome_intent": "推動歷史正義、戰時性暴力國際倡議"
+  },
+  {
+    "event_id": "AE-1996-MWF-SAPA-Push",
+    "event_date": "1996",
+    "event_type": "法案推動",
+    "title": "現代婦女基金會 推動性侵害犯罪防治法立法(彭婉如命案後)",
+    "stakeholder_id": "SH-ModernWomen",
+    "stakeholder_name": "現代婦女基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-05",
+      "PI-07"
+    ],
+    "position_summary": "彭婉如(時任民進黨婦女部主任)被殺害後,現代婦女基金會聯合婦女團體推動性侵害犯罪防治法",
+    "source_url": "https://www.38.org.tw/",
+    "outcome_intent": "促成 1997 年性侵害犯罪防治法立法"
+  },
+  {
+    "event_id": "AE-1996-Peng-Murder",
+    "event_date": "1996-11-30",
+    "event_type": "記者會",
+    "title": "彭婉如理事長 高雄被殺害(改變台灣婦運分水嶺)",
+    "stakeholder_id": "SH-Pengwanru",
+    "stakeholder_name": "彭婉如文教基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-05",
+      "PI-07"
+    ],
+    "position_summary": "時任民進黨婦女發展委員會主委,在高雄出席婦女夜行權活動後失蹤遭殺害",
+    "source_url": "",
+    "outcome_intent": "促成性侵害犯罪防治法緊急立法、夜歸權討論"
+  },
+  {
+    "event_id": "AE-1997-Peng-Foundation",
+    "event_date": "1997-09",
+    "event_type": "政策建議書",
+    "title": "彭婉如文教基金會 成立 + 第一個托育人員職業訓練",
+    "stakeholder_id": "SH-Pengwanru",
+    "stakeholder_name": "彭婉如文教基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-02",
+      "PI-04"
+    ],
+    "position_summary": "繼承彭婉如未竟之志,聚焦「家事服務員職業化」、托育平價化",
+    "source_url": "https://www.pwr.org.tw/",
+    "outcome_intent": "建立專業托育人員制度"
+  },
+  {
+    "event_id": "AE-1998-MWF-DV-Push",
+    "event_date": "1998-06",
+    "event_type": "法案推動",
+    "title": "現代婦女基金會 推動家庭暴力防治法立法(亞洲首部)",
+    "stakeholder_id": "SH-ModernWomen",
+    "stakeholder_name": "現代婦女基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-05"
+    ],
+    "position_summary": "結合鄧如雯殺夫案社會迴響,推動家暴法立法",
+    "source_url": "https://www.38.org.tw/",
+    "outcome_intent": "促成 1998-06-24 家暴法三讀,亞洲首部家暴專法"
+  },
+  {
+    "event_id": "AE-2002-EmploymentEqAct",
+    "event_date": "2002-01-16",
+    "event_type": "法案推動",
+    "title": "兩性工作平等法 立法院三讀(婦女新知主導 16 年推動)",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-01",
+      "PI-02",
+      "PI-03"
+    ],
+    "position_summary": "婦女新知 1986 倡議 → 16 年後三讀,設置性別工作平等委員會、育嬰留停、生理假",
+    "source_url": "https://www.awakening.org.tw/",
+    "outcome_intent": "台灣首部性別工作平等法,2008 改名性別工作平等法"
+  },
+  {
+    "event_id": "AE-2004-GenderEqEduAct",
+    "event_date": "2004-06-23",
+    "event_type": "法案推動",
+    "title": "性別平等教育法 立法院三讀(葉永鋕案 + 婦運推動)",
+    "stakeholder_id": "SH-Garden",
+    "stakeholder_name": "勵馨基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-07"
+    ],
+    "position_summary": "葉永鋕(2000 年遭學校被毆致死)案 + 婦女新知 / 勵馨推動",
+    "source_url": "",
+    "outcome_intent": "校園性平調查、課程、人事任用標準"
+  },
+  {
+    "event_id": "AE-2007-MOHW-DVStat",
+    "event_date": "2007",
+    "event_type": "政策建議書",
+    "title": "衛福部保護服務司 家暴通報統計建制",
+    "stakeholder_id": "SH-MOHW-PSD",
+    "stakeholder_name": "衛福部保護服務司",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-05"
+    ],
+    "position_summary": "建立 113 通報、保護令、致死案件分流系統",
+    "source_url": "https://dep.mohw.gov.tw/dops/",
+    "outcome_intent": "長期追蹤資料來源,2024 年通報達 17.9 萬件"
+  },
+  {
+    "event_id": "AE-2007-DV-Amendment",
+    "event_date": "2007-03-28",
+    "event_type": "法案推動",
+    "title": "家暴法 2007 大修(納入精神虐待 / 跟蹤騷擾雛形)",
+    "stakeholder_id": "SH-ModernWomen",
+    "stakeholder_name": "現代婦女基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-05"
+    ],
+    "position_summary": "現代婦女 + 婦女新知 + 勵馨聯署,加入精神暴力、聲明保護令",
+    "source_url": "",
+    "outcome_intent": "家暴定義從身體擴及精神、經濟、性、跟蹤騷擾"
+  },
+  {
+    "event_id": "AE-2007-GHRA-Founded",
+    "event_date": "2007-09",
+    "event_type": "記者會",
+    "title": "台灣性別人權協會 GHRA 成立",
+    "stakeholder_id": "SH-GHRA",
+    "stakeholder_name": "台灣性別人權協會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "從台灣同志諮詢熱線分支獨立,專注法律倡議",
+    "source_url": "https://gsrat.net/",
+    "outcome_intent": "推動性別認定法、跨性別免術換證"
+  },
+  {
+    "event_id": "AE-2009-SexHarassmentAct",
+    "event_date": "2009-01-13",
+    "event_type": "法案推動",
+    "title": "性騷擾防治法 修正(納入工作場所以外 — 大眾運輸 / 公共場所)",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-07"
+    ],
+    "position_summary": "婦女新知 + 現代婦女推動,擴張性騷擾防治範圍",
+    "source_url": "",
+    "outcome_intent": "建立性騷擾申訴管道"
+  },
+  {
+    "event_id": "AE-2009-AwakeningCEDAW1",
+    "event_date": "2009-03",
+    "event_type": "影子報告提交",
+    "title": "婦女新知 第 1 次 CEDAW 民間影子報告",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-22"
+    ],
+    "position_summary": "主張將 LGBTI 議題納入 CEDAW 詮釋",
+    "source_url": null,
+    "outcome_intent": "推動國際委員會將 LGBTI 列入 CO"
+  },
+  {
+    "event_id": "AE-2009-CW-Founded",
+    "event_date": "2009-12",
+    "event_type": "記者會",
+    "title": "Covenants Watch 人權公約施行監督聯盟 成立",
+    "stakeholder_id": "SH-CovenantsWatch",
+    "stakeholder_name": "人權公約施行監督聯盟 (Covenants Watch)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "跨議題"
+    ],
+    "position_summary": "兩公約施行法通過後,集合 50+ NGO 成立監督聯盟",
+    "source_url": "https://covenants-watch.tw/",
+    "outcome_intent": "建立兩公約 / CEDAW / CRC / CRPD 平行報告整合機制"
+  },
+  {
+    "event_id": "AE-2010-GR28",
+    "event_date": "2010-12",
+    "event_type": "GR 通過",
+    "title": "CEDAW 委員會通過 GR-28 一般性建議(§5 區分 sex 與 gender)",
+    "stakeholder_id": "SH-CEDAWCommittee",
+    "stakeholder_name": "UN CEDAW 委員會",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "區分 sex(生理)與 gender(社會建構)",
+    "source_url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CEDAW/C/GC/28",
+    "outcome_intent": "為後續 SOGIESC 詮釋擴張開門"
+  },
+  {
+    "event_id": "AE-2013-MarriageEqualityFirstReading",
+    "event_date": "2013-10",
+    "event_type": "法案推動",
+    "title": "伴侶盟 民法修正草案(同婚)立法院一讀",
+    "stakeholder_id": "SH-TAPCPR",
+    "stakeholder_name": "台灣伴侶權益推動聯盟",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-27"
+    ],
+    "position_summary": "推動同婚合法化(2013 首次進入立法院議程)",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2014-AwakeningCEDAW2",
+    "event_date": "2014-06",
+    "event_type": "影子報告提交",
+    "title": "婦女新知 第 2 次 CEDAW 民間影子報告",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-22"
+    ],
+    "position_summary": "主張 LBTI 婦女應為 CEDAW 保護對象",
+    "source_url": null,
+    "outcome_intent": "擴張保護對象"
+  },
+  {
+    "event_id": "AE-2014-HotlineCEDAW2",
+    "event_date": "2014-06",
+    "event_type": "影子報告提交",
+    "title": "同志諮詢熱線 第 2 次 CEDAW 平行報告",
+    "stakeholder_id": "SH-Hotline",
+    "stakeholder_name": "台灣同志諮詢熱線協會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "同志議題納入 CEDAW 評估",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2014-MWF-CEDAW2",
+    "event_date": "2014-06",
+    "event_type": "影子報告提交",
+    "title": "現代婦女基金會 第 2 次 CEDAW 平行報告(家暴段落)",
+    "stakeholder_id": "SH-ModernWomen",
+    "stakeholder_name": "現代婦女基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-05"
+    ],
+    "position_summary": "透過 Covenants Watch 聯署提交,聚焦家暴致死案件統計、保護令違反",
+    "source_url": "",
+    "outcome_intent": "促使 CO §32-35 家暴防治建議"
+  },
+  {
+    "event_id": "AE-2014-CW-CEDAW2",
+    "event_date": "2014-06",
+    "event_type": "影子報告提交",
+    "title": "Covenants Watch 第 2 次 CEDAW 平行報告整合(集合 16 NGO)",
+    "stakeholder_id": "SH-CovenantsWatch",
+    "stakeholder_name": "人權公約施行監督聯盟 (Covenants Watch)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "跨議題"
+    ],
+    "position_summary": "整合婦女新知、現代婦女、TWRF、勵馨等 16 NGO 平行報告",
+    "source_url": "https://covenants-watch.tw/",
+    "outcome_intent": "促使 CO 35 段中 12 段直接引用 NGO 訴求"
+  },
+  {
+    "event_id": "AE-2014-CEDAW2-CO63",
+    "event_date": "2014-06-26",
+    "event_type": "CO 段落要求",
+    "title": "第 2 次 CEDAW CO §63 列舉 LBTI(首次)",
+    "stakeholder_id": "SH-CEDAWCommittee",
+    "stakeholder_name": "UN CEDAW 委員會",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "國際委員會回應擴張派倡議,首次列舉 lesbians, bisexuals, transsexuals and intersex persons (LBTI)",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2014-WoLF-USCEDAW",
+    "event_date": "2014-09",
+    "event_type": "影子報告提交",
+    "title": "WoLF (US) 提交 UN CEDAW 第 7-9 次美國平行報告",
+    "stakeholder_id": "SH-WoLF-US",
+    "stakeholder_name": "WoLF (Women's Liberation Front)",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "主張 sex-based rights,反對 SOGIESC 進入 CEDAW",
+    "source_url": "https://www.womensliberationfront.org/",
+    "outcome_intent": "催生 WHRC Declaration 之美國分支"
+  },
+  {
+    "event_id": "AE-2014-FamilyAlliance",
+    "event_date": "2014-11-30",
+    "event_type": "記者會",
+    "title": "全民護家盟 凱道大遊行",
+    "stakeholder_id": "SH-FamilyAlliance",
+    "stakeholder_name": "全民護家盟",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "反對同婚與多元性別教育",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2014-PaternityLeave",
+    "event_date": "2014-12-11",
+    "event_type": "法案推動",
+    "title": "父親育嬰留停 8 週(性平工作法 §16 修正)",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-02"
+    ],
+    "position_summary": "推動配偶分享育嬰假,平衡媽媽懲罰",
+    "source_url": "",
+    "outcome_intent": "父親育嬰留停申請 2015 年 5.6% → 2024 年 24%"
+  },
+  {
+    "event_id": "AE-2015-Intersex-Surgery",
+    "event_date": "2015-10",
+    "event_type": "政策建議書",
+    "title": "性別不明關懷協會 雙性人嬰兒手術延遲倡議",
+    "stakeholder_id": "SH-IntersexUnknown",
+    "stakeholder_name": "台灣性別不明關懷協會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-26"
+    ],
+    "position_summary": "反對為「性別正常化」對雙性人嬰兒進行非必要手術",
+    "source_url": "https://www.istaiwan.org/",
+    "outcome_intent": "推動衛福部訂定雙性人醫療指引"
+  },
+  {
+    "event_id": "AE-2015-MWF-FemicideStat",
+    "event_date": "2015-11-25",
+    "event_type": "記者會",
+    "title": "現代婦女基金會 親密關係致死案件統計呼籲(11/25 反性別暴力日)",
+    "stakeholder_id": "SH-ModernWomen",
+    "stakeholder_name": "現代婦女基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-05"
+    ],
+    "position_summary": "揭露衛福部不公開親密暴力致死案件,WHO 估每年 100+ 件",
+    "source_url": "https://www.38.org.tw/",
+    "outcome_intent": "推動femicide 立法、致死數據透明化"
+  },
+  {
+    "event_id": "AE-2017-MOL-EmploymentEqRevise",
+    "event_date": "2017",
+    "event_type": "政策建議書",
+    "title": "勞動部 性別工作平等法施行細則修正(納入「性別認同」歧視)",
+    "stakeholder_id": "SH-MOL",
+    "stakeholder_name": "勞動部 (MOL)",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-22",
+      "PI-21"
+    ],
+    "position_summary": "勞動部解釋令將「性別認同」納入性別歧視保護",
+    "source_url": "",
+    "outcome_intent": "推動跨性別勞工保護"
+  },
+  {
+    "event_id": "AE-2017-GEPolicyRevision",
+    "event_date": "2017-01",
+    "event_type": "政策建議書",
+    "title": "婦女新知等 共同推動性平綱領納入多元性別章節",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-22"
+    ],
+    "position_summary": "推動性平綱領加入多元性別議題章節",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2017-GEC-GEPolicyV4",
+    "event_date": "2017-01-03",
+    "event_type": "政策建議書",
+    "title": "行政院性平處 性別平等政策綱領 v4 發布",
+    "stakeholder_id": "SH-GEC",
+    "stakeholder_name": "行政院性別平等處",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-22"
+    ],
+    "position_summary": "SOGIESC 用語占婦女相關用語 8.1%(本平台 Wave 19 解析)",
+    "source_url": "https://gec.ey.gov.tw/",
+    "outcome_intent": "本平台軸四關鍵證據:詮釋擴張的具體文件"
+  },
+  {
+    "event_id": "AE-2017-SexEdRevision",
+    "event_date": "2017-05",
+    "event_type": "記者會",
+    "title": "性別平等教育課綱十二年國教納入多元性別(婦女新知 + 熱線)",
+    "stakeholder_id": "SH-Hotline",
+    "stakeholder_name": "台灣同志諮詢熱線協會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-07",
+      "PI-21"
+    ],
+    "position_summary": "推動 SOGIESC 議題進入十二年國教性平教育",
+    "source_url": "",
+    "outcome_intent": "推動跨性別、多元家庭課程"
+  },
+  {
+    "event_id": "AE-2017-J748Ruling",
+    "event_date": "2017-05-24",
+    "event_type": "CO 段落要求",
+    "title": "司法院釋字第 748 號公布:同性婚姻違憲",
+    "stakeholder_id": "SH-TAPCPR",
+    "stakeholder_name": "台灣伴侶權益推動聯盟",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-27"
+    ],
+    "position_summary": "釋憲要求 2 年內修法給予同性婚姻法律地位",
+    "source_url": "https://cons.judicial.gov.tw/docdata.aspx?fid=4&id=308779",
+    "outcome_intent": "為同婚專法立基"
+  },
+  {
+    "event_id": "AE-2018-AABE-SexEd",
+    "event_date": "2018",
+    "event_type": "政策建議書",
+    "title": "AABE 國教盟 反對性平教育課綱多元性別內容",
+    "stakeholder_id": "SH-AABE",
+    "stakeholder_name": "國教行動聯盟",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-22"
+    ],
+    "position_summary": "健康教育主軸,反對性別運動主導性平教育",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2018-Garden-MaternalHealth",
+    "event_date": "2018-04",
+    "event_type": "政策建議書",
+    "title": "勵馨基金會 + 多 NGO 孕產婦死亡率倒退報告",
+    "stakeholder_id": "SH-Garden",
+    "stakeholder_name": "勵馨基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-10",
+      "PI-11"
+    ],
+    "position_summary": "指出台灣孕產婦死亡率自 2014-2024 倒退 +211%",
+    "source_url": "",
+    "outcome_intent": "推動孕產婦健康政策檢討"
+  },
+  {
+    "event_id": "AE-2018-CEDAW3-multi",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交",
+    "title": "多 NGO 第 3 次 CEDAW 民間平行報告(共 11 NGO)",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-22"
+    ],
+    "position_summary": "聯合主張 LBTI 婦女多重歧視應納入",
+    "source_url": "https://covenantswatch.org.tw/wp-content/uploads/2015/12/2018_CEDAW_Shadow_Report_EN.pdf",
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2018-TWRF-CEDAW3",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交",
+    "title": "TWRF 第 3 次 CEDAW 平行報告(數位性別暴力章節)",
+    "stakeholder_id": "SH-TWRF",
+    "stakeholder_name": "婦女救援基金會 (TWRF)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-08"
+    ],
+    "position_summary": "首次將數位性別暴力(DSGBV)納入 CEDAW 平行報告",
+    "source_url": "",
+    "outcome_intent": "促使 CO §38 跟蹤騷擾建議"
+  },
+  {
+    "event_id": "AE-2018-CW-CEDAW3",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交",
+    "title": "Covenants Watch 第 3 次 CEDAW 平行報告(11 NGO)",
+    "stakeholder_id": "SH-CovenantsWatch",
+    "stakeholder_name": "人權公約施行監督聯盟 (Covenants Watch)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "跨議題"
+    ],
+    "position_summary": "聚焦交織歧視、原民/新住民/身障女性、勞動性別",
+    "source_url": "https://covenants-watch.tw/",
+    "outcome_intent": "促使 CO §62-63 交織歧視重點建議"
+  },
+  {
+    "event_id": "AE-2018-Garden-CEDAW3",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交",
+    "title": "勵馨基金會 第 3 次 CEDAW 平行報告(性侵章)",
+    "stakeholder_id": "SH-Garden",
+    "stakeholder_name": "勵馨基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-07",
+      "PI-08"
+    ],
+    "position_summary": "聚焦熟識性侵案件處理、檢察官態度、被害人創傷支持",
+    "source_url": "",
+    "outcome_intent": "促使 CO §34-35 性侵被害人支持系統建議"
+  },
+  {
+    "event_id": "AE-2018-Hotline-CEDAW3",
+    "event_date": "2018-07",
+    "event_type": "影子報告提交",
+    "title": "同志諮詢熱線 第 3 次 CEDAW 平行報告",
+    "stakeholder_id": "SH-Hotline",
+    "stakeholder_name": "台灣同志諮詢熱線協會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "聚焦同性婚姻、家暴法保障、LBTI 弱勢交織",
+    "source_url": "https://hotline.org.tw/",
+    "outcome_intent": "促使 CO §172/§224 LBTI 列入"
+  },
+  {
+    "event_id": "AE-2018-CEDAW3-CO172",
+    "event_date": "2018-07-20",
+    "event_type": "CO 段落要求",
+    "title": "第 3 次 CEDAW CO §172/§224/§306 將 LBTI 列為弱勢交織分組",
+    "stakeholder_id": "SH-CEDAWCommittee",
+    "stakeholder_name": "UN CEDAW 委員會",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "國際委員會將 LBTI 並列原民/障別/移民/年長 為弱勢交織分組,但縮減為 6.8%",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2018-MOL-PartTimeReport",
+    "event_date": "2018-08",
+    "event_type": "政策建議書",
+    "title": "勞動部 部分工時勞工權益保障報告",
+    "stakeholder_id": "SH-MOL",
+    "stakeholder_name": "勞動部 (MOL)",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-04"
+    ],
+    "position_summary": "台灣部分工時勞工 70% 為女性,薪資 / 福利 / 升遷劣勢",
+    "source_url": "https://www.mol.gov.tw/",
+    "outcome_intent": "推動部分工時勞工權益保障辦法"
+  },
+  {
+    "event_id": "AE-2018-ModernWomen-GlassCeiling",
+    "event_date": "2018-09",
+    "event_type": "政策建議書",
+    "title": "現代婦女基金會 上市櫃女董調查發布(2018 僅 11.6%)",
+    "stakeholder_id": "SH-ModernWomen",
+    "stakeholder_name": "現代婦女基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-03"
+    ],
+    "position_summary": "聚焦上市櫃公司女性董事比例、政務官、CEO 玻璃天花板",
+    "source_url": "https://www.38.org.tw/",
+    "outcome_intent": "推動「公司治理 3.0」女性董事 1/3 目標"
+  },
+  {
+    "event_id": "AE-2018-CIP-IndigenousWomen",
+    "event_date": "2018-11",
+    "event_type": "政策建議書",
+    "title": "原住民族委員會 原住民婦女狀況調查報告",
+    "stakeholder_id": "SH-CIP",
+    "stakeholder_name": "原住民族委員會",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-15"
+    ],
+    "position_summary": "原住民女性就業 / 教育 / 健康全面落後一般女性",
+    "source_url": "https://www.cip.gov.tw/",
+    "outcome_intent": "推動原住民女性參與率 / 部落保留地政策"
+  },
+  {
+    "event_id": "AE-2018-ReferendumDefeat",
+    "event_date": "2018-11-24",
+    "event_type": "法案推動",
+    "title": "2018 公投第 14 案(同婚以民法保障)否決",
+    "stakeholder_id": "SH-FamilyAlliance",
+    "stakeholder_name": "全民護家盟",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21",
+      "PI-27"
+    ],
+    "position_summary": "反同婚陣營主導之公投否決民法同婚,但通過第 12 案專法保障",
+    "source_url": null,
+    "outcome_intent": "迫使立法走專法路線"
+  },
+  {
+    "event_id": "AE-2018-GHRA-TransIDDraft",
+    "event_date": "2018-12",
+    "event_type": "法案推動",
+    "title": "GHRA 性別認定法草案 立法院公聽會",
+    "stakeholder_id": "SH-GHRA",
+    "stakeholder_name": "台灣性別人權協會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "推動以「自我宣告」取代手術換證之性別變更程序",
+    "source_url": "",
+    "outcome_intent": "推動性別認定法立法"
+  },
+  {
+    "event_id": "AE-2019-WHRCDeclaration",
+    "event_date": "2019-03-08",
+    "event_type": "政策建議書",
+    "title": "WHRC Declaration on Women's Sex-Based Rights 全球連署啟動",
+    "stakeholder_id": "SH-WHRC",
+    "stakeholder_name": "WHRC 婦女人權運動(國際)",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21",
+      "PI-22",
+      "PI-23",
+      "PI-24",
+      "PI-25",
+      "PI-26",
+      "PI-27"
+    ],
+    "position_summary": "sex-based rights 國際立場聲明,9 條對應 CEDAW + 婦女空間 + 體育 + 兒童醫療",
+    "source_url": "https://womensdeclaration.com/en/declaration-womens-sex-based-rights-full-text/",
+    "outcome_intent": "建立全球 sex-based rights 國際陣線"
+  },
+  {
+    "event_id": "AE-2019-748Act",
+    "event_date": "2019-05-24",
+    "event_type": "法案推動",
+    "title": "司法院釋字 748 號施行法 立法院三讀通過",
+    "stakeholder_id": "SH-TAPCPR",
+    "stakeholder_name": "台灣伴侶權益推動聯盟",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-23",
+      "PI-27"
+    ],
+    "position_summary": "同婚合法化,改變家庭定義範圍",
+    "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008",
+    "outcome_intent": "同性婚姻法律承認"
+  },
+  {
+    "event_id": "AE-2019-LGBA-Founded",
+    "event_date": "2019-10",
+    "event_type": "記者會",
+    "title": "LGB Alliance (UK) 成立 — 同志運動分裂",
+    "stakeholder_id": "SH-LGB-Alliance",
+    "stakeholder_name": "LGB Alliance (UK)",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "英國同志運動內部分裂,主張 LGB 議程不應與 T+ 合流",
+    "source_url": "https://lgballiance.org.uk/",
+    "outcome_intent": "影響全球同志運動分化,本平台引為國際反擴張先例"
+  },
+  {
+    "event_id": "AE-2020-MOI-NewImmigrantWomen",
+    "event_date": "2020-06",
+    "event_type": "政策建議書",
+    "title": "內政部 + 婦女救援 新住民配偶國籍法保障",
+    "stakeholder_id": "SH-MOI",
+    "stakeholder_name": "內政部",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-16"
+    ],
+    "position_summary": "推動新住民女性受家暴後不必依賴配偶才能歸化",
+    "source_url": "https://www.moi.gov.tw/",
+    "outcome_intent": "國籍法第 4 條修正放寬"
+  },
+  {
+    "event_id": "AE-2020-TWRF-DSGBVReport",
+    "event_date": "2020-11-25",
+    "event_type": "政策建議書",
+    "title": "TWRF 數位性別暴力研究報告發布(11/25 反性別暴力日)",
+    "stakeholder_id": "SH-TWRF",
+    "stakeholder_name": "婦女救援基金會 (TWRF)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-08"
+    ],
+    "position_summary": "台灣首份系統性 DSGBV 調查,問卷 8000+,女性受害佔 62%",
+    "source_url": "https://www.twrf.org.tw/",
+    "outcome_intent": "推動性影像私密外流刑罰、平台下架責任"
+  },
+  {
+    "event_id": "AE-2021-SexMatters-Founded",
+    "event_date": "2021",
+    "event_type": "記者會",
+    "title": "Sex Matters (UK) 成立",
+    "stakeholder_id": "SH-SexMatters",
+    "stakeholder_name": "Sex Matters (UK)",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21",
+      "PI-25"
+    ],
+    "position_summary": "Maya Forstater 等學者創辦,提供 sex-based rights 法律支援",
+    "source_url": "https://sex-matters.org/",
+    "outcome_intent": "英國 GRA 改革政策抗辯主力"
+  },
+  {
+    "event_id": "AE-2022-Awakening-EqualPayDay",
+    "event_date": "2022-02-25",
+    "event_type": "記者會",
+    "title": "婦女新知 同酬日記者會(台灣女性需多工作 56 天)",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-01"
+    ],
+    "position_summary": "計算 GPG = 14.8% 對應每年 56 天「白工日」",
+    "source_url": "https://www.awakening.org.tw/",
+    "outcome_intent": "推動產業性別隔離分析、立法平權追蹤"
+  },
+  {
+    "event_id": "AE-2022-AwakeningCEDAW4",
+    "event_date": "2022-04",
+    "event_type": "影子報告提交",
+    "title": "婦女新知 第 4 次 CEDAW 民間影子報告",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-22"
+    ],
+    "position_summary": "繼續主張多元性別納入 CEDAW",
+    "source_url": "https://covenantswatch.org.tw/wp-content/uploads/2015/12/20220531_CW_2022_CEDAW-PR_TC_rev.1.pdf",
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2022-CRC-IndigenousWomen",
+    "event_date": "2022-04",
+    "event_type": "影子報告提交",
+    "title": "原住民族青年陣線 + 多原民團體 第 4 次 CEDAW 平行報告原住民篇",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-15"
+    ],
+    "position_summary": "CEDAW 第 4 次審查,首次納入原住民婦女章",
+    "source_url": "",
+    "outcome_intent": "促使 CO §54-55 原住民婦女建議"
+  },
+  {
+    "event_id": "AE-2022-LGBTQFamily-IVF",
+    "event_date": "2022-06",
+    "event_type": "法案推動",
+    "title": "台灣同志家庭權益促進會 同志/單身女性人工生殖法草案",
+    "stakeholder_id": "SH-LGBTQFamily",
+    "stakeholder_name": "台灣同志家庭權益促進會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-10",
+      "PI-11",
+      "PI-21"
+    ],
+    "position_summary": "推動人工生殖法擴及單身女性、女女伴侶",
+    "source_url": "",
+    "outcome_intent": "尚未三讀,2026 持續審議"
+  },
+  {
+    "event_id": "AE-2022-MOJ-StalkingAct",
+    "event_date": "2022-06-01",
+    "event_type": "法案推動",
+    "title": "跟蹤騷擾防制法 上路(各 NGO 8 年推動)",
+    "stakeholder_id": "SH-MOJ",
+    "stakeholder_name": "法務部",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-05",
+      "PI-08"
+    ],
+    "position_summary": "從 TWRF 2018 平行報告倡議起,8 年立法",
+    "source_url": "",
+    "outcome_intent": "台灣首部跟蹤騷擾專法,警察可直接介入"
+  },
+  {
+    "event_id": "AE-2022-Hotline-CEDAW4",
+    "event_date": "2022-11",
+    "event_type": "影子報告提交",
+    "title": "同志諮詢熱線 第 4 次 CEDAW 平行報告",
+    "stakeholder_id": "SH-Hotline",
+    "stakeholder_name": "台灣同志諮詢熱線協會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-23"
+    ],
+    "position_summary": "繼續推動 SOGIESC 入 CEDAW 詮釋",
+    "source_url": "",
+    "outcome_intent": "促使 CO §78-79 同性婚姻歧視"
+  },
+  {
+    "event_id": "AE-2022-AwakeningCEDAW4-actual",
+    "event_date": "2022-11-29",
+    "event_type": "影子報告提交",
+    "title": "婦女新知 第 4 次 CEDAW 國際審查提交文件(實際內容)",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-01",
+      "PI-02",
+      "PI-05",
+      "PI-16"
+    ],
+    "position_summary": "實際聚焦於疫情女性失業 / 家暴(尤其新住民)/ 贍養費 / 婦女保障名額,**未涉性別認同/跨性別/LGBTI 議題**",
+    "source_url": "https://www.awakening.org.tw/news/5833",
+    "outcome_intent": "推動婦女實質權益修法"
+  },
+  {
+    "event_id": "AE-2022-TWRF-CEDAW4",
+    "event_date": "2022-11-29",
+    "event_type": "影子報告提交",
+    "title": "TWRF 第 4 次 CEDAW 平行報告 DSGBV 章",
+    "stakeholder_id": "SH-TWRF",
+    "stakeholder_name": "婦女救援基金會 (TWRF)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-08",
+      "PI-07"
+    ],
+    "position_summary": "聚焦疫情期間數位性暴力激增、平台責任、跨境執法",
+    "source_url": "",
+    "outcome_intent": "促使 CO §32-33 數位性別暴力具體建議"
+  },
+  {
+    "event_id": "AE-2022-CW-CEDAW4",
+    "event_date": "2022-11-29",
+    "event_type": "影子報告提交",
+    "title": "Covenants Watch 第 4 次 CEDAW 平行報告整合",
+    "stakeholder_id": "SH-CovenantsWatch",
+    "stakeholder_name": "人權公約施行監督聯盟 (Covenants Watch)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "跨議題"
+    ],
+    "position_summary": "108 頁中英對照,16 章涵蓋全面",
+    "source_url": "https://covenants-watch.tw/",
+    "outcome_intent": "促使 CO §78-79 同性婚姻歧視建議、§32-33 DSGBV"
+  },
+  {
+    "event_id": "AE-2022-CEDAW4-CO78",
+    "event_date": "2022-12-02",
+    "event_type": "CO 段落要求",
+    "title": "第 4 次 CEDAW CO §78-79 聚焦同性婚姻歧視",
+    "stakeholder_id": "SH-CEDAWCommittee",
+    "stakeholder_name": "UN CEDAW 委員會",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "國際委員會聚焦 2019 同婚法後遺,SOGIESC 比例反而下降至 5.8%",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2023-PrivateImageLaw",
+    "event_date": "2023-02-08",
+    "event_type": "法案推動",
+    "title": "性侵害犯罪防治法 私密影像條文(刑法 §319-1~§319-3 修正)",
+    "stakeholder_id": "SH-TWRF",
+    "stakeholder_name": "婦女救援基金會 (TWRF)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-08"
+    ],
+    "position_summary": "TWRF + 現代婦女 + 勵馨聯署推動",
+    "source_url": "",
+    "outcome_intent": "私密影像未經同意散布、製造可入罪"
+  },
+  {
+    "event_id": "AE-2023-MOHW-IPVProgram",
+    "event_date": "2023-04",
+    "event_type": "政策建議書",
+    "title": "衛福部 親密暴力被害人服務方案 v2",
+    "stakeholder_id": "SH-MOHW-PSD",
+    "stakeholder_name": "衛福部保護服務司",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-05"
+    ],
+    "position_summary": "加強跨網絡合作、男性加害人輔導",
+    "source_url": "https://dep.mohw.gov.tw/dops/",
+    "outcome_intent": "配合性平三法、跟蹤騷擾法上路"
+  },
+  {
+    "event_id": "AE-2023-Pengwanru-PublicChildcare",
+    "event_date": "2023-04",
+    "event_type": "政策建議書",
+    "title": "彭婉如基金會 公共保母系統擴張倡議",
+    "stakeholder_id": "SH-Pengwanru",
+    "stakeholder_name": "彭婉如文教基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-02",
+      "PI-04"
+    ],
+    "position_summary": "推動公共托育覆蓋率提高,降低女性育兒中斷",
+    "source_url": "https://www.pwr.org.tw/",
+    "outcome_intent": "0-2 歲公共托育覆蓋率 2024 約 27%,目標 2030 達 50%"
+  },
+  {
+    "event_id": "AE-2023-MeToo-Outbreak",
+    "event_date": "2023-05-31",
+    "event_type": "媒體投書",
+    "title": "台灣 MeToo 風暴爆發(聲量 2 個月達數百件)",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-07"
+    ],
+    "position_summary": "從政治圈、影視圈延燒至各行各業,800+ 案件公開",
+    "source_url": "",
+    "outcome_intent": "催生 2023-08 性平三法大修(性工法 / 性平法 / 性騷防)"
+  },
+  {
+    "event_id": "AE-2023-MWF-MeTooLegal",
+    "event_date": "2023-06",
+    "event_type": "法案推動",
+    "title": "現代婦女基金會 MeToo 法律扶助專案啟動",
+    "stakeholder_id": "SH-ModernWomen",
+    "stakeholder_name": "現代婦女基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-07"
+    ],
+    "position_summary": "針對 2023 MeToo 風暴提供受害人法律諮詢、訴訟支援",
+    "source_url": "https://www.38.org.tw/",
+    "outcome_intent": "催生性平三法大修(2023-08-16 三讀)"
+  },
+  {
+    "event_id": "AE-2023-LY-MeTooReform",
+    "event_date": "2023-08",
+    "event_type": "法案推動",
+    "title": "立法院司法委員會 性平三法大修 MeToo 修法協商",
+    "stakeholder_id": "SH-LY-Judiciary",
+    "stakeholder_name": "立法院司法及法制委員會",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-07"
+    ],
+    "position_summary": "跨黨派協商,DPP 主導、KMT/TPP 支持加重雇主責任",
+    "source_url": "",
+    "outcome_intent": "促成性平三法 2023-08-16 三讀"
+  },
+  {
+    "event_id": "AE-2023-FiLiA-CEDAWUK",
+    "event_date": "2023-09",
+    "event_type": "影子報告提交",
+    "title": "FiLiA (UK) 第 8 次 UK CEDAW 平行報告(反 self-ID)",
+    "stakeholder_id": "SH-FiLiA-UK",
+    "stakeholder_name": "FiLiA (UK)",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "反對 self-ID 進入 UK 婦女政策、保留 single-sex spaces",
+    "source_url": "https://filia.org.uk/",
+    "outcome_intent": "促使 UK 委員會 CO 段保留 sex-based 用語"
+  },
+  {
+    "event_id": "AE-2023-LYHearingExpand",
+    "event_date": "2023-10",
+    "event_type": "公聽會發言",
+    "title": "立法院公聽會: 性別工作平等法修法是否擴及自我認同性別",
+    "stakeholder_id": "SH-AABE",
+    "stakeholder_name": "國教行動聯盟",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-22"
+    ],
+    "position_summary": "AABE 等團體反對「自我認同性別」進入工作平等法保護對象",
+    "source_url": null,
+    "outcome_intent": "影響立法院修法方向"
+  },
+  {
+    "event_id": "AE-2024-GEPolicyV6",
+    "event_date": "2024",
+    "event_type": "政策建議書",
+    "title": "婦女新知等 推動性平綱領第 6 版進一步擴張",
+    "stakeholder_id": "SH-AwakeningFoundation",
+    "stakeholder_name": "婦女新知基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-22"
+    ],
+    "position_summary": "預估推動進一步納入跨性別議題",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2024-TAPCPRTransPlatform",
+    "event_date": "2024",
+    "event_type": "政策建議書",
+    "title": "伴侶盟 跨性別資訊平台 / Line 官方帳號上線",
+    "stakeholder_id": "SH-TAPCPR",
+    "stakeholder_name": "台灣伴侶權益推動聯盟",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-26"
+    ],
+    "position_summary": "為跨性別者提供醫療、法律、行政諮詢 Q&A 平台",
+    "source_url": "https://transgender.tapcpr.org/",
+    "outcome_intent": "為跨性別當事人法律諮詢"
+  },
+  {
+    "event_id": "AE-2024-WHRC-AnnualReport",
+    "event_date": "2024-03-08",
+    "event_type": "記者會",
+    "title": "WHRC International 全球年度報告 — sex-based rights 推進",
+    "stakeholder_id": "SH-WHRC-International",
+    "stakeholder_name": "WHRC International Steering Committee",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21"
+    ],
+    "position_summary": "全球 30+ 國家分會年度成果報告,簽署達 36000+",
+    "source_url": "https://www.womensdeclaration.com/",
+    "outcome_intent": "推動聯合國 UN Women 立場拉回 sex-based"
+  },
+  {
+    "event_id": "AE-2024-Homemakers-Coop",
+    "event_date": "2024-03-08",
+    "event_type": "記者會",
+    "title": "主婦聯盟生活消費合作社 三八婦女節聲明",
+    "stakeholder_id": "SH-Homemakers",
+    "stakeholder_name": "主婦聯盟環境保護基金會",
+    "stakeholder_position": "neutral",
+    "related_issues": [
+      "PI-04"
+    ],
+    "position_summary": "聚焦家庭主婦與部分工時勞工身份不被勞保涵蓋",
+    "source_url": "https://www.huf.org.tw/",
+    "outcome_intent": "推動勞動法保障家事服務員、家庭主婦的失業給付"
+  },
+  {
+    "event_id": "AE-2024-AABESexEdReform",
+    "event_date": "2024-04",
+    "event_type": "政策建議書",
+    "title": "AABE 國教盟 性教育課綱再校準公聽會發言",
+    "stakeholder_id": "SH-AABE",
+    "stakeholder_name": "國教行動聯盟",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-22"
+    ],
+    "position_summary": "主張性教育以健康教育為主軸,反對性別運動主導",
+    "source_url": null,
+    "outcome_intent": null
+  },
+  {
+    "event_id": "AE-2024-TransSurgeryFree",
+    "event_date": "2024-08",
+    "event_type": "訴訟",
+    "title": "台北高等行政法院判決:強制手術換證違反 CEDAW 與兩公約",
+    "stakeholder_id": "SH-TAPCPR",
+    "stakeholder_name": "台灣伴侶權益推動聯盟",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-23",
+      "PI-24",
+      "PI-25"
+    ],
+    "position_summary": "法院認定強制手術始可變更性別登記之要求違反 CEDAW + 兩公約意旨",
+    "source_url": null,
+    "outcome_intent": "推動免術換證制度化"
+  },
+  {
+    "event_id": "AE-2024-Garden-Sport",
+    "event_date": "2024-08",
+    "event_type": "政策建議書",
+    "title": "勵馨等 NGO 男女運動空間公平倡議",
+    "stakeholder_id": "SH-Garden",
+    "stakeholder_name": "勵馨基金會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-25"
+    ],
+    "position_summary": "巴黎奧運引發跨性別運動員爭議後,勵馨等聯署聲明保留女子組",
+    "source_url": "https://www.goh.org.tw/",
+    "outcome_intent": "推動運動賽事性別組別維持以生理性別為基礎"
+  },
+  {
+    "event_id": "AE-2024-GHRA-TransLitigation",
+    "event_date": "2024-08-16",
+    "event_type": "訴訟",
+    "title": "GHRA 跨性別免術換證 行政訴訟勝訴(台北高行)",
+    "stakeholder_id": "SH-GHRA",
+    "stakeholder_name": "台灣性別人權協會",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-23",
+      "PI-24"
+    ],
+    "position_summary": "台北高等行政法院 113 年判決:強制手術換證違反 CEDAW、兩公約",
+    "source_url": "",
+    "outcome_intent": "促使戶政司放寬性別變更程序"
+  },
+  {
+    "event_id": "AE-2024-MommiesGEPolicy",
+    "event_date": "2024-09",
+    "event_type": "政策建議書",
+    "title": "台灣全國媽媽護家護兒聯盟 對性平綱領第 6 版修訂意見書",
+    "stakeholder_id": "SH-MommiesCoalition",
+    "stakeholder_name": "台灣全國媽媽護家護兒聯盟",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-22",
+      "PI-21"
+    ],
+    "position_summary": "反對性平綱領擴張,主張回歸 CEDAW 16 條結構",
+    "source_url": null,
+    "outcome_intent": "阻擋性平綱領 v6 進一步擴張"
+  },
+  {
+    "event_id": "AE-2024-TransSite-PrisonAdmission",
+    "event_date": "2024-09",
+    "event_type": "政策建議書",
+    "title": "跨性別倡議站 法務部矯正署男性收容空間建議",
+    "stakeholder_id": "SH-TransAdvocacy",
+    "stakeholder_name": "跨性別倡議站",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-24"
+    ],
+    "position_summary": "建議跨性別女性應入女監,本平台反對",
+    "source_url": "",
+    "outcome_intent": "促使法務部研擬跨性別收容人空間政策"
+  },
+  {
+    "event_id": "AE-2024-GEC-GEPolicyV6",
+    "event_date": "2024-09",
+    "event_type": "政策建議書",
+    "title": "行政院性平處 性別平等政策綱領 v6 修訂",
+    "stakeholder_id": "SH-GEC",
+    "stakeholder_name": "行政院性別平等處",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-21",
+      "PI-22"
+    ],
+    "position_summary": "進一步擴張 SOGIESC 段落,本平台與護家護兒提交修訂意見書反對",
+    "source_url": "https://gec.ey.gov.tw/",
+    "outcome_intent": "草案中,徵詢中"
+  },
+  {
+    "event_id": "AE-2024-Kaohsiung-TFRStudy",
+    "event_date": "2024-09",
+    "event_type": "政策建議書",
+    "title": "高醫性別研究所 台灣 TFR 全球最低之政策剖析",
+    "stakeholder_id": "SH-Kaohsiung-WS",
+    "stakeholder_name": "高雄醫學大學性別研究所",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-11"
+    ],
+    "position_summary": "台灣 TFR 0.72(2024)為全球最低,結構性原因分析",
+    "source_url": "",
+    "outcome_intent": "推動托育 + 居住 + 工時三軸政策整合"
+  },
+  {
+    "event_id": "AE-2024-MOJ-PrisonGenderPolicy",
+    "event_date": "2024-09",
+    "event_type": "政策建議書",
+    "title": "法務部矯正署 跨性別收容人空間政策研擬",
+    "stakeholder_id": "SH-MOJ",
+    "stakeholder_name": "法務部",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-24"
+    ],
+    "position_summary": "GHRA + 跨性別倡議站推動跨女入女監;護家護兒反對",
+    "source_url": "https://www.mjac.moj.gov.tw/",
+    "outcome_intent": "尚未定案,2026 持續討論"
+  },
+  {
+    "event_id": "AE-2024-PlatformLiability",
+    "event_date": "2024-10",
+    "event_type": "政策建議書",
+    "title": "TWRF 平台業者下架責任倡議",
+    "stakeholder_id": "SH-TWRF",
+    "stakeholder_name": "婦女救援基金會 (TWRF)",
+    "stakeholder_position": "expand",
+    "related_issues": [
+      "PI-08"
+    ],
+    "position_summary": "推動 Meta / Google / Telegram 應於 24 小時內下架私密影像",
+    "source_url": "https://www.twrf.org.tw/",
+    "outcome_intent": "推動數位中介服務法立法"
+  },
+  {
+    "event_id": "AE-2024-Mommies-ShelterPosition",
+    "event_date": "2024-10",
+    "event_type": "政策建議書",
+    "title": "護家護兒聯盟 庇護所收容立場聲明",
+    "stakeholder_id": "SH-MommiesCoalition",
+    "stakeholder_name": "台灣全國媽媽護家護兒聯盟",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-23"
+    ],
+    "position_summary": "主張庇護所應保留生理女性專用,不應因性別認同入場",
+    "source_url": "",
+    "outcome_intent": "推動衛福部訂定庇護所性別空間指引"
+  },
+  {
+    "event_id": "AE-2024-LY-TransIDDebate",
+    "event_date": "2024-11",
+    "event_type": "公聽會發言",
+    "title": "立法院 性別認定法草案 跨黨派公聽會",
+    "stakeholder_id": "SH-LY-Judiciary",
+    "stakeholder_name": "立法院司法及法制委員會",
+    "stakeholder_position": "unclear",
+    "related_issues": [
+      "PI-21",
+      "PI-23",
+      "PI-24",
+      "PI-25"
+    ],
+    "position_summary": "DPP 多數支持自我宣告、KMT 多數要求保留醫療要件、TPP 立場分散",
+    "source_url": "",
+    "outcome_intent": "尚未三讀,2026 持續審議"
+  },
+  {
+    "event_id": "AE-2026-MommiesCEDAW",
+    "event_date": "2026-04",
+    "event_type": "影子報告提交",
+    "title": "台灣全國媽媽護家護兒聯盟 第 5 次 CEDAW 影子報告(本平台)",
+    "stakeholder_id": "SH-MommiesCoalition",
+    "stakeholder_name": "台灣全國媽媽護家護兒聯盟",
+    "stakeholder_position": "against_expand",
+    "related_issues": [
+      "PI-21",
+      "PI-22",
+      "PI-23",
+      "PI-24",
+      "PI-25",
+      "PI-26",
+      "PI-27"
+    ],
+    "position_summary": "反對 CEDAW 詮釋擴張,主張婦女實質權益優先",
+    "source_url": null,
+    "outcome_intent": "使國際委員會審視政府詮釋擴張"
+  }
+]

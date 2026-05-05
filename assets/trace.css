@@ -1,0 +1,152 @@
+/* 追溯鏈時間軸樣式(Wave 56)*/
+
+.meta { padding: 12px 0; margin-bottom: 16px; }
+.meta .badge {
+  display: inline-block;
+  background: var(--color-bg-soft);
+  padding: 4px 12px;
+  border-radius: 16px;
+  font-size: 14px;
+  margin-right: 8px;
+  border: 1px solid var(--color-border);
+}
+.meta .badge.axis4-high {
+  background: #FFEBEE;
+  color: #B71C1C;
+  border-color: #E57373;
+}
+
+ol.timeline {
+  list-style: none;
+  padding: 0;
+  margin: 24px 0;
+}
+ol.timeline > li {
+  border-left: 4px solid var(--color-border);
+  padding: 16px 16px 16px 24px;
+  margin-left: 16px;
+  margin-bottom: 16px;
+  position: relative;
+  background: white;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+ol.timeline > li::before {
+  content: '';
+  position: absolute;
+  left: -10px;
+  top: 20px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: white;
+  border: 4px solid currentColor;
+  border-left-color: inherit;
+}
+ol.timeline .t-date {
+  font-size: 13px;
+  color: #757575;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+ol.timeline .t-tag {
+  font-size: 14px;
+  color: #424242;
+  margin-bottom: 6px;
+}
+ol.timeline .t-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+ol.timeline .t-stake {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 4px;
+}
+ol.timeline .t-summary {
+  font-size: 13px;
+  color: #666;
+  background: #FAFAFA;
+  padding: 6px 10px;
+  border-radius: 4px;
+  margin: 6px 0;
+}
+ol.timeline .t-link {
+  font-size: 13px;
+  margin-top: 6px;
+}
+ol.timeline .t-change {
+  background: #FFF8E1;
+}
+ol.timeline .t-event {
+  background: #E3F2FD;
+}
+
+/* 結果評估 */
+.outcome {
+  background: white;
+  border-left: 6px solid var(--color-border);
+  padding: 16px 20px;
+  margin-bottom: 16px;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+.outcome h3 {
+  margin: 0 0 8px;
+  font-size: 18px;
+}
+.outcome p {
+  margin: 4px 0;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.outcome-policy {
+  color: #555;
+}
+.outcome-period {
+  color: #757575;
+  font-size: 13px;
+}
+.accountability {
+  background: #FFF3E0;
+  padding: 8px 12px;
+  border-radius: 4px;
+  margin-top: 8px;
+  border-left: 3px solid #F57C00;
+}
+
+/* CO 段落 */
+.co {
+  background: var(--color-bg-soft);
+  padding: 14px 18px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border-left: 4px solid var(--color-secondary);
+}
+.co h3 {
+  margin: 0 0 6px;
+  font-size: 16px;
+}
+.axis4-note {
+  background: #FFEBEE;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 13px;
+  color: #555;
+  margin-top: 6px;
+}
+
+/* 方法論說明區 */
+.methodology {
+  background: #F3E5F5;
+  padding: 20px 24px;
+  border-radius: 8px;
+  margin-top: 32px;
+  border-left: 4px solid var(--color-primary);
+}
+.methodology h2 { font-size: 18px; }
+.methodology ul li {
+  margin-bottom: 8px;
+}
